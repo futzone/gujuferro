@@ -11,7 +11,7 @@ Gujuferro orqali siz o‘zbek tilida chat botlarni **bepul** va **ochiq** yarati
 - **Sayt:** [gujuferro.uz](https://gujuferro.uz)
 - **Dokumentatsiya:** [docs.gujuferro.uz](https://docs.gujuferro.uz)
 - **Dashboard:** [app.gujuferro.uz](https://app.gujuferro.uz)
-- **Telegram bot:** [tm.e/gujuferrobot](https://tm.e/gujuferrobot)
+- **Telegram bot:** [t.me/gujuferrobot](https://tm.e/gujuferrobot)
 
 ---
 
