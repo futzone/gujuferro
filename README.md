@@ -4,6 +4,17 @@
 
 ---
 
+## 📢 Ochiq, Bepul, O‘zbek Tilida ChatBotlar Yaratish
+
+Gujuferro orqali siz o‘zbek tilida chat botlarni **bepul** va **ochiq** yaratishingiz mumkin.
+
+- **Sayt:** [gujuferro.uz](https://gujuferro.uz)
+- **Dokumentatsiya:** [docs.gujuferro.uz](https://docs.gujuferro.uz)
+- **Dashboard:** [app.gujuferro.uz](https://app.gujuferro.uz)
+- **Telegram bot:** [tm.e/gujuferrobot](https://tm.e/gujuferrobot)
+
+---
+
 ### ⚙️ Texnologiyalar
 
 - `Python`
@@ -122,4 +133,7 @@ while True:
     response = chatbot.get_response(msg)
     print("Gujuferro 🤖 ➤", response)
 ```
+
+
+
 
