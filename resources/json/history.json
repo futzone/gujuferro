@@ -1,0 +1,5155 @@
+[
+    {
+      "id": 1,
+      "input": "Qayerdan qadimiy suyaklarni topishim mumkin?",
+      "output": "Qadimiy suyaklar odatda arxeologik qazishmalar orqali qadimgi manzilgohlar, qabristonlar va g‘or joylardan topiladi."
+    },
+    {
+      "id": 2,
+      "input": "Tarixni o‘rganishning asosiy manbalari nima?",
+      "output": "Tarixni o‘rganishda yozma manbalar, arxeologik topilmalar, ashyoviy madaniyat va og‘zaki hikoyalar muhimdir."
+    },
+    {
+      "id": 3,
+      "input": "Qadimgi shaharlardan qaysilari hozirgacha saqlanib qolgan?",
+      "output": "Pompey (Italiya), Petra (Iordaniya), Bobil (Iroq) va Samarqand (O‘zbekiston) kabi qadimiy shaharlar tarixiy meros sifatida saqlanib qolgan."
+    },
+    {
+      "id": 4,
+      "input": "Dunyoning eng qadimiy tsivilizatsiyasi qaysi?",
+      "output": "Mesopotamiya tsivilizatsiyasi dunyoning eng qadimiy tsivilizatsiyalaridan biri hisoblanadi."
+    },
+    {
+      "id": 5,
+      "input": "Tarixiy obidalarni qanday saqlash mumkin?",
+      "output": "Tarixiy obidalarni himoya qilish uchun konservatsiya ishlari, restavratsiya va ularni sayyohlikdan himoyalash muhimdir."
+    },
+    {
+      "id": 6,
+      "input": "Qadimgi davrlardagi urushlar qanday ta'sir qilgan?",
+      "output": "Urushlar yangi hududlarni zabt etish, imperiyalarni qulash yoki yangi tsivilizatsiyalarning paydo bo‘lishiga olib kelgan."
+    },
+    {
+      "id": 7,
+      "input": "Tarixni o‘rganishda texnologiya qanday yordam beradi?",
+      "output": "Texnologiya orqali qadimiy yozuvlarni dekodlash, 3D modellash, qazishmalarning sun’iy intellekt yordamida tahlili amalga oshirilmoqda."
+    },
+    {
+      "id": 8,
+      "input": "Tarixdagi eng qadimiy yozuv qaysi tilda bo‘lgan?",
+      "output": "Eng qadimiy yozuvlar shumer tilida, Mesopotamiya hududidagi mixxat usulida yozilgan."
+    },
+    {
+      "id": 9,
+      "input": "Qadimiy odamlar qanday kiyimlar kiygan?",
+      "output": "Qadimiy odamlar hayvonlarning terisi, jun va o‘simliklardan tayyorlangan kiyimlarni kiygan."
+    },
+    {
+      "id": 10,
+      "input": "Tarixiy ashyolarni qanday o‘rganish mumkin?",
+      "output": "Tarixiy ashyolarni laboratoriyada tahlil qilish, ularni kimyoviy tarkibi va yoshini aniqlash orqali o‘rganish mumkin."
+    },
+    {
+      "id": 11,
+      "input": "Qadimgi dunyo bilan bog‘liq eng muhim arxeologik topilmalar qaysilar?",
+      "output": "Tutankhamon maqbarasi (Misr), Qadimgi Rim Kollizeyi, Xitoyning Terrakota armiyasi va Pompey qoldiqlari eng muhim topilmalardir."
+    },
+    {
+      "id": 12,
+      "input": "Tarixni o‘rganishning qanday foydali jihatlari bor?",
+      "output": "Tarixni o‘rganish insoniyatning xatolaridan saboq olish, madaniyatni tushunish va milliy o‘zlikni anglashga yordam beradi."
+    },
+    {
+      "id": 13,
+      "input": "Tarixiy hujjatlar qaysi sharoitlarda saqlanadi?",
+      "output": "Hujjatlar maxsus namlik va harorat nazorati ostida, arxiv yoki muzeylarda saqlanadi."
+    },
+    {
+      "id": 14,
+      "input": "Tarixiy faktlar va afsonalar qanday farqlanadi?",
+      "output": "Faktlar ilmiy dalillar bilan tasdiqlangan, afsonalar esa odatda og‘zaki hikoyalar yoki folklor elementlariga asoslangan."
+    },
+    {
+      "id": 15,
+      "input": "O‘zbekistonda qadimiy madaniyat qoldiqlari qayerda topilgan?",
+      "output": "Qadimgi madaniyat qoldiqlari Afrosiyob, Topraqqal’a, Ayazqal’a va Sho‘robota kabi joylardan topilgan."
+    },
+    {
+      "id": 16,
+      "input": "Tarixdagi eng katta imperiyalar qaysilar edi?",
+      "output": "Rim imperiyasi, Mo‘g‘ullar imperiyasi va Britaniya imperiyasi tarixdagi eng katta imperiyalardan biri hisoblanadi."
+    },
+    {
+      "id": 17,
+      "input": "Qadimgi xalqlar qanday yozuvlardan foydalangan?",
+      "output": "Shumer mixxati, Misr iyerogliflari, Xitoy ierogliflari va Hind vodiysi yozuvlari qadimgi yozuvlar sifatida ishlatilgan."
+    },
+    {
+      "id": 18,
+      "input": "O‘rta asrlar davrida ilm-fan qanday rivojlangan?",
+      "output": "O‘rta asrlar davrida ilm-fan musulmon olimlari tomonidan rivojlantirildi, ulardan Al-Xorazmiy, Ibn Sino va Al-Biruni mashhurdir."
+    },
+    {
+      "id": 19,
+      "input": "Qadimiy yodgorliklarni tadqiq qilishda qanday xavflar bor?",
+      "output": "Yodgorliklarni qazish vaqtida ularni shikastlash, tabiiy omillar ta'siri va noqonuniy qazish ishlari xavf tug‘diradi."
+    },
+    {
+      "id": 20,
+      "input": "Tarixga qiziqishni qanday oshirish mumkin?",
+      "output": "Tarixiy kitoblarni o‘qish, muzeylarga borish, hujjatli filmlarni tomosha qilish va tarixiy joylarni ziyorat qilish orqali qiziqishni oshirish mumkin."
+    },
+    {
+      "id": 21,
+      "input": "Misr piramidalarini qurish davri qachon boshlangan?",
+      "output": "Taxminan miloddan avvalgi 2600-yillarda, Eski Qirollik davrida."
+    },
+    {
+      "id": 22,
+      "input": "Rim imperiyasi necha yil davom etdi?",
+      "output": "Rim imperiyasi taxminan miloddan avvalgi 27-yildan 476-yilgacha davom etdi."
+    },
+    {
+      "id": 23,
+      "input": "Birinchi jahon urushi qaysi yillarda bo'lib o'tgan?",
+      "output": "1914–1918 yillar orasida."
+    },
+    {
+      "id": 24,
+      "input": "Buyuk ipak yo'li qaysi hududlarni bog'lagan?",
+      "output": "Xitoyni O'rta Osiyo, Yaqin Sharq va Yevropa bilan."
+    },
+    {
+      "id": 25,
+      "input": "Fransuz inqilobi qachon boshlangan?",
+      "output": "1789-yilning 14-iyulida."
+    },
+    {
+      "id": 26,
+      "input": "Chingizxonning haqiqiy ismi nima edi?",
+      "output": "Temuchin."
+    },
+    {
+      "id": 27,
+      "input": "Abulqosim Firdavsiy qaysi mashhur asarni yaratgan?",
+      "output": "\"Shohnoma\"."
+    },
+    {
+      "id": 28,
+      "input": "Buyuk Britaniyada \"Magna Carta\" qachon imzolangan?",
+      "output": "1215-yilda."
+    },
+    {
+      "id": 29,
+      "input": "Napoleon Bonapart qaysi jangda mag'lub bo'lgan?",
+      "output": "Vaterloo jangida, 1815-yilda."
+    },
+    {
+      "id": 30,
+      "input": "Qachon Amerika Qo'shma Shtatlari mustaqillik e'lon qilgan?",
+      "output": "1776-yil, 4-iyulda."
+    },
+    {
+      "id": 31,
+      "input": "Islom dinining paydo bo'lishi qachon sodir bo'lgan?",
+      "output": "Milodiy 610-yilda."
+    },
+    {
+      "id": 32,
+      "input": "O'zbekistonda Amir Temur imperiyasi qaysi yillarda hukmronlik qilgan?",
+      "output": "1370–1405 yillarda."
+    },
+    {
+      "id": 33,
+      "input": "Qachon Berlin devori qulatilgan?",
+      "output": "1989-yil, 9-noyabrda."
+    },
+    {
+      "id": 34,
+      "input": "Rim imperatori Yuliy Sezar qachon o'ldirilgan?",
+      "output": "Miloddan avvalgi 44-yilning 15-martida (\"Ides of March\")."
+    },
+    {
+      "id": 35,
+      "input": "O'rta asr Yevropasida \"Qora o'lat\" pandemiyasi qachon sodir bo'lgan?",
+      "output": "1347–1351 yillarda."
+    },
+    {
+      "id": 36,
+      "input": "Birinchi Olimp o'yinlari qayerda o'tkazilgan?",
+      "output": "Miloddan avvalgi 776-yilda, Yunonistonning Olimpiya shahrida."
+    },
+    {
+      "id": 37,
+      "input": "Qaysi mamlakatda Meiji islohoti boshlangan?",
+      "output": "Yaponiya, 1868-yilda."
+    },
+    {
+      "id": 38,
+      "input": "Ikkinchi jahon urushi qachon tugagan?",
+      "output": "1945-yil, 2-sentabrda."
+    },
+    {
+      "id": 39,
+      "input": "Mustaqillik Deklaratsiyasini kim yozgan?",
+      "output": "Tomas Jefferson, 1776-yilda."
+    },
+    {
+      "id": 40,
+      "input": "Aleksandr Makedonskiy qachon tug'ilgan?",
+      "output": "Miloddan avvalgi 356-yilda."
+    },
+    {
+      "id": 41,
+      "input": "Tang sulolasi davrida Xitoy qaysi jihatdan gullab-yashnagan?",
+      "output": "Savdo, san'at va ilm-fan sohalarida."
+    },
+    {
+      "id": 42,
+      "input": "Konstantinopol qachon Osmanlilar tomonidan bosib olingan?",
+      "output": "1453-yilda."
+    },
+    {
+      "id": 43,
+      "input": "Uyg'onish davri qaysi mamlakatda boshlangan?",
+      "output": "Italiyada, 14-asr oxirlarida."
+    },
+    {
+      "id": 44,
+      "input": "Hindistonning Buyuk Mo'g'ullar sulolasi asoschisi kim?",
+      "output": "Bobur."
+    },
+    {
+      "id": 45,
+      "input": "Qachon AQShning Konstitutsiyasi qabul qilingan?",
+      "output": "1787-yilda."
+    },
+    {
+      "id": 46,
+      "input": "Sovet Ittifoqi qachon parchalangan?",
+      "output": "1991-yil, 26-dekabrda."
+    },
+    {
+      "id": 47,
+      "input": "\"Mo'jizalar shahri\" qaysi qadimiy shahar nomi bilan atalgan?",
+      "output": "Bobil (Babilon)."
+    },
+    {
+      "id": 48,
+      "input": "Qadimgi Gretsiyada qaysi shahar-demokratiya mashhur bo'lgan?",
+      "output": "Afina."
+    },
+    {
+      "id": 49,
+      "input": "Koreya urushi qaysi yillarda bo'lib o'tgan?",
+      "output": "1950–1953 yillarda."
+    },
+    {
+      "id": 50,
+      "input": "\"Qadimgi dunyoning ettita mo'jizasi\" qaysilarni o'z ichiga oladi?",
+      "output": "Misr piramidalari, Halikarnas maqbarasi, Faros mayog'i va boshqalar."
+    },
+    {
+      "id": 51,
+      "input": "Qachon Hindiston Britaniya mustamlakasidan mustaqil bo'lgan?",
+      "output": "1947-yil, 15-avgustda."
+    },
+    {
+      "id": 52,
+      "input": "Mo'g'ullar Xitoyni qachon zabt etgan?",
+      "output": "1271-yilda Yuan sulolasini o'rnatish orqali."
+    },
+    {
+      "id": 53,
+      "input": "Amerika fuqarolar urushi qaysi yillarda bo'lib o'tgan?",
+      "output": "1861–1865 yillarda."
+    },
+    {
+      "id": 54,
+      "input": "Toshkent shahrining asos solingan yili qachon?",
+      "output": "Taxminan miloddan avvalgi 2-asr."
+    },
+    {
+      "id": 55,
+      "input": "Uchinchi xoch yurishi qachon bo'lgan?",
+      "output": "1189–1192 yillarda."
+    },
+    {
+      "id": 56,
+      "input": "Inklar imperiyasi qaysi hududlarni o'z ichiga olgan?",
+      "output": "Hozirgi Peru, Boliviya, Ekvador va boshqa Janubiy Amerika hududlari."
+    },
+    {
+      "id": 57,
+      "input": "Qachon Kolumb Amerikaga yetib kelgan?",
+      "output": "1492-yilda."
+    },
+    {
+      "id": 58,
+      "input": "Marko Polo qaysi mamlakatga safar qilgan?",
+      "output": "Xitoyga (Yuan imperiyasiga)."
+    },
+    {
+      "id": 59,
+      "input": "Qachon Rim shahrining qulashi sodir bo'lgan?",
+      "output": "476-yilda."
+    },
+    {
+      "id": 60,
+      "input": "Eron tarixida Ahamoniylar sulolasi qachon hukmronlik qilgan?",
+      "output": "Miloddan avvalgi 550–330 yillar orasida."
+    },
+    {
+      "id": 61,
+      "input": "Qaysi mamlakat Konfutsiy falsafasi bilan mashhur?",
+      "output": "Xitoy."
+    },
+    {
+      "id": 62,
+      "input": "\"Marshall rejasi\" nima edi?",
+      "output": "Ikkinchi jahon urushidan keyin Yevropani qayta tiklash dasturi."
+    },
+    {
+      "id": 63,
+      "input": "Qachon Gutenberg bosma matbaa kashf qilgan?",
+      "output": "Taxminan 1440-yillarda."
+    },
+    {
+      "id": 64,
+      "input": "Oltoy madaniyati qaysi davrga tegishli?",
+      "output": "Bronza davri (miloddan avvalgi 2–1-ming yilliklar)."
+    },
+    {
+      "id": 65,
+      "input": "Qadimgi Misrda Nil daryosi nima uchun muhim edi?",
+      "output": "Qishloq xo'jaligi va transport uchun asosiy manba bo'lgan."
+    },
+    {
+      "id": 66,
+      "input": "Qachon Yaponiya Pearl-Harbor hujumini amalga oshirgan?",
+      "output": "1941-yil, 7-dekabrda."
+    },
+    {
+      "id": 67,
+      "input": "Xitoy devori qurilishi qachon boshlangan?",
+      "output": "Miloddan avvalgi 7-asrdan."
+    },
+    {
+      "id": 68,
+      "input": "Evropada industrial inqilob qachon boshlandi?",
+      "output": "18-asr oxirlari va 19-asr boshlarida."
+    },
+    {
+      "id": 69,
+      "input": "Qaysi shahar Usmonli imperiyasining poytaxti bo'lgan?",
+      "output": "Istanbul (sobiq Konstantinopol)."
+    },
+    {
+      "id": 70,
+      "input": "Napoleon qaysi davlatni Rossiyada yengolmagan?",
+      "output": "Rossiya, 1812-yilda."
+    },
+    {
+      "id": 71,
+      "input": "G'arbiy Rim imperiyasi qulashi bilan qaysi davr boshlandi?",
+      "output": "O'rta asrlar."
+    },
+    {
+      "id": 72,
+      "input": "Qaysi davlatda Mayya tsivilizatsiyasi rivojlangan?",
+      "output": "Hozirgi Meksika va Markaziy Amerika hududlarida."
+    },
+    {
+      "id": 73,
+      "input": "Anshlus nima edi?",
+      "output": "Germaniyaning Avstriyani 1938-yilda qo'shib olishi."
+    },
+    {
+      "id": 74,
+      "input": "Qachon Venera de Milos haykali topilgan?",
+      "output": "1820-yilda."
+    },
+    {
+      "id": 75,
+      "input": "Afg'onistondagi \"Buyuk o'yin\" nima edi?",
+      "output": "Britaniya va Rossiya imperiyalari o'rtasidagi strategik raqobat."
+    },
+    {
+      "id": 76,
+      "input": "Qadimgi Mesopotamiya qaysi daryolar o'rtasida joylashgan edi?",
+      "output": "Tigr va Yevfrat daryolari orasida."
+    },
+    {
+      "id": 77,
+      "input": "Sovet Ittifoqining birinchi prezidenti kim edi?",
+      "output": "Mixail Gorbachyov."
+    },
+    {
+      "id": 78,
+      "input": "Qachon AQSh va SSSR o'rtasida Sovuq urush boshlandi?",
+      "output": "Taxminan 1947-yilda."
+    },
+    {
+      "id": 79,
+      "input": "Qadimgi Gretsiyada qaysi ilohiy o'yinlar mashhur bo'lgan?",
+      "output": "Olimp o'yinlari."
+    },
+    {
+      "id": 80,
+      "input": "Spartak boshchiligidagi qullar qo'zg'oloni qachon bo'lgan?",
+      "output": "Miloddan avvalgi 73–71-yillarda."
+    },
+    {
+      "id": 81,
+      "input": "Qachon Germaniya birlashgan davlatga aylangan?",
+      "output": "1871-yilda."
+    },
+    {
+      "id": 82,
+      "input": "Urush va Tinchlik\" romanining muallifi kim?",
+      "output": "Lev Tolstoy."
+    },
+    {
+      "id": 83,
+      "input": "Mog'ol imperiyasining eng keng tarqalgan davri qaysi hukmdor ostida bo'lgan?",
+      "output": "Akbar hukmronligi davrida (1556–1605)."
+    },
+    {
+      "id": 84,
+      "input": "Qadimgi Yunonistonning mashhur faylasufi Sokrat nima uchun qatl qilingan?",
+      "output": "Yoshlarni buzganlik va dinni tanqid qilganlikda ayblangan."
+    },
+    {
+      "id": 85,
+      "input": "Buyuk Britaniyada sanoat inqilobi nima bilan boshlandi?",
+      "output": "To'qimachilik sanoati rivoji bilan."
+    },
+    {
+      "id": 86,
+      "input": "\"Troya urushi\" afsonaviy voqealari qaysi asarda tasvirlangan?",
+      "output": "Gomerning \"Iliada\" asarida."
+    },
+    {
+      "id": 87,
+      "input": "Qachon Meksika Ispaniyadan mustaqil bo'lgan?",
+      "output": "1821-yilda."
+    },
+    {
+      "id": 88,
+      "input": "Buyuk geografik kashfiyotlar davrida kim Afrikani aylanib o'tgan birinchi yevropalik edi?",
+      "output": "Vasco da Gama."
+    },
+    {
+      "id": 89,
+      "input": "Kim yadro qurolini ishlab chiqqan loyiha boshlig'i bo'lgan?",
+      "output": "Robert Oppenheimer, Manhattan loyihasi doirasida."
+    },
+    {
+      "id": 90,
+      "input": "Kim Angliya cherkovini Rim-katolik cherkovidan ajratib olgan?",
+      "output": "Genrix VIII."
+    },
+    {
+      "id": 91,
+      "input": "Jomolungma (Everest) cho'qqisiga birinchi bo'lib kim chiqqan?",
+      "output": "Edmund Xillari va Tenzing Norgay, 1953-yilda."
+    },
+    {
+      "id": 92,
+      "input": "Rimdagi Kolizey qaysi imperator hukmronligida qurilgan?",
+      "output": "Vespasian hukmronligida boshlangan va Titus davrida tugatilgan."
+    },
+    {
+      "id": 93,
+      "input": "Kim Qora dengizni Rossiyaga qo'shib olishga erishgan?",
+      "output": "Yekaterina II."
+    },
+    {
+      "id": 94,
+      "input": "Qachon Xristofor Kolumb Hindistonga dengiz yo'lini izlab chiqdi?",
+      "output": "1492-yilda."
+    },
+    {
+      "id": 95,
+      "input": "Qaysi davlat Vikinglar davrida asosiy kuch markazi bo'lgan?",
+      "output": "Skandinaviya (hozirgi Daniya, Norvegiya va Shvetsiya)."
+    },
+    {
+      "id": 96,
+      "input": "Qaysi yil Rimskiy-Korsakovning \"Sheherezada\" asari yaratilgan?",
+      "output": "1888-yilda."
+    },
+    {
+      "id": 97,
+      "input": "Eronning qadimgi Fors imperiyasini kim asos solgan?",
+      "output": "Kir II (Kir Buyuk)."
+    },
+    {
+      "id": 98,
+      "input": "Kim \"Birinchi imperator\" nomini olgan Xitoy hukmdori edi?",
+      "output": "Shixuangdi (Qin sulolasi asoschisi)."
+    },
+    {
+      "id": 99,
+      "input": "Xitoydagi madaniy inqilob qaysi davrda sodir bo'lgan?",
+      "output": "1966–1976-yillarda."
+    },
+    {
+      "id": 100,
+      "input": "Qachon G'arbiy Yevropada ilk universitetlar tashkil etilgan?",
+      "output": "11–12-asrlarda."
+    },
+    {
+      "id": 101,
+      "input": "Birinchi telefonni kim ixtiro qilgan?",
+      "output": "Aleksandr Bell, 1876-yilda."
+    },
+    {
+      "id": 102,
+      "input": "Samuraylar davrida Yaponiya qanday boshqaruv tizimiga ega bo'lgan?",
+      "output": "Feodal tizim."
+    },
+    {
+      "id": 103,
+      "input": "Qaysi shahar 1936-yilgi Olimpiya o'yinlariga mezbonlik qilgan?",
+      "output": "Berlin."
+    },
+    {
+      "id": 104,
+      "input": "\"Dunyoviy davlat\" mafkurasini kim targ'ib qilgan?",
+      "output": "Atatürk (Mustafa Kamol)."
+    },
+    {
+      "id": 105,
+      "input": "Yangi Zelandiyaning tub aholisi kimlar?",
+      "output": "Maoriylar."
+    },
+    {
+      "id": 106,
+      "input": "Qachon Atlantika qullar savdosi avjiga chiqqan?",
+      "output": "16–19-asrlarda."
+    },
+    {
+      "id": 107,
+      "input": "Qaysi yilda Germaniya ikki qismga bo'lingan?",
+      "output": "1949-yilda (Sharqiy va G'arbiy Germaniya)."
+    },
+    {
+      "id": 108,
+      "input": "\"Buyuk ocharchilik\" qaysi davlatda sodir bo'lgan?",
+      "output": "Irlandiya, 1845–1852-yillarda."
+    },
+    {
+      "id": 109,
+      "input": "Kim \"Qo'rqinchli Ivan\" nomi bilan mashhur bo'lgan?",
+      "output": "Ivan IV, Rossiya imperatori."
+    },
+    {
+      "id": 110,
+      "input": "O'rta Osiyoda Zardo'shtlik qachon keng tarqalgan?",
+      "output": "Miloddan avvalgi 6–5-asrlarda."
+    },
+    {
+      "id": 111,
+      "input": "Qaysi imperator Konstantinopolni Vizantiyaga aylantirgan?",
+      "output": "Konstantin I, 330-yilda."
+    },
+    {
+      "id": 112,
+      "input": "Amerikaliklar uchun \"Boston choyxonasi\" nima bilan mashhur?",
+      "output": "1773-yilda Britaniya soliqlariga qarshi norozilik."
+    },
+    {
+      "id": 113,
+      "input": "Qachon Ispaniyada inkvizitsiya tashkil etilgan?",
+      "output": "1478-yilda."
+    },
+    {
+      "id": 114,
+      "input": "Hindistonning birinchi bosh vaziri kim edi?",
+      "output": "Javoharlal Neru."
+    },
+    {
+      "id": 115,
+      "input": "Meksikadagi Asteklar imperiyasi kim tomonidan mag'lub etilgan?",
+      "output": "Hernan Kortes va ispan konkistadorlari tomonidan."
+    },
+    {
+      "id": 116,
+      "input": "\"Buyuk Britaniya imperiyasi\" eng katta hududiy kengayishiga qachon erishgan?",
+      "output": "19-asr oxiri va 20-asr boshlarida."
+    },
+    {
+      "id": 117,
+      "input": "Kim \"Kapital\" asarini yozgan?",
+      "output": "Karl Marks."
+    },
+    {
+      "id": 118,
+      "input": "Qachon Afrikadagi Nil vodiysida birinchi shaharlar paydo bo'lgan?",
+      "output": "Miloddan avvalgi 3100-yillarda."
+    },
+    {
+      "id": 119,
+      "input": "Yaponiyaning qadimiy poytaxti qaysi shahar bo'lgan?",
+      "output": "Nara."
+    },
+    {
+      "id": 120,
+      "input": "Afg'onistonning Sovet Ittifoqiga qarshi urushi qaysi yillarda sodir bo'lgan?",
+      "output": "1979–1989-yillarda."
+    },
+    {
+      "id": 121,
+      "input": "Chingizxonning o'limidan keyin imperiyasi qaysi qismlarga bo'lingan?",
+      "output": "To'rt ulusga: Oltin O'rda, Chig'atoy ulusi, Ilxonlar va Yuan sulolasi."
+    },
+    {
+      "id": 122,
+      "input": "Qachon \"Sehrgar Oz\" kitobi birinchi marta chop etilgan?",
+      "output": "1900-yilda."
+    },
+    {
+      "id": 123,
+      "input": "Qaysi yil Islom Xalifaligi Abbosiylar sulolasi boshqaruviga o'tgan?",
+      "output": "750-yilda."
+    },
+    {
+      "id": 124,
+      "input": "Qaysi mamlakatdagi Qin sulolasi \"Buyuk Xitoy devori\"ni mustahkamlagan?",
+      "output": "Xitoy."
+    },
+    {
+      "id": 125,
+      "input": "Qachon Vyetnam urushi rasman tugagan?",
+      "output": "1975-yilda."
+    },
+    {
+      "id": 126,
+      "input": "Qaysi davlat \"Tangriqush\" davrida qadimgi Turkiy qabilalarni birlashtirgan?",
+      "output": "G'arbiy Turk xoqonligi."
+    },
+    {
+      "id": 127,
+      "input": "Fransiyada uchinchi respublika qachon e'lon qilingan?",
+      "output": "1870-yilda."
+    },
+    {
+      "id": 128,
+      "input": "\"Suyuq tosh asri\" deganda qaysi davr nazarda tutiladi?",
+      "output": "Eneolit davri (Miloddan avvalgi 4–3 ming yillar)."
+    },
+    {
+      "id": 129,
+      "input": "Qachon Buyuk Britaniyada ayollarga saylov huquqi berilgan?",
+      "output": "To'liq 1928-yilda."
+    },
+    {
+      "id": 130,
+      "input": "Karfagen shahri qachon Rim tomonidan vayron qilingan?",
+      "output": "Miloddan avvalgi 146-yilda."
+    },
+    {
+      "id": 131,
+      "input": "Qachon AQShda qullik bekor qilingan?",
+      "output": "1865-yilda, 13-tuzatish bilan."
+    },
+    {
+      "id": 132,
+      "input": "Napoleonning Rossiyaga yurishi qaysi nom bilan mashhur?",
+      "output": "\"1812-yil kampaniyasi\" yoki \"Buyuk armiya yurishi\"."
+    },
+    {
+      "id": 133,
+      "input": "Qadimgi Gretsiyada birinchi Olimpiada qachon o'tkazilgan?",
+      "output": "Miloddan avvalgi 776-yilda."
+    },
+    {
+      "id": 134,
+      "input": "Parijda Bastiliya qamoqxonasini egallash qachon sodir bo'lgan?",
+      "output": "1789-yil, 14-iyulda."
+    },
+    {
+      "id": 135,
+      "input": "\"Ikki tomonlama monarxiya\" tizimi qaysi davlatlarda amal qilgan?",
+      "output": "Avstriya-Vengriya imperiyasida."
+    },
+    {
+      "id": 136,
+      "input": "Qachon Mog'ol imperiyasi Hindistonda barpo etilgan?",
+      "output": "1526-yilda."
+    },
+    {
+      "id": 137,
+      "input": "AQSh prezidenti Avraam Linkoln nima bilan mashhur?",
+      "output": "Qullikni bekor qilganligi va fuqarolar urushi davridagi rahbarligi bilan."
+    },
+    {
+      "id": 138,
+      "input": "Italiyaning birlashuvi jarayoni qanday atalgan?",
+      "output": "Risorjimento."
+    },
+    {
+      "id": 139,
+      "input": "\"Buyuk devor\" nima uchun Xitoyda qurilgan?",
+      "output": "Shimoldan kelayotgan ko'chmanchi qabilalar hujumidan himoya uchun."
+    },
+    {
+      "id": 140,
+      "input": "Qachon Yuliy Sezar Rim diktatori deb e'lon qilingan?",
+      "output": "Miloddan avvalgi 44-yilda."
+    },
+    {
+      "id": 141,
+      "input": "Germaniyaning birinchi kansleri kim edi?",
+      "output": "Otto fon Bismark."
+    },
+    {
+      "id": 142,
+      "input": "Qaysi davlatlarda mayya tsivilizatsiyasi rivojlangan?",
+      "output": "Meksika, Gvatemala, Beliz, Salvador va Gonduras."
+    },
+    {
+      "id": 143,
+      "input": "Yevropaning \"Qorong'u asrlar\" davri qachon boshlangan?",
+      "output": "Rim imperiyasi qulashi bilan, taxminan 5-asrdan 10-asrgacha."
+    },
+    {
+      "id": 144,
+      "input": "Qachon AQShning Vashington shahrida Kapitoliy binosi qurilgan?",
+      "output": "1793-yilda qurilishi boshlangan."
+    },
+    {
+      "id": 145,
+      "input": "Aleksandr Makedonskiy Hindistonga qachon kirgan?",
+      "output": "Miloddan avvalgi 326-yilda."
+    },
+    {
+      "id": 146,
+      "input": "20-asrning birinchi yarmida Germaniyada iqtisodiy inqiroz nima bilan bog'liq edi?",
+      "output": "Birinchi jahon urushidan keyingi reparatsiyalar va 1929-yilgi Buyuk inqiroz."
+    },
+    {
+      "id": 147,
+      "input": "Urushchilar shahri bo'lgan Sparta qanday boshqaruv tizimiga ega edi?",
+      "output": "Oligarxiya."
+    },
+    {
+      "id": 148,
+      "input": "\"Dengiz yo'li orqali Hindistonga\" birinchi yetib borgan yevropalik kim edi?",
+      "output": "Vasco da Gama, 1498-yilda."
+    },
+    {
+      "id": 149,
+      "input": "Iskandariya kutubxonasi qachon vayron qilingan?",
+      "output": "Turli bosqinchilik va ichki mojarolar natijasida, aniq yili noma'lum."
+    },
+    {
+      "id": 150,
+      "input": "Qaysi davlatning davlatchilik tarixi Rim Senatiga borib taqaladi?",
+      "output": "Rim imperiyasi."
+    },
+    {
+      "id": 151,
+      "input": "Ikkinchi jahon urushida D-Day qachon sodir bo'lgan?",
+      "output": "1944-yil, 6-iyunda."
+    },
+    {
+      "id": 152,
+      "input": "Birinchi \"Temir odam\" (tank) qachon jangda ishlatilgan?",
+      "output": "Birinchi jahon urushida, 1916-yilda."
+    },
+    {
+      "id": 153,
+      "input": "Qachon Osmanli imperiyasi rasman tugatilgan?",
+      "output": "1923-yilda."
+    },
+    {
+      "id": 154,
+      "input": "Qaysi davlat Venera sayyorasiga birinchi kosmik apparatni yuborgan?",
+      "output": "Sovet Ittifoqi, 1961-yilda (Venera dasturi)."
+    },
+    {
+      "id": 155,
+      "input": "Napoleon Bonapart qachon Elbaga surgun qilingan?",
+      "output": "1814-yilda."
+    },
+    {
+      "id": 156,
+      "input": "Qachon Zohiriddin Bobur Samarqandni zabt etgan?",
+      "output": "1497-yilda."
+    },
+    {
+      "id": 157,
+      "input": "Birinchi bo'lib Afrikani aylanib chiqqan dengizchi kim edi?",
+      "output": "Bartolomeu Dias, 1488-yilda."
+    },
+    {
+      "id": 158,
+      "input": "Qachon AQShda \"Buyuk depressiya\" davri boshlangan?",
+      "output": "1929-yilda, fond bozorining qulashi bilan."
+    },
+    {
+      "id": 159,
+      "input": "\"Birinchi Crusade\" qachon boshlangan?",
+      "output": "1096-yilda."
+    },
+    {
+      "id": 160,
+      "input": "Qaysi davlatda \"Katta qoqinish\" (Great Schism) sodir bo'lgan?",
+      "output": "Rim-katolik cherkovida, 1054-yilda."
+    },
+    {
+      "id": 161,
+      "input": "Qachon Xitoyda ipakning ishlab chiqarilishi boshlangan?",
+      "output": "Taxminan miloddan avvalgi 3000-yillarda."
+    },
+    {
+      "id": 162,
+      "input": "Qaysi davlat \"Zabardast flot\" (Spanish Armada)ni yutqazgan?",
+      "output": "Ispaniya, 1588-yilda Angliyaga qarshi."
+    },
+    {
+      "id": 163,
+      "input": "Buyuk Britaniyada qirol Charlz I nima uchun qatl etilgan?",
+      "output": "Absolyut monarxiya boshqaruvi va parlament bilan ziddiyati sababli."
+    },
+    {
+      "id": 164,
+      "input": "Qaysi davlat birinchi bo'lib Marsga kosmik apparat yuborgan?",
+      "output": "Sovet Ittifoqi, 1971-yilda (Mars 3)."
+    },
+    {
+      "id": 165,
+      "input": "Qachon Germaniyada Berlin devori qurilgan?",
+      "output": "1961-yilda."
+    },
+    {
+      "id": 166,
+      "input": "Genghisxonning imperiyasi tarixda qaysi nom bilan mashhur?",
+      "output": "Mo'g'ul imperiyasi."
+    },
+    {
+      "id": 167,
+      "input": "Hindistonning Britaniya mustamlakasi maqomi qanday tugatilgan?",
+      "output": "Hindiston mustaqillikka erishgandan so'ng, 1947-yilda."
+    },
+    {
+      "id": 168,
+      "input": "Qachon Sanayi inqilobi dunyo bo'ylab tarqala boshladi?",
+      "output": "19-asrning birinchi yarmida."
+    },
+    {
+      "id": 169,
+      "input": "Qachon \"Rim huquqi\" G'arbiy huquq tizimiga asos bo'lgan?",
+      "output": "O'rta asrlarda, Rim imperiyasining qulashi ortidan."
+    },
+    {
+      "id": 170,
+      "input": "Qaysi davlatda \"Meiji islohoti\" amalga oshirilgan?",
+      "output": "Yaponiyada, 1868-yilda."
+    },
+    {
+      "id": 171,
+      "input": "\"Magna Karta\" qachon qabul qilingan?",
+      "output": "1215-yilda, Angliyada."
+    },
+    {
+      "id": 172,
+      "input": "Aleksandr Suvorov qaysi davlatning mashhur harbiy sarkardasi edi?",
+      "output": "Rossiya."
+    },
+    {
+      "id": 173,
+      "input": "Qachon birinchi yozma qonunlar ishlab chiqilgan?",
+      "output": "Miloddan avvalgi 18-asrda, Hammurapi qonunlari."
+    },
+    {
+      "id": 174,
+      "input": "Fransiya inqilobi boshlanishining asosiy sababi nima edi?",
+      "output": "Ijtimoiy adolatsizlik va iqtisodiy qiyinchiliklar."
+    },
+    {
+      "id": 175,
+      "input": "Qaysi imperator Rim imperiyasida xristianlikni rasmiy din sifatida qabul qilgan?",
+      "output": "Teodosiy I, 380-yilda."
+    },
+    {
+      "id": 176,
+      "input": "Qachon Mo'g'ullar Bag'dodni zabt etgan?",
+      "output": "1258-yilda."
+    },
+    {
+      "id": 177,
+      "input": "\"Boston qirg'ini\" nima edi?",
+      "output": "1770-yilda Britaniya qo'shinlari tomonidan Amerika fuqarolariga qarshi o't ochilishi."
+    },
+    {
+      "id": 178,
+      "input": "Qaysi davlatning qadimiy poytaxti Persepol edi?",
+      "output": "Fors imperiyasi (Ahamoniylar)."
+    },
+    {
+      "id": 179,
+      "input": "Kim \"Buyuk Britaniya sharafi uchun kurashgan qirolicha\" deb tanilgan?",
+      "output": "Yelizaveta I."
+    },
+    {
+      "id": 180,
+      "input": "Qachon Usmonli imperiyasi Bosforni zabt etgan?",
+      "output": "1453-yilda, Konstantinopolni egallash orqali."
+    },
+    {
+      "id": 181,
+      "input": "Buyuk geografik kashfiyotlar davrida birinchi bo'lib Yangi Dunyo deb atalgan hudud qaysi edi?",
+      "output": "Amerika."
+    },
+    {
+      "id": 182,
+      "input": "Angliya va Fransiya o'rtasidagi \"Yuz yillik urush\" qachon sodir bo'lgan?",
+      "output": "1337–1453-yillarda."
+    },
+    {
+      "id": 183,
+      "input": "Qachon \"Berlin Kongressi\" tashkil etilgan?",
+      "output": "1878-yilda."
+    },
+    {
+      "id": 184,
+      "input": "Kim birinchi bo'lib Janubiy qutbga yetib borgan?",
+      "output": "Roald Amundsen, 1911-yilda."
+    },
+    {
+      "id": 185,
+      "input": "Qachon Portugaliya Hind okeanida o'z kuchini mustahkamlagan?",
+      "output": "16-asrda, dengiz kashfiyotlari orqali."
+    },
+    {
+      "id": 186,
+      "input": "Birinchi telefon aloqasi qachon amalga oshirilgan?",
+      "output": "1876-yilda."
+    },
+    {
+      "id": 187,
+      "input": "Kim \"Amerikaning otasi\" deb ataladi?",
+      "output": "Jorj Vashington."
+    },
+    {
+      "id": 188,
+      "input": "Frants Ferdinanding o'ldirilishi qaysi voqeani boshlab berdi?",
+      "output": "Birinchi jahon urushini."
+    },
+    {
+      "id": 189,
+      "input": "Qachon Napoleon Bonapart imperator deb e'lon qilingan?",
+      "output": "1804-yilda."
+    },
+    {
+      "id": 190,
+      "input": "Qaysi mamlakatda birinchi demokratik saylov bo'lib o'tgan?",
+      "output": "Qadimgi Afina, miloddan avvalgi 5-asrda."
+    },
+    {
+      "id": 191,
+      "input": "Ikkinchi jahon urushida \"Pearl Harbor\" hujumi qachon sodir bo'lgan?",
+      "output": "1941-yil, 7-dekabrda."
+    },
+    {
+      "id": 192,
+      "input": "Qaysi davlat \"Bostondan Bosforgacha\" degan hududni boshqargan?",
+      "output": "Usmonli imperiyasi."
+    },
+    {
+      "id": 193,
+      "input": "Qachon Italiyada fashistik hukumat tashkil etilgan?",
+      "output": "1922-yilda Benito Mussolini tomonidan."
+    },
+    {
+      "id": 194,
+      "input": "Qaysi davlatlarda Bronza davri ilk bor boshlangani ma'lum?",
+      "output": "Mesopotamiya, Misr va Hind vodiysi tsivilizatsiyalari."
+    },
+    {
+      "id": 195,
+      "input": "\"Ayollar kuni\" xalqaro miqyosda qachon birinchi marta nishonlangan?",
+      "output": "1911-yilda."
+    },
+    {
+      "id": 196,
+      "input": "Qachon Qin Shi Huang birinchi marta Xitoyni birlashtirgan?",
+      "output": "Miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 197,
+      "input": "Qaysi davlat \"Birinchi jahon urushi\"da nemis ittifoqchisiga aylangan?",
+      "output": "Usmonli imperiyasi."
+    },
+    {
+      "id": 198,
+      "input": "Qaysi davlatdagi \"Tulip inqilobi\" qaysi davrda yuz bergan?",
+      "output": "18-asr boshida, Turkiyada."
+    },
+    {
+      "id": 199,
+      "input": "Qachon Buyuk Britaniyada xabar tarqatish uchun pochta tizimi joriy qilingan?",
+      "output": "1660-yilda."
+    },
+    {
+      "id": 200,
+      "input": "Misrning qadimiy piramidalarini kim qurgan?",
+      "output": "Misrning faraonlari, ayniqsa, Keops va Sneferu."
+    },
+    {
+      "id": 201,
+      "input": "Qachon SSSRda Stalinning totalitar hukmronligi boshlanadi?",
+      "output": "1920-yillarning oxiri va 1930-yillarda."
+    },
+    {
+      "id": 202,
+      "input": "Yaponiyaning Meiji inqilobi natijasida nima o'zgargan?",
+      "output": "Yaponiyaning zamonaviy sanoati va hukumat tizimi tashkil topdi."
+    },
+    {
+      "id": 203,
+      "input": "Qachon Amerika Qo'shma Shtatlarining mustaqilligi e'lon qilindi?",
+      "output": "1776-yil, 4-iyulda."
+    },
+    {
+      "id": 204,
+      "input": "\"Illuminati\" qaysi mamlakatda tashkil topgan?",
+      "output": "Germaniya, 1776-yilda."
+    },
+    {
+      "id": 205,
+      "input": "Qaysi davrda Islom dini O'rta Sharqda keng tarqalgan?",
+      "output": "7–8-asrlarda."
+    },
+    {
+      "id": 206,
+      "input": "Hindistonni mustamlaka sifatida qaysi mamlakat boshqargan?",
+      "output": "Buyuk Britaniya."
+    },
+    {
+      "id": 207,
+      "input": "Shaxsiy erkinliklar va fuqarolik huquqlari himoyasi uchun kurashgan AQShning birinchi prezidentidan kim edi?",
+      "output": "Jorj Vashington."
+    },
+    {
+      "id": 208,
+      "input": "Qachon Rim imperiyasi ikkiga bo'linib, Sharqiy va G'arbiy Rim imperiyalariga ajraldi?",
+      "output": "395-yilda."
+    },
+    {
+      "id": 209,
+      "input": "Qaysi yirik urushda Qizil va Oq Armiyalar o'rtasida kurash bo'lgan?",
+      "output": "Rossiya fuqarolar urushi, 1917–1923-yillarda."
+    },
+    {
+      "id": 210,
+      "input": "Qachon Britaniya Hindistonda bo'linishni amalga oshirdi?",
+      "output": "1947-yilda."
+    },
+    {
+      "id": 211,
+      "input": "Qaysi imperiya ikki qismga bo'linganidan so'ng, Sharqiy Roma (Bizans) imperiyasi deb nomlangan?",
+      "output": "Rim imperiyasi, 395-yilda."
+    },
+    {
+      "id": 212,
+      "input": "Ikkinchi jahon urushi davrida eng katta odam yo'qotishiga olib kelgan halokat qaysi shaharda bo'lgan?",
+      "output": "Xirosima va Nagasakida (Yaponiya) 1945-yilda."
+    },
+    {
+      "id": 213,
+      "input": "Qaysi davrda Fransiyada \"Saint Bartholomew kuni qirg'inlari\" yuz bergan?",
+      "output": "1572-yil, Katoliklar va protestantlar o'rtasidagi mojarolar davomida."
+    },
+    {
+      "id": 214,
+      "input": "Kim Birinchi jahon urushidan keyin Yevropada \"Versal tinchlik shartnomasini\" imzolagan?",
+      "output": "1919-yilda, Fransiya, Britaniya va boshqa davlatlar."
+    },
+    {
+      "id": 215,
+      "input": "Islomning asoschisi kim?",
+      "output": "Muhammad (s.a.v)."
+    },
+    {
+      "id": 216,
+      "input": "Qachon Xitoyda Tiananmen maydonidagi noroziliklar sodir bo'ldi?",
+      "output": "1989-yil, 4-iyun."
+    },
+    {
+      "id": 217,
+      "input": "Qaysi davlatda qadimiy Grajalik madaniyat rivojlangan?",
+      "output": "Gretsiya."
+    },
+    {
+      "id": 218,
+      "input": "\"Kengashlar hukumati\" qaysi davlatda mavjud bo'lgan?",
+      "output": "Qadimgi Roma."
+    },
+    {
+      "id": 219,
+      "input": "Qachon Avstraliya mustaqil bo'lgan?",
+      "output": "1901-yilda, Avstraliya federatsiyasining tashkil topishi bilan."
+    },
+    {
+      "id": 220,
+      "input": "Qachon SSSRda ko'plab yirik to'ntarishlar va inqiloblar sodir bo'lgan?",
+      "output": "1917-yilda, Fevral va Oktyabr inqiloblari."
+    },
+    {
+      "id": 221,
+      "input": "Qaysi yirik urushda \"Brest-Litovsk tinchlik shartnomasi\" imzolangan?",
+      "output": "Birinchi jahon urushi, 1918-yil."
+    },
+    {
+      "id": 222,
+      "input": "Qaysi ulus tomonidan \"Shumer\" sivilizatsiyasining asosi tashkil etilgan?",
+      "output": "Mesopotamiya, hozirgi Iroq hududi."
+    },
+    {
+      "id": 223,
+      "input": "Qachon Napoleon Bonapartning qo'shinlari Rossiya hududiga kirgan?",
+      "output": "1812-yil, Napoleonning yurishi boshlanganda."
+    },
+    {
+      "id": 224,
+      "input": "Qaysi madaniyat Misrning piramidalariga o'xshash qurilishlar yaratgan?",
+      "output": "Mayya tsivilizatsiyasi."
+    },
+    {
+      "id": 225,
+      "input": "Qaysi buyuk hukmdor Misrni zabt etgan va uni o'z imperiyasining bir qismiga aylantirgan?",
+      "output": "Aleksandr Makedonskiy."
+    },
+    {
+      "id": 226,
+      "input": "Qachon Frantsiyada Burbonlar sulolasi hukmronlikni tiklagan?",
+      "output": "1814-yilda, Napoleonning qochishi ortidan."
+    },
+    {
+      "id": 227,
+      "input": "Hindistonni mustamlaka sifatida boshqarish davrida Angliyaning iqtisodiy manfaatlari nima edi?",
+      "output": "Sut va paxta kabi resurslarni boshqarish va yangi bozorlar yaratish."
+    },
+    {
+      "id": 228,
+      "input": "Qaysi jangda Napoleon Bonapartning armiyasi Rossiyada mag'lub bo'lgan?",
+      "output": "1812-yilda Borodino jangi va keyinchalik Rossiyada yo'qotishlar."
+    },
+    {
+      "id": 229,
+      "input": "Qaysi qadimiy madaniyatning yozuvi qadimgi Misrning hierogliflariga o'xshash edi?",
+      "output": "Mayya madaniyati."
+    },
+    {
+      "id": 230,
+      "input": "Qachon Xitoyda Tiananmen maydonida qonli repressiya bo'lgan?",
+      "output": "1989-yilda."
+    },
+    {
+      "id": 231,
+      "input": "Kimning boshchiligida Germaniya Birinchi jahon urushini boshlagan?",
+      "output": "Kaiser Vilgelm II."
+    },
+    {
+      "id": 232,
+      "input": "Inqilobdan keyin \"Chinorlar Soveti\" (Qizil Xitoy) qaysi davrda tashkil etildi?",
+      "output": "1949-yilda."
+    },
+    {
+      "id": 233,
+      "input": "Qaysi voqea Fransuz inqilobining boshlanishi sifatida qabul qilinadi?",
+      "output": "Bastiliya qamoqxonasining 1789-yilda egallanishi."
+    },
+    {
+      "id": 234,
+      "input": "\"Amerika mustamlakalarining ozodligi\"ni ilgarilagan matn qanday ataladi?",
+      "output": "\"Deklaratsiya mustaqillik\" (1776)."
+    },
+    {
+      "id": 235,
+      "input": "Qachon Xitoyning \"yirik devori\" qurilgan?",
+      "output": "Miloddan avvalgi 3-asrda, Qin davrida."
+    },
+    {
+      "id": 236,
+      "input": "Qaysi mamlakatda ingliz tilini birinchi rasmiy til sifatida qabul qilingan?",
+      "output": "Buyuk Britaniya."
+    },
+    {
+      "id": 237,
+      "input": "Qaysi voqeada Yaponiyaning urushdan oldingi imperialistik siyosatiga barham berilgan?",
+      "output": "Ikkinchi jahon urushi, 1945-yilgi Mag'lubiyat."
+    },
+    {
+      "id": 238,
+      "input": "Kim Buyuk Britaniyada milliy imperiya tuzishni boshlagan?",
+      "output": "Imperator Viktoriya."
+    },
+    {
+      "id": 239,
+      "input": "Birinchi jahon urushidagi eng yirik urushlardan biri nima nom bilan ataladi?",
+      "output": "Somme jangi (1916-yil)."
+    },
+    {
+      "id": 240,
+      "input": "Qachon Avstraliya federatsiyasi tashkil topgan?",
+      "output": "1901-yilda."
+    },
+    {
+      "id": 241,
+      "input": "Qaysi Imperiya Sharqiy Rim imperiyasiga qarshi urush boshlagan?",
+      "output": "Germaniya va Yunaniston imperiyalari."
+    },
+    {
+      "id": 242,
+      "input": "Qachon Rim imperiyasi qo'zg'olonlar va ichki to'ntarishlardan so'ng quladi?",
+      "output": "Miloddan avvalgi 476-yilda."
+    },
+    {
+      "id": 243,
+      "input": "\"Hinduizm\" dini qaysi hududda rivojlangan?",
+      "output": "Hindiston subkontinentida."
+    },
+    {
+      "id": 244,
+      "input": "\"Qora jazavonlar\" nima bilan mashhur?",
+      "output": "Qora jazavonlar deb atalganlar, Amerika qo'shma shtatlarida afro-amerikaliklar edi."
+    },
+    {
+      "id": 245,
+      "input": "Boshqa davlatlar bilan diplomatik munosabatlar o'rnatish kimga tegishli?",
+      "output": "Buyuk Britaniyadagi qirol Charlz II (1660-yilda)."
+    },
+    {
+      "id": 246,
+      "input": "Biroq qaysi davlatda hali ham juda ilgari ayollar o'zlarining huquqlarini qamrab olgan?",
+      "output": "Fransiya 1880-yilda ishtirok etgan."
+    },
+    {
+      "id": 247,
+      "input": "Qaysi qadimgi millatning hukumat tizimi o'zgaruvchan imperatorliklardan tashkil topgan?",
+      "output": "Misr."
+    },
+    {
+      "id": 248,
+      "input": "Poytaxtga bo'lgan har xil jazolashlar: \"Milodiyni o'zgaritgan\" kim deb nomlangan?",
+      "output": "Nabonidning tasavvurlarini qabul qilishni boshlagan arafasidan chiqarilgan davr."
+    },
+    {
+      "id": 249,
+      "input": "Yaxshi shaharlar qurilishi qanday asosiy yul boshladi?",
+      "output": "Bu holda, Samarqandning boshdan-tayyorlash jarayoni bo'lishi mumkin."
+    },
+    {
+      "id": 250,
+      "input": "Boshqa Qaysi hududda shaffof holatda integratsiya ortadi",
+      "output": "Bu so‘zning neymov bo‘lgan to‘sindagi yult va hasharni qamrmoqda!"
+    },
+    {
+      "id": 251,
+      "input": "Qachon Britaniya mustamlakalari \"Ikkinchi Afrika koloniyasini\" qurishni boshlagan?",
+      "output": "1880-yillar, Britaniya imperiyasining ekspansiyasi davrida."
+    },
+    {
+      "id": 252,
+      "input": "Kim O'rta asrlarning eng mashhur hukmdorlaridan biri bo'lib, o'z imperiyasini Evropaning katta qismini qamrab olgan?",
+      "output": "Charlemagne (Karl Buyuk)."
+    },
+    {
+      "id": 253,
+      "input": "Kim Fransiya inqilobining eng yirik liderlaridan biri hisoblanadi?",
+      "output": "Maksimilien Robespierre."
+    },
+    {
+      "id": 254,
+      "input": "Qaysi hukmdor Islom dunyosida tarixda eng kuchli imperiyani yaratgan?",
+      "output": "Abbosiylar, 8-9-asrlarda."
+    },
+    {
+      "id": 255,
+      "input": "Qachon Xitoyda \"Taiping qo'zg'oloni\" yuzaga kelgan?",
+      "output": "1850-1864-yillarda."
+    },
+    {
+      "id": 256,
+      "input": "Fransuz inqilobida \"La Marseillaise\" qo'shig'i qachon rasmiy g'azal sifatida qabul qilingan?",
+      "output": "1795-yilda."
+    },
+    {
+      "id": 257,
+      "input": "Qaysi davlatda \"Qizil talonlar\" davri yuz bergan?",
+      "output": "Rossiya, 1917-1923-yillarda."
+    },
+    {
+      "id": 258,
+      "input": "Qachon Germaniyada natsistlar partiyasi hokimiyatni qo'lga kiritgan?",
+      "output": "1933-yilda, Adolf Gitler boshchiligida."
+    },
+    {
+      "id": 259,
+      "input": "Kim Eronda Pahlaviylar sulolasini tashkil qilgan?",
+      "output": "Shah Muhammad Rizo Pahlavi, 1925-yilda."
+    },
+    {
+      "id": 260,
+      "input": "Qachon Buyuk Britaniya va Fransiya o'rtasida \"Hundred Years War\" (Yuz yillik urush) boshlangan?",
+      "output": "1337-yilda."
+    },
+    {
+      "id": 261,
+      "input": "Kim Iskandariya kutubxonasining qurilishida ishtirok etgan?",
+      "output": "Ptolemey II Filadelf, miloddan avvalgi 3-asrda."
+    },
+    {
+      "id": 262,
+      "input": "Qaysi mamlakatda Birinchi jahon urushi paytida \"Gallipoli kampaniyasi\" amalga oshirilgan?",
+      "output": "Turkiya (Usmonli imperiyasi), 1915-yilda."
+    },
+    {
+      "id": 263,
+      "input": "Rim imperiyasining eng yirik imperatori kim edi?",
+      "output": "Oktavian Avgust (Rimning birinchi imperatori)."
+    },
+    {
+      "id": 264,
+      "input": "Misrda piramida qurilishi qanday maqsadga qaratilgan?",
+      "output": "Faraonlarning o'limidan so'ng, ularga izzat-ikrom ko'rsatish va ularni abadiy hayotga tayyorlash."
+    },
+    {
+      "id": 265,
+      "input": "Qachon Rossiyada \"qizil va oq armiyalar\" o'rtasida fuqarolar urushi boshlangan?",
+      "output": "1917-yildan 1923-yilgacha."
+    },
+    {
+      "id": 266,
+      "input": "Qaysi yil Rim imperiyasi G'arbiy qismining qulashi bilan yakunlangan?",
+      "output": "Miloddan avvalgi 476-yil."
+    },
+    {
+      "id": 267,
+      "input": "Ikkinchi jahon urushida, Yaponiyaning harbiy g'alabasini kim to'xtatgan?",
+      "output": "AQSh, Xirosima va Nagasakiya atom bombalari tashlanishi bilan."
+    },
+    {
+      "id": 268,
+      "input": "Qachon nemislar Berlinni ikkiga ajratishgan?",
+      "output": "1961-yilda, Berlin devorining qurilishi boshlandi."
+    },
+    {
+      "id": 269,
+      "input": "Qaysi tarixiy shaxs Fransuz inqilobining boshlanishida ishtirok etgan?",
+      "output": "Maximilien Robespierre."
+    },
+    {
+      "id": 270,
+      "input": "Qachon Rim imperiyasining Sharqiy qismi Bizans imperiyasi sifatida mustaqil bo'lib qolgan?",
+      "output": "395-yilda, Rim imperiyasining bo'linishi bilan."
+    },
+    {
+      "id": 271,
+      "input": "Qaysi tarixiy voqeada \"Qora niqob\" bo'lgan ko'plab buyuk jangchilar ishtirok etgan?",
+      "output": "Fransuz inqilobi davrida, Bastiliya qamoqxonasining egallanishi."
+    },
+    {
+      "id": 272,
+      "input": "1950-yillarda Yaponiyada nima o'zgargan?",
+      "output": "Yaponiyaning Iqtisodiy tiklanishi va demokratik islohotlar."
+    },
+    {
+      "id": 273,
+      "input": "Kim Markaziy Osiyo tarixida kuchli saltanatni tashkil qilgan?",
+      "output": "Temur (Tamerlan), 14-asrda."
+    },
+    {
+      "id": 274,
+      "input": "Qachon Sovet Ittifoqi qulagan va Yevropada sovetlar ta'siri tugagan?",
+      "output": "1991-yilda."
+    },
+    {
+      "id": 275,
+      "input": "Qaysi mamlakatda 1911-yilda Qing sulolasi quladi va respublika tuzildi?",
+      "output": "Xitoy."
+    },
+    {
+      "id": 276,
+      "input": "Buyuk Britaniyaning avtoarxik hukmronligi qaysi yildan boshlab yo'q bo'lib ketgan?",
+      "output": "1707-yilda, Angliya va Shotlandiyaning birlashishi bilan."
+    },
+    {
+      "id": 277,
+      "input": "Misrda pyramida qurilishi qanday usulda amalga oshirilgan?",
+      "output": "To'plangan katta tosh bloklari yordamida qurilish amalga oshirilgan."
+    },
+    {
+      "id": 278,
+      "input": "Kim Rim imperiyasining sharqiy qismini mustahkamlagan imperator?",
+      "output": "Diokletian."
+    },
+    {
+      "id": 279,
+      "input": "Qaysi asrda \"yengil temir yo'llari\" rivojlanib, sanoat inqilobiga katta ta'sir ko'rsatgan?",
+      "output": "19-asrda."
+    },
+    {
+      "id": 280,
+      "input": "Qaysi voqea Yaponiyada Ikkinchi jahon urushining tugashiga olib keldi?",
+      "output": "Xirosima va Nagasaki atom bombalari tashlanishi."
+    },
+    {
+      "id": 281,
+      "input": "\"Kursiv\" va \"antikva\" uslublari tarixda qaysi asrda mashhur bo'ldi?",
+      "output": "15-asrda, Yevropada Yangi davrning boshlanishi bilan."
+    },
+    {
+      "id": 282,
+      "input": "Qachon Fransiyada Napoleon Bonapartning hukmronligi tugagan?",
+      "output": "1815-yilda, Vaterloo jangidan keyin."
+    },
+    {
+      "id": 283,
+      "input": "Qaysi voqeada Ikkinchi jahon urushi rasmiy ravishda tugadi?",
+      "output": "1945-yil, 2-sentabrda Yaponiyaning taslim bo'lishi bilan."
+    },
+    {
+      "id": 284,
+      "input": "Kimning boshchiligida \"Qashqadaryo\"da uzil-kesil islohotlar amalga oshirilgan?",
+      "output": "Ulug'bek (15-asr)."
+    },
+    {
+      "id": 285,
+      "input": "Kim o'zining imperatorlik davrida Fransiyada barcha yerlarni birlashtirib, islohotlar o'tkazgan?",
+      "output": "Napoleon Bonapart."
+    },
+    {
+      "id": 286,
+      "input": "\"Mustamlakachilik\"ning asosiy sabablari nimalardan iborat edi?",
+      "output": "Yangi bozorlarni ochish, tabiiy resurslarni boshqarish, siyosiy ta'sir."
+    },
+    {
+      "id": 287,
+      "input": "Qachon Germaniya imperiyasi birlashgan?",
+      "output": "1871-yilda, Otto von Bismarck boshchiligida."
+    },
+    {
+      "id": 288,
+      "input": "Qaysi imperiya tarixda \"Biritish urushi\" nomi bilan mashhur bo'ldi?",
+      "output": "Italiya, 19-asr oxiri."
+    },
+    {
+      "id": 289,
+      "input": "Fransiya inqilobida \"Terror davri\" qanday ajralib turadi?",
+      "output": "Maximilien Robespierre boshchiligida, 1793–1794-yillarda."
+    },
+    {
+      "id": 290,
+      "input": "Qachon Misrda birinchi piramida qurilgan?",
+      "output": "Miloddan avvalgi 27-asrda, Djoser piramidasining qurilishi."
+    },
+    {
+      "id": 291,
+      "input": "Qaysi davlatda \"Hindistonni mustamlaka qilish\" jarayoni boshlandi?",
+      "output": "Buyuk Britaniya, 17-asrda."
+    },
+    {
+      "id": 292,
+      "input": "Qachon Rim imperiyasida \"Pax Romana\" davri boshlanadi?",
+      "output": "Miloddan avvalgi 27-yilda, Avgust imperator bo'lganda."
+    },
+    {
+      "id": 293,
+      "input": "\"Perikles inqilobi\" deb atalgan voqea qaysi davrga to'g'ri keladi?",
+      "output": "Qadimgi Afina, miloddan avvalgi 5-asr."
+    },
+    {
+      "id": 294,
+      "input": "Kim birinchi bo'lib G'arbiy Yevropaga Amerikaning yangi qismini kashf etdi?",
+      "output": "Kristofor Kolumb, 1492-yil."
+    },
+    {
+      "id": 295,
+      "input": "Qachon Xitoyda Taiping isyoni yuz berdi?",
+      "output": "1850-1864-yillarda."
+    },
+    {
+      "id": 296,
+      "input": "\"Engqotib beruvchi jahon\" deb atalgan davr qanday bo'ldi?",
+      "output": "Buyuk geografik kashfiyotlar va iqtisodiy inqiloblar davri."
+    },
+    {
+      "id": 297,
+      "input": "Qachon Angliyada Magna Karta qabul qilingan?",
+      "output": "1215-yilda, Jonning hukmronligi davrida."
+    },
+    {
+      "id": 298,
+      "input": "Rimning dastlabki imperatori kim edi?",
+      "output": "Oktavian Avgust."
+    },
+    {
+      "id": 299,
+      "input": "Qachon Buyuk Britaniya Fransiyani jangovar holatda mag'lubiyatga uchratgan?",
+      "output": "1066-yilda, Hastings jangida."
+    },
+    {
+      "id": 300,
+      "input": "Kim birinchi bo'lib O'rta yer dengizida suzib o'tgan?",
+      "output": "Ferndinand Magellan, 1519-1522-yillarda."
+    },
+    {
+      "id": 301,
+      "input": "Fransiya inqilobida \"Bastiliya qamoqxonasining egallanishi\" qanday voqeani anglatadi?",
+      "output": "1789-yil, inqilobning boshlanishi va erkinlik uchun kurash."
+    },
+    {
+      "id": 302,
+      "input": "Kimning hukmronligi davrida Britaniya mustamlakalari jahonning eng kuchli imperiyasiga aylangan?",
+      "output": "Viktoriya."
+    },
+    {
+      "id": 303,
+      "input": "Qachon Rossiya imperiyasida \"Qrim urushi\" boshlandi?",
+      "output": "1853-yilda."
+    },
+    {
+      "id": 304,
+      "input": "Kim Misrning qadimiy madaniyatini qadrlashda eng katta hissani qo'shgan?",
+      "output": "Aleksandr Makedonskiy, 332-yilda."
+    },
+    {
+      "id": 305,
+      "input": "Qaysi yirik imperiyada hukumronlik qilgan Patrikts Imperiyasi asoslangan?",
+      "output": "Rim imperiyasi."
+    },
+    {
+      "id": 306,
+      "input": "Qachon Napoleonning Meksikaga bosqinlari amalga oshirilgan?",
+      "output": "1812-yil."
+    },
+    {
+      "id": 307,
+      "input": "Qachon G'arbiy Evropaning barcha davlatlari Fransiya hukumati tomonidan mustahkamlanadi?",
+      "output": "14-asrning oxiri va 15-asrda."
+    },
+    {
+      "id": 308,
+      "input": "18-asrda Yevropada qanday ijtimoiy-siyosiy o'zgarishlar yuz berdi?",
+      "output": "O'zgartirilgan boshqaruv tizimi va ijtimoiy sinflar o'rtasidagi tenglikni anglatdi."
+    },
+    {
+      "id": 309,
+      "input": "Qachon Boshqalar butun dunyo tinchlikni anglash uchun diplomatik muvaffaqiyatga erishishdi?",
+      "output": "1765-yilda."
+    },
+    {
+      "id": 310,
+      "input": "Kim Fransuz inqilobi davrida \"Reyxa\" tomonidan boshqarilgan hukumatga qarshi kurashgan?",
+      "output": "Napoleon Bonapart."
+    },
+    {
+      "id": 311,
+      "input": "Qachon Rim imperiyasi Sharqiy va G'arbiy qismlarga bo'lingan?",
+      "output": "395-yilda, imperator Theodosius I davrida."
+    },
+    {
+      "id": 312,
+      "input": "Qaysi mamlakatda 1910-yilda \"Mexican Revolution\" boshlandi?",
+      "output": "Meksika."
+    },
+    {
+      "id": 313,
+      "input": "Yaponiyaning Meiji inqilobi natijasida nima o'zgargan?",
+      "output": "Yaponiyaning siyosiy tizimi modernizatsiya qilindi va imperiya hukmronligi o'zgardi."
+    },
+    {
+      "id": 314,
+      "input": "Qaysi jangda Napoleonning qo'shinlari eng katta mag'lubiyatni oldi?",
+      "output": "Leipzig jangida (1813-yil)."
+    },
+    {
+      "id": 315,
+      "input": "Kim 14-asrda Yevropada \"Zanjirli vazifalar\" (serf-huquqlari) tizimini o'zgartirgan?",
+      "output": "Filipp IV (Fransiya)."
+    },
+    {
+      "id": 316,
+      "input": "Qaysi mamlakatda imperatorlar o'zlarini \"Dio\" deb atagan?",
+      "output": "Rim imperiyasi."
+    },
+    {
+      "id": 317,
+      "input": "Kim Angliyada \"Husayn isyoni\" (1381-yil) boshchiligida to'ntarishlarni boshlagan?",
+      "output": "Wat Tyler."
+    },
+    {
+      "id": 318,
+      "input": "Qachon Rossiyada Rurik dynastyasi hukmronlik qilgan?",
+      "output": "Miloddan avvalgi 9-asrdan 16-asrga qadar."
+    },
+    {
+      "id": 319,
+      "input": "Qaysi voqea Yevropadagi \"Qora o'rmonlar davri\" nomi bilan tanilgan?",
+      "output": "Yevropa tarixidagi 14-asrda yuzaga kelgan qora o'rmonlar qo'zg'olonlari."
+    },
+    {
+      "id": 320,
+      "input": "\"Magna Carta\" qaysi tarixiy shaxs tomonidan imzolangan?",
+      "output": "Qirol Jon, 1215-yil."
+    },
+    {
+      "id": 321,
+      "input": "Qaysi voqea Boshqa asrlarda, Angliyada ingliz xalqi o'zining huquqlarini olishdi?",
+      "output": "Rojer va Vashington hujjatlarini ilgarilagan."
+    },
+    {
+      "id": 322,
+      "input": "Kim Fransuz inqilobining boshlanganida sarkardalik edi?",
+      "output": "Jean-Jacques Rousseau"
+    },
+    {
+      "id": 323,
+      "input": "Kim Rimskiy imperiyasining Ispaniya hududida eng katta qo'zg'olonni bostirgan?",
+      "output": "Publio Cornelio Scipio Africanus."
+    },
+    {
+      "id": 324,
+      "input": "Qachon Germaniya ikki qismga bo'lingan?",
+      "output": "1949-yilda, Ikkinchi jahon urushi natijasida."
+    },
+    {
+      "id": 325,
+      "input": "Qaysi imperiya o'zining qudratini sharqiy Yevropada kengaytirdi?",
+      "output": "Osmonli imperiyasi."
+    },
+    {
+      "id": 326,
+      "input": "Kim Qadimgi Rimda urushni boshqarish uchun \"Imperator\" unvonini olgan?",
+      "output": "Gajyus Iulius Caesar."
+    },
+    {
+      "id": 327,
+      "input": "\"Imperializm\"ning boshlanishi qaysi davrga to'g'ri keladi?",
+      "output": "19-asrning ikkinchi yarmida."
+    },
+    {
+      "id": 328,
+      "input": "Qaysi hududda Birinchi jahon urushining eng yirik janglaridan biri bo'lib, \"Somme jangi\" o'tkazilgan?",
+      "output": "Fransiya."
+    },
+    {
+      "id": 329,
+      "input": "Qaysi tarixiy shaxs Fransiyada mazhablararo urushlarni yakunlagan va tinchlik o'rnatgan?",
+      "output": "Genri IV."
+    },
+    {
+      "id": 330,
+      "input": "Qachon \"Hindistonni mustamlaka qilish\" jarayoni boshlangan?",
+      "output": "17-asrda."
+    },
+    {
+      "id": 331,
+      "input": "Qaysi hududda Rim imperiyasining sharqiy qismini tashkil etgan imperiya qurilgan?",
+      "output": "Bizans imperiyasi."
+    },
+    {
+      "id": 332,
+      "input": "Kimning hukmronligi davrida Xitoyda \"Qizil qo'zg'olon\" sodir bo'lgan?",
+      "output": "Manchu sulolasi, 17-asrda."
+    },
+    {
+      "id": 333,
+      "input": "Qachon Buyuk Britaniya Hindistonda mustamlaka sifatida hokimiyatni qo'lga kiritgan?",
+      "output": "1858-yilda."
+    },
+    {
+      "id": 334,
+      "input": "Qachon Napoleon Bonapart \"Napoleonning ikkita imperiyasi\" deb atalgan davrni boshqargan?",
+      "output": "1804–1814-yillar."
+    },
+    {
+      "id": 335,
+      "input": "Qaysi voqea Rim imperiyasining bo'linishiga olib kelgan?",
+      "output": "Miloddan avvalgi 395-yildagi bo'linish."
+    },
+    {
+      "id": 336,
+      "input": "Qachon Yaponiyada Meiji inqilobi boshlangan?",
+      "output": "1868-yilda."
+    },
+    {
+      "id": 337,
+      "input": "Kim Buyuk Britaniya hukmronligi ostida osmonli imperiyasining qulashi natijasida boshqaruvga kelgan?",
+      "output": "Vilgelm II."
+    },
+    {
+      "id": 338,
+      "input": "Qachon Fransiyada Napoleonning saltanati davomida yangi qonunlar qabul qilindi?",
+      "output": "1804-yilda, Napoleonning imperatorlik taxtiga o'tishi bilan."
+    },
+    {
+      "id": 339,
+      "input": "Kim Misrda piramidalarni qurishni boshlagan?",
+      "output": "Djoser, miloddan avvalgi 27-asrda."
+    },
+    {
+      "id": 340,
+      "input": "Qachon Buyuk Britaniya Indiyani mustamlaka sifatida qo'lga kiritgan?",
+      "output": "1858-yilda, Britaniya hukumatining to'liq boshqaruvi o'rnatildi."
+    },
+    {
+      "id": 341,
+      "input": "Kimning hukmronligi davrida Misrda Ptolemey sulolasi tashkil topgan?",
+      "output": "Ptolemey I, miloddan avvalgi 305-yilda."
+    },
+    {
+      "id": 342,
+      "input": "Qaysi yirik imperiya o'zining dastlabki yirik hududlarini Shumerda boshqarishga muvaffaq bo'ldi?",
+      "output": "Akkad imperiyasi, miloddan avvalgi 24-asrda."
+    },
+    {
+      "id": 343,
+      "input": "Qaysi jangda Napoleon Bonapartning qo'shinlari eng katta mag'lubiyatni oldi?",
+      "output": "1815-yilda, Vaterloo jangida."
+    },
+    {
+      "id": 344,
+      "input": "Qachon Rim imperiyasi Sharqiy va G'arbiy qismlarga bo'lingan?",
+      "output": "395-yilda, imperator Theodosius I davrida."
+    },
+    {
+      "id": 345,
+      "input": "Kim Fransuz inqilobining eng muhim yetakchilaridan biri bo'lib, \"Terror\" davrida hukmronlik qilgan?",
+      "output": "Maximilien Robespierre."
+    },
+    {
+      "id": 346,
+      "input": "Qachon Rossiya imperiyasida \"Qrim urushi\" boshlandi?",
+      "output": "1853-yilda."
+    },
+    {
+      "id": 347,
+      "input": "Qaysi tarixiy shaxsning nomi \"shonli imperator\" deb ataladi?",
+      "output": "Aurelian, Rim imperatori."
+    },
+    {
+      "id": 348,
+      "input": "Kimning hukmronligi davrida \"Mayya madaniyati\" eng kuchli rivojlanishni ko'rgan?",
+      "output": "Pakal va 7-asr."
+    },
+    {
+      "id": 349,
+      "input": "Fransiya inqilobida \"Bastiliya qamoqxonasining egallanishi\" qanday voqeani anglatadi?",
+      "output": "1789-yil, inqilobning boshlanishi va erkinlik uchun kurash."
+    },
+    {
+      "id": 350,
+      "input": "Qaysi voqeada Fransiya imperiyasi Napoleon Bonapartning hukmronligi ostida qisqacha qayta tiklangan?",
+      "output": "1814-yilda Napoleonning mag'lubiyati ortidan."
+    },
+    {
+      "id": 351,
+      "input": "Qaysi davlatda \"Hindistonni mustamlaka qilish\" jarayoni boshlandi?",
+      "output": "Buyuk Britaniya, 17-asrda."
+    },
+    {
+      "id": 352,
+      "input": "Kim Xitoyni mustamlaka qilish jarayonida Qing sulolasini kuchaytirgan?",
+      "output": "Manchu qabilalari, 1644-yilda."
+    },
+    {
+      "id": 353,
+      "input": "\"Deklaratsiya mustaqillik\"ni qaysi davlat o'z hududida qo'llagan?",
+      "output": "Amerika Qo'shma Shtatlari, 1776-yil."
+    },
+    {
+      "id": 354,
+      "input": "Qaysi jangda Napoleon Bonapartning qo'shinlari Rossiyada mag'lubiyatga uchragan?",
+      "output": "1812-yilda Borodino jangi."
+    },
+    {
+      "id": 355,
+      "input": "Qachon Fransiya va Germaniya o'rtasida \"Somme\" jangi bo'lib o'tgan?",
+      "output": "1916-yilda, Birinchi jahon urushi davrida."
+    },
+    {
+      "id": 356,
+      "input": "Kim Frantsiyada birinchi marta \"Egalite\" (tenglik) tamoyilini ilgari surgan?",
+      "output": "Jean-Jacques Rousseau."
+    },
+    {
+      "id": 357,
+      "input": "Qachon Rim imperiyasi ikkinchi marta bo'lingan?",
+      "output": "Miloddan avvalgi 476-yilda, G'arbiy Rim imperiyasining qulashi bilan."
+    },
+    {
+      "id": 358,
+      "input": "Kim 1898-yilda Amerikaning g'arbiy hududlariga hujum qilib, Filippin urushini boshlagan?",
+      "output": "General Emilio Aguinaldo."
+    },
+    {
+      "id": 359,
+      "input": "\"Tacik qo'zg'oloni\" 1918-1922-yillarda qaysi hududda yuz bergan?",
+      "output": "Rossiya imperiyasida, Markaziy Osiyo."
+    },
+    {
+      "id": 360,
+      "input": "Qaysi voqea Yaponiyaning urushda janglarni boshlashiga sabab bo'lgan?",
+      "output": "1937-yilda Xitoyga bostirib kirish."
+    },
+    {
+      "id": 361,
+      "input": "Kim Misrda qadimiy piramidalarning qurilishi bilan mashhur bo'lgan hukmdor?",
+      "output": "Djoser, miloddan avvalgi 27-asrda."
+    },
+    {
+      "id": 362,
+      "input": "Kim Buyuk Britaniyada Ikinchi jahon urushi davomida xalqni ruhlantirgan?",
+      "output": "Uinston Cherchill."
+    },
+    {
+      "id": 363,
+      "input": "Fransuz inqilobida qanday voqea Bastiliya qamoqxonasini olib borish bilan bog'liq edi?",
+      "output": "Bastiliya inqilobchi kuchlar tomonidan 1789-yilda egallandi."
+    },
+    {
+      "id": 364,
+      "input": "Qachon Rossiya imperiyasining monarchiyasi tugagan?",
+      "output": "1917-yilda, Fevral inqilobi natijasida."
+    },
+    {
+      "id": 365,
+      "input": "Kimning hukmronligi davrida Yaponiyada Meiji inqilobi yuz berdi?",
+      "output": "Imperator Meiji, 1868-yil."
+    },
+    {
+      "id": 366,
+      "input": "Qachon Rimda gladiator janglari o'zining piksiga chiqqan?",
+      "output": "Miloddan avvalgi 1-asrda, Julius Caesar va boshqa imperatorlar davrida."
+    },
+    {
+      "id": 367,
+      "input": "Kim Fransuz inqilobida \"qo'zg'olonchi bosh\" nomi bilan mashhur bo'lgan?",
+      "output": "Georges Danton."
+    },
+    {
+      "id": 368,
+      "input": "Kim Rossiyada Tsar Aleksandr II ning \"emansipatsiya\" islohotini amalga oshirgan?",
+      "output": "Tsar Aleksandr II, 1861-yilda."
+    },
+    {
+      "id": 369,
+      "input": "Qaysi davlatda 1917-yilda Bolshevik inqilobi natijasida Sovet Ittifoqi tashkil topgan?",
+      "output": "Rossiya."
+    },
+    {
+      "id": 370,
+      "input": "Qachon Fransiyada Napoleon Bonapartning hukmronligi tugagan?",
+      "output": "1815-yilda, Vaterloo jangidan keyin."
+    },
+    {
+      "id": 371,
+      "input": "Kim Xitoyda Tang sulolasini boshqargan?",
+      "output": "Li Shimin, 7-asrda."
+    },
+    {
+      "id": 372,
+      "input": "Qaysi voqea Fransuz inqilobi davrida \"Terror davri\" nomi bilan mashhur bo'ldi?",
+      "output": "1793-1794-yillar, Robespierre va boshqa inqilobchilar tomonidan hukmronlik qilindi."
+    },
+    {
+      "id": 373,
+      "input": "Qachon Rim imperiyasining G'arbiy qismining qulashi yuz berdi?",
+      "output": "476-yilda, Romulus Augustulusning taxtdan tushirilishi bilan."
+    },
+    {
+      "id": 374,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Oktavian Avgust."
+    },
+    {
+      "id": 375,
+      "input": "Kim \"Samarqandni mustahkamlash\" strategiyasini amalga oshirgan va Temur sulolasini yaratgan?",
+      "output": "Amir Temur (Tamerlan), 14-asr."
+    },
+    {
+      "id": 376,
+      "input": "Qaysi imperiya yirik fors madaniyatini yaratgan va Ahamaniylar sulolasi tomonidan hukmronlik qilgan?",
+      "output": "Fors, miloddan avvalgi 6-4-asrlar."
+    },
+    {
+      "id": 377,
+      "input": "Qachon Rim imperiyasida \"tuzatish\" siyosati amalga oshirilgan?",
+      "output": "3-asrda, imperator Diokletian tomonidan."
+    },
+    {
+      "id": 378,
+      "input": "Qaysi mamlakatda \"Severo-Rus urushi\" boshlandi?",
+      "output": "Rossiya va Skandinaviyada, 12-asrda."
+    },
+    {
+      "id": 379,
+      "input": "Kim Hindistonda Britaniya mustamlakasiga qarshi qo'zg'olonni boshqargan?",
+      "output": "Rani Lakshmibai, 1857-yilda."
+    },
+    {
+      "id": 380,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya Hindistondan mustamlaka foydasini olishni boshladi?",
+      "output": "Robert Clive, 1757-yildan."
+    },
+    {
+      "id": 381,
+      "input": "Qachon Koreyada \"Japon boshqaruvi\" boshlangan?",
+      "output": "1910-yilda, Koreya Yaponiyaga qo'shildi."
+    },
+    {
+      "id": 382,
+      "input": "\"Qora o'rmonlar\" davri tarixda qanday o'zgarishlarni keltirib chiqardi?",
+      "output": "Feodalizmning kuchayishi va xalqlar o'rtasidagi urushlar."
+    },
+    {
+      "id": 383,
+      "input": "Qachon Rim imperiyasining Sharqiy qismi Bizans imperiyasi sifatida mustahkamlanib qolgan?",
+      "output": "395-yilda."
+    },
+    {
+      "id": 384,
+      "input": "Kimlarning hukmronligi davrida G'arbiy Rim imperiyasi qulagan?",
+      "output": "Barbarlar hujumlari, 476-yil."
+    },
+    {
+      "id": 385,
+      "input": "Qaysi yirik imperiya Grish imperiyasining qismida vujudga keldi?",
+      "output": "Qadimiy Osmonli imperiyasi, 15-asr."
+    },
+    {
+      "id": 386,
+      "input": "\"Uyg'onish davri\" qanday davrni anglatadi?",
+      "output": "14-17-asrlarda Yevropada ilm-fan, san'at va adabiyotda katta o'zgarishlar yuz berdi."
+    },
+    {
+      "id": 387,
+      "input": "Kim \"Anastasiylar davrini\" tashkil etgan va Rimni kuchaytirgan?",
+      "output": "Anastasiy I, 6-asrda."
+    },
+    {
+      "id": 388,
+      "input": "\"Rim imperiyasining G'arbiy qismining qulashi\" qanday voqeani anglatadi?",
+      "output": "476-yilda, Romulus Augustulusning taxtdan tushirilishi."
+    },
+    {
+      "id": 389,
+      "input": "Qaysi davlatda 1910-yilda \"Mexican Revolution\" boshlangan?",
+      "output": "Meksika."
+    },
+    {
+      "id": 390,
+      "input": "Qachon Buyuk Britaniya \"Tongan\"ni mustamlaka qilgan?",
+      "output": "19-asrning boshlarida."
+    },
+    {
+      "id": 391,
+      "input": "Kimning hukmronligi davrida Rim imperiyasi Pax Romana davriga kirgan?",
+      "output": "Oktavian Avgust, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 392,
+      "input": "Kim Fransuz inqilobida \"Qora niqob\" bo'lgan ko'plab buyuk jangchilar ishtirok etgan?",
+      "output": "Fransuz inqilobi 1789-1799-yillarda, Bastiliya isyonida."
+    },
+    {
+      "id": 393,
+      "input": "Qachon Xitoyda Taiping isyoni yuz berdi?",
+      "output": "1850-1864-yillarda."
+    },
+    {
+      "id": 394,
+      "input": "Qachon Buyuk Britaniya Fransiya va Germaniyada \"Somme\" jangi bo'lib o'tgan?",
+      "output": "1916-yilda, Birinchi jahon urushi davrida."
+    },
+    {
+      "id": 395,
+      "input": "Qaysi davlatda 15-asrning boshlarida yangi poytaxtlar qurdilar?",
+      "output": "Rossiya."
+    },
+    {
+      "id": 396,
+      "input": "Kimning hukmronligi davrida Britaniya mustamlakalarini qayta tiklashga muvaffaq bo'ldi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 397,
+      "input": "Qachon Germaniya imperiyasi birlashgan?",
+      "output": "1871-yilda, Otto von Bismarck boshchiligida."
+    },
+    {
+      "id": 398,
+      "input": "Qachon Rimda imperator Avgust hukmronligi boshlandi?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 399,
+      "input": "Qachon Qrim urushi boshlanib, o'zbeklarni ham bir qator mamlakatlarda hukmronliklar o'zgardi?",
+      "output": "1853-1856-yillar, Yevropaning ko'plab hududlari, jumladan Rossiya imperiyasi."
+    },
+    {
+      "id": 400,
+      "input": "Kimning hukmronligi davrida Fransiya Inqilobi boshlandi?",
+      "output": "Louis XVI, 1789-yilda."
+    },
+    {
+      "id": 401,
+      "input": "Kim o'zining davrida Rimda hukmronlik qilgan va imperiyani kuchli tutgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asr."
+    },
+    {
+      "id": 402,
+      "input": "Qachon G'arbiy Rim imperiyasining qulashi sodir bo'lgan?",
+      "output": "476-yil, G'arbiy Rim imperiyasining so'nggi imperatori Romulus Augustulus taxtdan tushirildi."
+    },
+    {
+      "id": 403,
+      "input": "Kim Hindistonda Britaniya mustamlakalariga qarshi qo'zg'olonni boshqargan?",
+      "output": "1857-yilda, Mangal Pandey va boshqa qo'zg'olonchilar."
+    },
+    {
+      "id": 404,
+      "input": "Fransiya inqilobida \"Bastiliya\"ni egallash qaysi yilga to'g'ri keldi?",
+      "output": "1789-yil, 14-iyulda."
+    },
+    {
+      "id": 405,
+      "input": "Kim Angliyada \"Kirik Chezmen\" (tiqilib ketgan davlatlar) bo'yicha hukmronlik qilgan?",
+      "output": "Jon, 1215-yilda Magna Karta imzoladi."
+    },
+    {
+      "id": 406,
+      "input": "Kimda armiya bo'lsa ham mustahkam boshqaruvni o'rnatgan Germaniya 1871-yilga yetib boradi?",
+      "output": "Otto von Bismarck, Germaniya imperiyasini birlashtirdi."
+    },
+    {
+      "id": 407,
+      "input": "Qaysi voqea Rim imperiyasining g'arbiy qismidagi iqtisodiy va ijtimoiy tizimlarni anglatadi?",
+      "output": "Feodalizm, 6-7-asrlar davomida mustahkamlandi."
+    },
+    {
+      "id": 408,
+      "input": "Qachon Xitoyda Taiping isyoni boshlangan?",
+      "output": "1850-1864-yillarda."
+    },
+    {
+      "id": 409,
+      "input": "Kim Fransiya inqilobi davomida \"Terror davri\"ni boshqargan?",
+      "output": "Maximilien Robespierre."
+    },
+    {
+      "id": 410,
+      "input": "Qachon Avstriya-Ungariya imperiyasi tarixda eng kuchli davrni boshlab berdi?",
+      "output": "19-asrning boshlarida."
+    },
+    {
+      "id": 411,
+      "input": "Qachon Xitoyda Tang sulolasi o'z hukmronligini boshlagan?",
+      "output": "618-yil."
+    },
+    {
+      "id": 412,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya 20-asrda o'z imperiyasini kengaytirdi?",
+      "output": "Viktoriya, 19-asr oxiri va 20-asrning boshlarida."
+    },
+    {
+      "id": 413,
+      "input": "Qaysi yirik imperiya Hindistonni mustamlaka qilib o'zlariga qo'shgan?",
+      "output": "Buyuk Britaniya, 1858-yil."
+    },
+    {
+      "id": 414,
+      "input": "Kim o'zining \"Ehtimoliy tizim\"ni Fransiyada joriy etgan?",
+      "output": "Napolyon Bonapart, 1804-yilda."
+    },
+    {
+      "id": 415,
+      "input": "Qaysi voqea XX asrda Yevropada \"Ekstremistlar davri\"ni boshladi?",
+      "output": "Birinchi jahon urushi (1914-1918)."
+    },
+    {
+      "id": 416,
+      "input": "Kim \"Anglo-Saksonlar davrini\" kuchli qilib boshqargan?",
+      "output": "Alfred the Great, 9-asrda Angliya."
+    },
+    {
+      "id": 417,
+      "input": "Kim Xitoyni mustamlaka qilishda asosiy rol o'ynagan?",
+      "output": "Britaniya, 19-asrning boshlarida Opium urushlarida."
+    },
+    {
+      "id": 418,
+      "input": "Kimning hukmronligi davrida Germaniya milliy yagona bo'ldi?",
+      "output": "Otto von Bismarck, 1871-yilda."
+    },
+    {
+      "id": 419,
+      "input": "Qachon Rim imperiyasi Sharqiy va G'arbiy qismlarga bo'lingan?",
+      "output": "395-yilda, imperator Theodosius I davrida."
+    },
+    {
+      "id": 420,
+      "input": "Qachon Buyuk Britaniya mustamlakalarini to'liq qo'lga kiritdi?",
+      "output": "19-asrning oxiri."
+    },
+    {
+      "id": 421,
+      "input": "Kimni Fransiyada \"Fransuz imperatori\" sifatida tan olishgan?",
+      "output": "Napoleon Bonapart, 1804-yilda."
+    },
+    {
+      "id": 422,
+      "input": "Kimning hukmronligi davrida Fransiya mustamlakalari Afrika va Osiyo bo'ylab yoyildi?",
+      "output": "Napoleon Bonapart."
+    },
+    {
+      "id": 423,
+      "input": "Kim Rim imperatorlarining eng yirik muvaffaqiyatini taqdim etdi?",
+      "output": "Diokletian, Rim imperiyasining mustahkamligi va boshqaruvi."
+    },
+    {
+      "id": 424,
+      "input": "Qachon Rossiya imperiyasida \"Qrim urushi\" boshlandi?",
+      "output": "1853-yilda."
+    },
+    {
+      "id": 425,
+      "input": "Kim \"Qora kitob\"ni tuzib, Rossiya hukumatini tark etdi?",
+      "output": "Maksim Gorkiy, 20-asr boshlarida."
+    },
+    {
+      "id": 426,
+      "input": "Kim Fransuz inqilobida \"Ulug'bek\" tomonidan muhim islohotlarni amalga oshirgan?",
+      "output": "Maximilien Robespierre."
+    },
+    {
+      "id": 427,
+      "input": "Qachon Fransuz inqilobi zamonida hokimiyatni egallashda birinchi jahon urushi o'zgardi?",
+      "output": "1792-yilda."
+    },
+    {
+      "id": 428,
+      "input": "Qachon Buyuk Britaniya o'z hukumatini o'zgartirib, o'z poytaxtida kelajakni aniqlashga muvaffaq bo'ldi?",
+      "output": "1820-30-yillar."
+    },
+    {
+      "id": 429,
+      "input": "Qachon Rim imperiyasi Sharqiy va G'arbiy qismlarga bo'lingan?",
+      "output": "395-yilda, imperator Theodosius I davrida."
+    },
+    {
+      "id": 430,
+      "input": "Kim Fransuz inqilobi davomida \"Terror\" davrini boshqargan?",
+      "output": "Maximilien Robespierre."
+    },
+    {
+      "id": 431,
+      "input": "Qaysi mamlakatda \"Mussolini rejimi\" o'z hukmronligini boshlagan?",
+      "output": "Italiya, 1920-yillar."
+    },
+    {
+      "id": 432,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana (Rim tinchligi) davri boshlandi?",
+      "output": "Oktavian Avgust."
+    },
+    {
+      "id": 433,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qilishni boshladi?",
+      "output": "1858-yilda, Buyuk Britaniya Hindistonda hukmronlikni to'liq qo'lga kiritdi."
+    },
+    {
+      "id": 434,
+      "input": "Qachon Xitoyda Qing sulolasi hukmronlikni boshlagan?",
+      "output": "1644-yilda."
+    },
+    {
+      "id": 435,
+      "input": "Qaysi voqea 1917-yilda Rossiyada sodir bo'lib, Bolshievik inqilobini keltirib chiqardi?",
+      "output": "Fevral inqilobi va Oktyabr inqilobi."
+    },
+    {
+      "id": 436,
+      "input": "Kim \"Ulug'bek imperiyasi\"ning asosi sifatida tarixda iz qoldirgan?",
+      "output": "Ulug'bek, Samarqandda ilmiy markazlarni yaratgan."
+    },
+    {
+      "id": 437,
+      "input": "Qachon Fransiya imperiyasida Napoleon Bonapart imperator bo'ldi?",
+      "output": "1804-yil."
+    },
+    {
+      "id": 438,
+      "input": "Kim Yevropada \"Uyg'onish davrini\" boshlab, ilm-fan va san'atni rivojlantirgan?",
+      "output": "Leonardo da Vinci, 15-16-asrlar."
+    },
+    {
+      "id": 439,
+      "input": "Kim Rimda gladiator janglarining birinchi galabasini qo'lga kiritgan imperator?",
+      "output": "Julius Caesar."
+    },
+    {
+      "id": 440,
+      "input": "Kim Fransuz inqilobi davrida \"Bastiliya qamoqxonasini\" egallagan?",
+      "output": "Inqilobchilar, 1789-yilda."
+    },
+    {
+      "id": 441,
+      "input": "Kim Buyuk Britaniya imperiyasida Viktoriya davrini boshqargan?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 442,
+      "input": "Qachon Yaponiyada Meiji inqilobi boshlandi?",
+      "output": "1868-yilda."
+    },
+    {
+      "id": 443,
+      "input": "Kim Boshqaruvida Buyuk Britaniya 1815-yilda Napoleonni mag'lubiyatga uchratdi?",
+      "output": "Uinston Cherchill."
+    },
+    {
+      "id": 444,
+      "input": "Kim Xitoyda \"Taiping isyoni\"ni boshlagan?",
+      "output": "Hong Xiuquan, 1850-yil."
+    },
+    {
+      "id": 445,
+      "input": "Qachon Fransiyada \"Magnan-karta\" hujjati imzolangan?",
+      "output": "1215-yilda."
+    },
+    {
+      "id": 446,
+      "input": "Kim 20-asrda Fransuz mustamlakalarini boshqargan?",
+      "output": "Napoleon Bonapart."
+    },
+    {
+      "id": 447,
+      "input": "Qaysi voqea Rim imperiyasining qulashi va sharqiy qismining mustahkamlanishini anglatadi?",
+      "output": "Sharqiy Rim imperiyasining (Bizans) tashkil etilishi, 395-yil."
+    },
+    {
+      "id": 448,
+      "input": "Kim Rimda hukmronlik qilgan va mamlakatni yuqori taraqqiyotga olib borgan?",
+      "output": "Augustus, miloddan avvalgi 1-asr."
+    },
+    {
+      "id": 449,
+      "input": "Qachon Germaniya imperiyasi birlashdi?",
+      "output": "1871-yil, Otto von Bismarckning rahbarligida."
+    },
+    {
+      "id": 450,
+      "input": "Kim Avstriya imperiyasini tashkil etgan va kuchli davrni boshlagan?",
+      "output": "Frans I, 1804-yil."
+    },
+    {
+      "id": 451,
+      "input": "Kim G'arbiy Yevropada feodalizmning asoslarini yaratgan?",
+      "output": "Karolings, 8-9-asrda."
+    },
+    {
+      "id": 452,
+      "input": "Qachon Fransuz inqilobida qirol Louis XVI taxtdan ag'darilgan?",
+      "output": "1792-yilda."
+    },
+    {
+      "id": 453,
+      "input": "Kim Hindistonda Britaniya mustamlakalariga qarshi kurashgan va 1857-yilgi qo'zg'olonning yetakchisi bo'lgan?",
+      "output": "Mangal Pandey, 1857-yilda."
+    },
+    {
+      "id": 454,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana (Rim tinchligi) boshlangan?",
+      "output": "Augustus, miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 455,
+      "input": "Qachon Fransiya va Germaniya o'rtasida \"Somme\" janglari bo'lib o'tgan?",
+      "output": "1916-yilda, Birinchi jahon urushi davrida."
+    },
+    {
+      "id": 456,
+      "input": "Qachon Rimda \"gladiator janglari\"ni to'xtatish bo'yicha qaror qabul qilingan?",
+      "output": "404-yilda, Imperator Honorius tomonidan."
+    },
+    {
+      "id": 457,
+      "input": "Kim Yaponiyaning 20-asrda rivojlanishiga asos solgan va qattiq hukmronlik qilgan imperator?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 458,
+      "input": "Kim Amerika Qo'shma Shtatlari mustaqilligini e'lon qilgan?",
+      "output": "Thomas Jefferson, 1776-yilda."
+    },
+    {
+      "id": 459,
+      "input": "Qachon Rim imperiyasi mustahkamlanib, \"Pax Romana\" davriga kirgan?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 460,
+      "input": "Qachon Britaniya imperiyasi Hindistonda mustamlaka o'rnatdi?",
+      "output": "1858-yil, Buyuk Britaniya Hindistonda mustamlakasini to'liq qo'lga kiritdi."
+    },
+    {
+      "id": 461,
+      "input": "Kim Buyuk Britaniyada \"Pax Britannia\"ni yaratgan?",
+      "output": "Viktoriya davrida, 19-asrda."
+    },
+    {
+      "id": 462,
+      "input": "Kimning hukmronligi davrida Rimda \"gladiator janglari\"ni o'zgartirishga erishildi?",
+      "output": "Theodosius I, 4-asrda."
+    },
+    {
+      "id": 463,
+      "input": "Qachon Fransiya inqilobining \"Bastiliya isyoni\" bo'lib o'tdi?",
+      "output": "1789-yil, 14-iyul."
+    },
+    {
+      "id": 464,
+      "input": "Qaysi imperator Rimni qudratli davlatga aylantirgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asr."
+    },
+    {
+      "id": 465,
+      "input": "Qachon Germaniya imperiyasi birlashdi?",
+      "output": "1871-yil, Otto von Bismarckning rahbarligida."
+    },
+    {
+      "id": 466,
+      "input": "Kim \"Napoleonik urushlar\"ni boshqargan?",
+      "output": "Napoleon Bonapart, 19-asr boshlarida."
+    },
+    {
+      "id": 467,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yil, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 468,
+      "input": "Kim Fransuz inqilobi davrida \"Terror\"ni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 469,
+      "input": "Qachon Rim imperiyasining sharqiy va g'arbiy qismlarga bo'linishi yuz berdi?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 470,
+      "input": "Qachon Britaniya Imperiyasi Amerikada mustamlaka o'rnatdi?",
+      "output": "1607-yilda, Jamestown koloniyasi o'rnatildi."
+    },
+    {
+      "id": 471,
+      "input": "Kim Britaniya mustamlakalariga qarshi kurashgan va 1775-yilda Amerikada inqilobni boshlagan?",
+      "output": "George Washington, 1775-yilda."
+    },
+    {
+      "id": 472,
+      "input": "Qachon Rim imperiyasida gladiator janglarining tartibi o'zgartirildi?",
+      "output": "404-yil, imperator Honorius davrida."
+    },
+    {
+      "id": 473,
+      "input": "Kim Fransiyada \"Fransuz inqilobini\" boshqargan va inqilobning birinchi fazasida ishtirok etgan?",
+      "output": "Maximilien Robespierre, 1789-yilda."
+    },
+    {
+      "id": 474,
+      "input": "Qachon Xitoyda Tang sulolasi hukmronlikni boshladi?",
+      "output": "618-yil."
+    },
+    {
+      "id": 475,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "Robert Clive, 1757-yilda."
+    },
+    {
+      "id": 476,
+      "input": "Qaysi voqea Rim imperiyasining qulashi va Sharqiy Rim imperiyasining mustahkamlanishini anglatadi?",
+      "output": "Rim imperiyasining bo'linishi, 395-yil."
+    },
+    {
+      "id": 477,
+      "input": "Qachon Fransiya inqilobi davomida Bastiliya qamoqxonasini egallash sodir bo'ldi?",
+      "output": "1789-yil, 14-iyul."
+    },
+    {
+      "id": 478,
+      "input": "Kim Xitoyda Qing sulolasi hukmronligini boshlagan?",
+      "output": "1644-yil."
+    },
+    {
+      "id": 479,
+      "input": "Qachon Rim imperiyasining G'arbiy qismi quladi?",
+      "output": "476-yil, Romulus Augustulusning taxtdan tushirilishi bilan."
+    },
+    {
+      "id": 480,
+      "input": "Kim Rim imperatorligi davrida \"Pax Romana\" (Rim tinchligi)ni e'lon qildi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 481,
+      "input": "Qachon Buyuk Britaniya Fransiya bilan \"Qrim urushi\"ni o'tkazdi?",
+      "output": "1853-1856-yillar."
+    },
+    {
+      "id": 482,
+      "input": "Kim Yaponiyada Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 483,
+      "input": "Qachon Rim imperiyasi Pax Romana davrida tinchlikni ta'minlagan?",
+      "output": "Miloddan avvalgi 27-yildan 180-yilgacha."
+    },
+    {
+      "id": 484,
+      "input": "Kim Avstriya imperiyasini tashkil etgan?",
+      "output": "Frans I, 1804-yilda."
+    },
+    {
+      "id": 485,
+      "input": "Qachon Germaniya va Italiya o'rtasida ittifoq tashkil topdi?",
+      "output": "1882-yilda, Uchlik ittifoqi shakllandi."
+    },
+    {
+      "id": 486,
+      "input": "Kim Fransiya inqilobi vaqtida \"Terror\"ni boshqarib, inqilobni yanada radikalizatsiya qilgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 487,
+      "input": "Qaysi imperatorlar Rimda imperatorlikni yaratgan va Pax Romana davrini boshqargan?",
+      "output": "Augustus va Tiberius, miloddan avvalgi 27-yildan 37-yilgacha."
+    },
+    {
+      "id": 488,
+      "input": "Qachon Buyuk Britaniya Amerika mustamlakalarini qo'lga kiritgan?",
+      "output": "1607-yilda, Jamestown koloniyasi asos solindi."
+    },
+    {
+      "id": 489,
+      "input": "Qaysi urushda Napoleon Bonapart Birinchi Jahon urushini boshlashdan oldin, Yevropada hukmronlik qilgan?",
+      "output": "Napoleonning urushlari, 1803-1815-yillarda."
+    },
+    {
+      "id": 490,
+      "input": "Kim Germaniyada feodalizmni kuchaytirgan va ijtimoiy tizimni yangilagan?",
+      "output": "Otto von Bismarck, 19-asrda."
+    },
+    {
+      "id": 491,
+      "input": "Qachon Rimda imperator Avgustning hukmronligi boshlanadi?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 492,
+      "input": "Qachon Fransiya Inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya qo‘zg‘oloni sodir bo‘ldi."
+    },
+    {
+      "id": 493,
+      "input": "Kim Rim imperatorlari orasida “Pax Romana” davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yildan 14-yilgacha."
+    },
+    {
+      "id": 494,
+      "input": "Qachon Xitoyda \"Taiping isyoni\" boshlandi?",
+      "output": "1850-yil."
+    },
+    {
+      "id": 495,
+      "input": "Kim Buyuk Britaniya imperiyasi asoschisi bo‘lgan?",
+      "output": "Rim imperiyasi 5-asrda cho‘kib, Buyuk Britaniya imperiyasining g‘alabasi bilan bog‘lanadi."
+    },
+    {
+      "id": 496,
+      "input": "Kimning hukmronligi davrida Avstriya imperiyasi tashkil topgan?",
+      "output": "Frans I, 1804-yil."
+    },
+    {
+      "id": 497,
+      "input": "Qachon Birinchi Jahon Urushi boshlanadi?",
+      "output": "1914-yil, Sarayevoda Franz Ferdinandning otib o‘ldirilishi bilan."
+    },
+    {
+      "id": 498,
+      "input": "Qachon Rim imperiyasi quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 499,
+      "input": "Kim Fransuz inqilobida inqilobchilarni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 500,
+      "input": "Kim Rimda imperator Augustusdan keyin hukmronlik qilgan?",
+      "output": "Tiberius, miloddan avvalgi 14-37-yillar."
+    },
+    {
+      "id": 501,
+      "input": "Qachon Xitoyda Qing sulolasi o‘rnashdi?",
+      "output": "1644-yil."
+    },
+    {
+      "id": 502,
+      "input": "Kimning hukmronligi davrida \"Napoleon urushlari\" boshlanadi?",
+      "output": "Napoleon Bonapart, 1803-yilda."
+    },
+    {
+      "id": 503,
+      "input": "Kim Buyuk Britaniya imperiyasida Hindistonni mustamlaka qildi?",
+      "output": "Robert Clive, 1757-yil."
+    },
+    {
+      "id": 504,
+      "input": "Kim Fransuz inqilobi davomida \"Ulug‘bek imperiyasi\"ni o‘rnatgan?",
+      "output": "Maximilien Robespierre, 1793-yil."
+    },
+    {
+      "id": 505,
+      "input": "Kim Fransiyada \"Bastiliya isyoni\"ni boshqargan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 506,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana boshlangan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 507,
+      "input": "Qachon Rim imperiyasi mustahkamlanib Pax Romana (Rim tinchligi) davriga kirgan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 508,
+      "input": "Qachon Fransiya Inqilobining \"Terror\" davri boshlandi?",
+      "output": "1793-1794-yillarda, Maximilien Robespierre boshchiligida."
+    },
+    {
+      "id": 509,
+      "input": "Kim Rimda gladiator janglarini boshqargan va ularni amalga oshirgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 510,
+      "input": "Qachon Yaponiyada Meiji inqilobi boshlandi?",
+      "output": "1868-yil, Meiji imperatori hokimiyatni o‘z qo‘liga oldi."
+    },
+    {
+      "id": 511,
+      "input": "Qaysi voqea 20-asrda Fransuz imperiyasining qulashi va mustamlakalarga so‘z qo‘ydi?",
+      "output": "Birinchi jahon urushi (1914-1918) va 1917-yilgi oktyabr inqilobi."
+    },
+    {
+      "id": 512,
+      "input": "Kim Buyuk Britaniyada Viktoriya davrini boshlagan?",
+      "output": "Viktoriya, 19-asrning o‘rtalari."
+    },
+    {
+      "id": 513,
+      "input": "Qachon Avstriya-Ungariya imperiyasi tashkil etilgan?",
+      "output": "1867-yilda, Dual monarxiya tuzildi."
+    },
+    {
+      "id": 514,
+      "input": "Kimning hukmronligi davrida Rimda gladiator janglari keng tarqalgan?",
+      "output": "Kaligula, 37-41-yillar."
+    },
+    {
+      "id": 515,
+      "input": "Kim Hindistonni Britaniya imperiyasining mustamlakasi qildi?",
+      "output": "Robert Clive, 1757-yilda."
+    },
+    {
+      "id": 516,
+      "input": "Qachon Fransiya va Germaniya o‘rtasida \"Somme\" janglari bo‘lib o‘tgan?",
+      "output": "1916-yilda, Birinchi jahon urushi davomida."
+    },
+    {
+      "id": 517,
+      "input": "Qachon Rim imperiyasining g‘arbiy qismi quladi?",
+      "output": "476-yilda, Romulus Augustulusning taxtdan tushirilishi bilan."
+    },
+    {
+      "id": 518,
+      "input": "Qachon Rim imperiyasi Sharqiy va G‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yil, imperator Theodosius I davrida."
+    },
+    {
+      "id": 519,
+      "input": "Kim Buyuk Britaniya imperiyasining xalqaro hukmronligini kengaytirdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 520,
+      "input": "Kim Napoleonning \"Napoleonik urushlari\"ni boshqargan?",
+      "output": "Napoleon Bonapart, 1803-1815-yillarda."
+    },
+    {
+      "id": 521,
+      "input": "Kimning hukmronligi davrida Fransuz inqilobi \"Terror\"ni boshqarib, adolatni tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 522,
+      "input": "Qachon Fransiya Inqilobi davrida Bastiliya isyoni boshlandi?",
+      "output": "1789-yil, 14-iyulda."
+    },
+    {
+      "id": 523,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya mustamlakalarini o‘z qo‘liga kiritdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 524,
+      "input": "Kim Xitoyning Tang sulolasini boshlab, imperiyani mustahkamladi?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 525,
+      "input": "Qachon Frantsuz Inqilobi boshlangan?",
+      "output": "1789-yil, 14-iyulda Bastiliya qo‘zg‘oloni boshlandi."
+    },
+    {
+      "id": 526,
+      "input": "Kim Buyuk Britaniya imperiyasining xususiy to‘lovlarini tiklagan?",
+      "output": "Karl Marksa, 19-asrda."
+    },
+    {
+      "id": 527,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 528,
+      "input": "Qachon Sharqiy Rim imperiyasi quladi?",
+      "output": "1453-yil, Konstantinopolning turklar tomonidan zabt etilishi bilan."
+    },
+    {
+      "id": 529,
+      "input": "Kim Fransiya Inqilobining asosiy yetakchilaridan biri bo‘lgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 530,
+      "input": "Qachon Buyuk Britaniya va Frantsiya o‘rtasida \"Qrim urushi\" bo‘lib o‘tgan?",
+      "output": "1853-1856-yillarda."
+    },
+    {
+      "id": 531,
+      "input": "Kim Fransiya inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil."
+    },
+    {
+      "id": 532,
+      "input": "Kim Boshqargan hukmronlik davrida Germaniya yagona imperiya bo‘lib birlashgan?",
+      "output": "Otto von Bismarck, 1871-yil."
+    },
+    {
+      "id": 533,
+      "input": "Qachon Rimda imperator Avgust hukmronlikni boshlab, imperiya mustahkamlanadi?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 534,
+      "input": "Kim Fransiyada \"Pax\" davrini boshqarib, mustahkamladi?",
+      "output": "Louis XIV, 17-asrda."
+    },
+    {
+      "id": 535,
+      "input": "Qachon Rim imperiyasi qismlariga bo‘lingan va Sharqiy Rim imperiyasi (Bizans) tashkil etilgan?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 536,
+      "input": "Qachon Rim imperiyasining Sharqiy qismlari (Bizans) quladi?",
+      "output": "1453-yil, Konstantinopolning turklar tomonidan zabt etilishi bilan."
+    },
+    {
+      "id": 537,
+      "input": "Kimning hukmronligi davrida Xitoyning Qing sulolasi mustahkamladi?",
+      "output": "Manchu sulolasi, 1644-yil."
+    },
+    {
+      "id": 538,
+      "input": "Qachon Fransiya inqilobi davomida \"Terror\" davri boshlandi?",
+      "output": "1793-1794-yillarda, Robespierre boshchiligida."
+    },
+    {
+      "id": 539,
+      "input": "Qachon Buyuk Britaniya Amerikaning mustamlakasini qo‘lga kiritgan?",
+      "output": "1607-yilda, Jamestown koloniyasi tashkil etildi."
+    },
+    {
+      "id": 540,
+      "input": "Kimning hukmronligi davrida \"Napoleon urushlari\" boshlangan?",
+      "output": "Napoleon Bonapart, 1803-1815-yillarda."
+    },
+    {
+      "id": 541,
+      "input": "Qachon Rimda imperator Avgustning hukmronligi boshlandi?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 542,
+      "input": "Kim Avstriya imperiyasini tashkil etgan?",
+      "output": "Frans I, 1804-yil."
+    },
+    {
+      "id": 543,
+      "input": "Kimning hukmronligi davrida Fransiya inqilobi \"Terror\"ni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 544,
+      "input": "Kim Fransuz inqilobi davomida mustahkamlikni ta'minlagan?",
+      "output": "Napoleon Bonapart, 1799-yilda."
+    },
+    {
+      "id": 545,
+      "input": "Qachon Buyuk Britaniya va Fransiya o‘rtasida \"Qrim urushi\" bo‘lib o‘tdi?",
+      "output": "1853-1856-yillarda."
+    },
+    {
+      "id": 546,
+      "input": "Kim Fransiyada imperator bo‘lib, davlatni yangiladi?",
+      "output": "Napoleon Bonapart, 1804-yilda."
+    },
+    {
+      "id": 547,
+      "input": "Kim Yaponiyada Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 548,
+      "input": "Kim Fransiya inqilobi davomida Bastiliya isyoni va davrni boshqarishdi?",
+      "output": "Maximilien Robespierre, 1789-yilda."
+    },
+    {
+      "id": 549,
+      "input": "Kim Xitoyning Qing sulolasini mustahkamlab, tarixga ishtirok etdi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 550,
+      "input": "Qachon Germaniya imperiyasi birlashdi?",
+      "output": "1871-yil, Otto von Bismarck rahbarligida."
+    },
+    {
+      "id": 551,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yilda."
+    },
+    {
+      "id": 552,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, Romulus Augustulusning taxtdan tushirilishi bilan."
+    },
+    {
+      "id": 553,
+      "input": "Kim Buyuk Britaniya imperiyasi xalqaro dominatsiyasini kengaytirdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 554,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida \"Pax Romana\" boshlandi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 555,
+      "input": "Qachon Fransiya inqilobi boshlanishi bilan Bastiliya isyoni bo‘ldi?",
+      "output": "1789-yil, 14-iyul."
+    },
+    {
+      "id": 556,
+      "input": "Kim Rimda imperator bo‘lib, gladiator janglarini yuqori darajaga olib chiqqan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 557,
+      "input": "Kim Buyuk Britaniya imperiyasi asoschisi bo‘lgan va Hindistonni mustamlaka qilgan?",
+      "output": "Robert Clive, 1757-yilda."
+    },
+    {
+      "id": 558,
+      "input": "Qachon Buyuk Britaniya Frantsiyaga qarshi \"Qrim urushi\"ni boshladi?",
+      "output": "1853-yil, Qrim urushi boshlangan."
+    },
+    {
+      "id": 559,
+      "input": "Kim Xitoyda Tang sulolasini asos solgan imperator?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 560,
+      "input": "Qachon Rim imperiyasi Sharqiy va G‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 561,
+      "input": "Kim Fransiya inqilobi davomida \"Terror\" davrini boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 562,
+      "input": "Qachon Buyuk Britaniya Hindistonda mustamlaka o‘rnatdi?",
+      "output": "1858-yil, Buyuk Britaniya Hindistonda mustamlakasini qo‘lga kiritdi."
+    },
+    {
+      "id": 563,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yilda, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 564,
+      "input": "Kim Germaniya imperiyasini birlashtirgan?",
+      "output": "Otto von Bismarck, 1871-yilda."
+    },
+    {
+      "id": 565,
+      "input": "Qachon Birinchi Jahon urushi boshlandi?",
+      "output": "1914-yil, 28-iyulda Sarayevodagi otishma bilan."
+    },
+    {
+      "id": 566,
+      "input": "Kim Yaponiyada Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 567,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, Romulus Augustulusning taxtdan tushirilishi bilan."
+    },
+    {
+      "id": 568,
+      "input": "Kim Rim imperatorligini tashkil etgan va imperiya boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 569,
+      "input": "Qachon Fransiya inqilobi davomida Napoleon Bonapart imperator bo‘ldi?",
+      "output": "1804-yil, Napoleon Bonapartning imperatorlik taxtga chiqishi bilan."
+    },
+    {
+      "id": 570,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya o‘z imperiyasini kengaytirdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 571,
+      "input": "Qachon Rim imperiyasining sharqiy qismi quladi?",
+      "output": "1453-yil, Konstantinopolning turklar tomonidan zabt etilishi bilan."
+    },
+    {
+      "id": 572,
+      "input": "Kim Fransiyada inqilobni boshqarib, inqilobchilarning faoliyatini amalga oshirgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 573,
+      "input": "Kim Xitoyda Qing sulolasini boshlab, hukmronlikni mustahkamladi?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 574,
+      "input": "Qachon Rimda imperator Tiberius hukmronlikni boshladi?",
+      "output": "Miloddan avvalgi 14-yil."
+    },
+    {
+      "id": 575,
+      "input": "Qachon Rim imperiyasida Pax Romana davrini tugatgan?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 576,
+      "input": "Qaysi imperator Xitoyning Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 577,
+      "input": "Kim Rim imperiyasida \"Pax Romana\"ni boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 578,
+      "input": "Qachon Fransiya inqilobi davomida \"Terror\" davri boshlandi?",
+      "output": "1793-1794-yillarda, Maximilien Robespierre boshchiligida."
+    },
+    {
+      "id": 579,
+      "input": "Qachon Rim imperiyasining \"Gladiator janglari\"ni o‘zgartirgan?",
+      "output": "404-yil, imperator Honorius davrida."
+    },
+    {
+      "id": 580,
+      "input": "Kim Fransuz inqilobining \"Bastiliya\" isyonini boshqargan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 581,
+      "input": "Qachon Fransiya Inqilobi so‘ngida Napoleon Bonapart imperatorlikni qo‘lga kiritdi?",
+      "output": "1804-yil, Napoleon imperator bo‘ldi."
+    },
+    {
+      "id": 582,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 583,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 584,
+      "input": "Qachon Fransiya inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya qo‘zg‘oloni sodir bo‘ldi."
+    },
+    {
+      "id": 585,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 586,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismi quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 587,
+      "input": "Kim Fransiya inqilobi davomida Robespierre boshchiligida \"Terror\"ni amalga oshirdi?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 588,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 589,
+      "input": "Kim Rimda imperator Avgust hukmronligini boshladi?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 590,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 591,
+      "input": "Kimning hukmronligi davrida Xitoyda Tang sulolasi boshlandi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 592,
+      "input": "Qachon Rim imperiyasi Sharqiy va G‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 593,
+      "input": "Kim Napoleon Bonapartni mustahkamlashga yordam bergan?",
+      "output": "Jozefina, Napoleonning birinchi rafiqasi."
+    },
+    {
+      "id": 594,
+      "input": "Kim Buyuk Britaniya imperiyasining xalqaro hukmronligini kengaytirdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 595,
+      "input": "Qachon Germaniya imperiyasi birlashdi?",
+      "output": "1871-yil, Otto von Bismarck rahbarligida."
+    },
+    {
+      "id": 596,
+      "input": "Kim Fransuz inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil."
+    },
+    {
+      "id": 597,
+      "input": "Kimning hukmronligi davrida Fransiyada Bastiliya isyoni sodir bo‘ldi?",
+      "output": "Louis XVI, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 598,
+      "input": "Kim Fransuz inqilobi davrida isyonchilarni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 599,
+      "input": "Qachon Rimda imperator Augustus hukmronlikni boshladi?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 600,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamlashda muvaffaqiyatga erishgan?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 601,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 602,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 603,
+      "input": "Kimning hukmronligi davrida Rim imperiyasi Pax Romana davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 604,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlangan?",
+      "output": "264-yil, Birinchi gladiator jangi Rimda o‘tkazilgan."
+    },
+    {
+      "id": 605,
+      "input": "Kim Rim imperiyasini 476-yilda qulashi bilan yakunlangan?",
+      "output": "Romulus Augustulus, so‘nggi imperator."
+    },
+    {
+      "id": 606,
+      "input": "Kim Fransuz inqilobi davomida \"Ulug‘bek imperiyasi\"ni o‘rnatgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 607,
+      "input": "Qachon Fransiya inqilobi davomida Napoleon Bonapart imperator bo‘ldi?",
+      "output": "1804-yil, Napoleon Bonapart imperator bo‘ldi."
+    },
+    {
+      "id": 608,
+      "input": "Kim Fransiyada \"Bastiliya\" isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 609,
+      "input": "Kim Rim imperiyasi tarixidagi eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 610,
+      "input": "Kimning hukmronligi davrida Xitoyda Tang sulolasi boshlandi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 611,
+      "input": "Qachon Buyuk Britaniya imperiyasida Viktoriya davri boshlandi?",
+      "output": "1837-yilda, Viktoriya taxtga chiqqan."
+    },
+    {
+      "id": 612,
+      "input": "Qachon Rim imperiyasi sharqiy va g‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 613,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 614,
+      "input": "Kim Rimda imperator bo‘lib, Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 615,
+      "input": "Kim Napoleon Bonapartni Yevropada mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 616,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yil, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 617,
+      "input": "Kimning hukmronligi davrida Germaniya imperiyasi birlashdi?",
+      "output": "Otto von Bismarck, 1871-yilda."
+    },
+    {
+      "id": 618,
+      "input": "Kim Rim imperatorligini tashkil etgan va imperiya boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 619,
+      "input": "Kim Fransuz inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil."
+    },
+    {
+      "id": 620,
+      "input": "Kim Rimda gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 621,
+      "input": "Qachon Fransiya inqilobi boshlangan?",
+      "output": "1789-yil, 14-iyulda Bastiliya isyoni boshlandi."
+    },
+    {
+      "id": 622,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 623,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 624,
+      "input": "Qachon Fransiya inqilobi davomida Bastiliya isyoni sodir bo‘ldi?",
+      "output": "1789-yil, 14-iyul."
+    },
+    {
+      "id": 625,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 626,
+      "input": "Kim Rimda imperator Avgust hukmronlikni boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 627,
+      "input": "Kim Napoleon Bonapartni imperatorlikni mustahkamlashga yordam bergan?",
+      "output": "Jozefina, Napoleonning birinchi rafiqasi."
+    },
+    {
+      "id": 628,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 629,
+      "input": "Kim Fransiya inqilobi davomida \"Terror\"ni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillardagi davrda."
+    },
+    {
+      "id": 630,
+      "input": "Kim Yaponiyada Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 631,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Birinchi gladiator jangi Rimda o‘tkazilgan."
+    },
+    {
+      "id": 632,
+      "input": "Kim Rim imperiyasida \"Pax Romana\"ni boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 633,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 634,
+      "input": "Kimning hukmronligi davrida Rim imperiyasi Pax Romana davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 635,
+      "input": "Qachon Rimda imperator Tiberius hukmronlikni boshlagan?",
+      "output": "Miloddan avvalgi 14-yilda."
+    },
+    {
+      "id": 636,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 637,
+      "input": "Qachon Rim imperiyasida Pax Romana davrini tugatgan?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 638,
+      "input": "Kim Fransiya inqilobi davomida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 639,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 640,
+      "input": "Kim Rim imperiyasini 476-yilda qulashi bilan yakunlangan?",
+      "output": "Romulus Augustulus, so‘nggi imperator."
+    },
+    {
+      "id": 641,
+      "input": "Kim Buyuk Britaniya imperiyasining xalqaro hukmronligini kengaytirdi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 642,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 643,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yil, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 644,
+      "input": "Kimning hukmronligi davrida Xitoyda Tang sulolasi boshlandi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 645,
+      "input": "Kim Fransuz inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil."
+    },
+    {
+      "id": 646,
+      "input": "Kim Rim imperiyasida \"Terror\"ni amalga oshirgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillardagi davrda."
+    },
+    {
+      "id": 647,
+      "input": "Kim Fransuz inqilobi davomida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 648,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 649,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yil."
+    },
+    {
+      "id": 650,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 651,
+      "input": "Kim Fransiya inqilobi davomida \"Terror\"ni boshqarib, inqilobni qayta tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 652,
+      "input": "Qachon Germaniya imperiyasi birlashdi?",
+      "output": "1871-yil, Otto von Bismarck rahbarligida."
+    },
+    {
+      "id": 653,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 654,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 655,
+      "input": "Kim Rim imperiyasining pax romanasini ta’minlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 656,
+      "input": "Qachon Fransiya inqilobi boshlanishi bilan Bastiliya isyoni bo‘ldi?",
+      "output": "1789-yil, 14-iyulda."
+    },
+    {
+      "id": 657,
+      "input": "Kim Rimda imperator Avgust hukmronlikni boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 658,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 659,
+      "input": "Kim Rim imperiyasining \"Pax Romana\"ni boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 660,
+      "input": "Qachon Rim imperiyasida Pax Romana davrini tugatgan?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 661,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 662,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 663,
+      "input": "Qachon Rimda imperator Avgustning hukmronligi boshlandi?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 664,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 665,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida \"Pax Romana\" boshlandi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 666,
+      "input": "Qachon Fransiya inqilobi davomida \"Terror\" davri boshlandi?",
+      "output": "1793-1794-yillardagi davrda, Robespierre boshchiligida."
+    },
+    {
+      "id": 667,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 668,
+      "input": "Kimning hukmronligi davrida Xitoyda Tang sulolasi boshlandi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 669,
+      "input": "Qachon Buyuk Britaniya imperiyasida Viktoriya davri boshlandi?",
+      "output": "1837-yil, Viktoriya taxtga chiqqan."
+    },
+    {
+      "id": 670,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 671,
+      "input": "Kim Rimda imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 672,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 673,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 674,
+      "input": "Kim Xitoyda Qin sulolasini boshlab, birinchi imperatorlikni e’lon qilgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 675,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 676,
+      "input": "Kim Fransiya inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 677,
+      "input": "Qachon Rim imperiyasi sharqiy va g‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yil, Theodosius I davrida."
+    },
+    {
+      "id": 678,
+      "input": "Kim Napoleon Bonapartni 1815-yilda mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, Vattenluda."
+    },
+    {
+      "id": 679,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 680,
+      "input": "Qachon Fransiya inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya isyoni boshlandi."
+    },
+    {
+      "id": 681,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 682,
+      "input": "Qachon Fransiya inqilobi davomida Napoleon Bonapart imperator bo‘ldi?",
+      "output": "1804-yil, Napoleon Bonapart imperator bo‘ldi."
+    },
+    {
+      "id": 683,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 684,
+      "input": "Qachon Rimda imperator Tiberius hukmronlikni boshlagan?",
+      "output": "Miloddan avvalgi 14-yilda."
+    },
+    {
+      "id": 685,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 686,
+      "input": "Kim Fransuz inqilobi davrida \"Terror\"ni boshqarib, inqilobni qayta tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 687,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 688,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 689,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 690,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 691,
+      "input": "Kimning hukmronligi davrida Rim imperiyasida Pax Romana boshlandi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 692,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 693,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 694,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamlashda muvaffaqiyatga erishgan?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 695,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil."
+    },
+    {
+      "id": 696,
+      "input": "Qachon Rim imperiyasining Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yilda, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 697,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 698,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 699,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 700,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya imperiyasining dunyo bo‘yicha hukmronligi kuchaygan?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 701,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 702,
+      "input": "Kim Fransuz inqilobi davomida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 703,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 704,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yil, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 705,
+      "input": "Kimning hukmronligi davrida Buyuk Britaniya imperiyasining dunyo bo‘yicha hukmronligi kuchaygan?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 706,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 707,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 708,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yil."
+    },
+    {
+      "id": 709,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 710,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 711,
+      "input": "Qachon Rim imperiyasida Pax Romana davri tugagan?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 712,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 713,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 714,
+      "input": "Qachon Rim imperiyasining Sharqiy qismlari mustahkamlandi?",
+      "output": "330-yilda, imperator Konstantin davrida."
+    },
+    {
+      "id": 715,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 716,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 717,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 718,
+      "input": "Kim Napoleon Bonapartni 1815-yilda mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, Vattenluda."
+    },
+    {
+      "id": 719,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 720,
+      "input": "Qachon Fransiya inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya isyoni boshlandi."
+    },
+    {
+      "id": 721,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 722,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 723,
+      "input": "Kimning hukmronligi davrida Fransiya \"Ulug‘bek imperiyasini\" tashkil etgan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillarda."
+    },
+    {
+      "id": 724,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 725,
+      "input": "Kim Rim imperatorlarini tanqid qilgan, 180 yil davomida hukmronlik qilgan?",
+      "output": "Mark Avreli, 161–180-yillar."
+    },
+    {
+      "id": 726,
+      "input": "Kim Rim imperiyasida imperator Avgust hukmronlikni boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 727,
+      "input": "Qachon Buyuk Britaniya imperiyasida Viktoriya davri boshlandi?",
+      "output": "1837-yil, Viktoriya taxtga chiqqan."
+    },
+    {
+      "id": 728,
+      "input": "Kim Fransuz inqilobi davomida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil 14-iyulda."
+    },
+    {
+      "id": 729,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 730,
+      "input": "Kim Fransuz inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 731,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 732,
+      "input": "Kimning hukmronligi davrida Xitoyda Tang sulolasi boshlandi?",
+      "output": "Li Shimin, 618-yil."
+    },
+    {
+      "id": 733,
+      "input": "Qachon Rim imperiyasining Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yilda, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 734,
+      "input": "Qachon Rim imperiyasining sharqiy va g‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yilda, Theodosius I davrida."
+    },
+    {
+      "id": 735,
+      "input": "Kim Rim imperiyasida “Pax Romana” davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 736,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 737,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 738,
+      "input": "Qachon Rim imperiyasida Pax Romana davri tugadi?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 739,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 740,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqargan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 741,
+      "input": "Kim Fransuz inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 742,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 743,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 744,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 745,
+      "input": "Kim Rimda imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 746,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 747,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 748,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 749,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 750,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 751,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 752,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 753,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yil."
+    },
+    {
+      "id": 754,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 755,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 756,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 757,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlandi?",
+      "output": "Miloddan avvalgi 27-yilda, Avgust imperatorligi davrida."
+    },
+    {
+      "id": 758,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 759,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 760,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 761,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 762,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 763,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 764,
+      "input": "Kim Rimda imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 765,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 766,
+      "input": "Qachon Rim imperiyasining sharqiy va g‘arbiy qismlarga bo‘lingan?",
+      "output": "395-yilda, Theodosius I davrida."
+    },
+    {
+      "id": 767,
+      "input": "Kim Fransiya inqilobi davomida \"Napoleon\"ni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 768,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 769,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 770,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 771,
+      "input": "Qachon Buyuk Britaniya Hindistonni mustamlaka qildi?",
+      "output": "1857-yil, Hindistonni inglizlar mustamlaka qildilar."
+    },
+    {
+      "id": 772,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 773,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 774,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 775,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 776,
+      "input": "Kim Fransiya inqilobi davomida \"Terror\"ni boshqarib, inqilobni qayta tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 777,
+      "input": "Qachon Buyuk Britaniya imperiyasida Viktoriya davri boshlandi?",
+      "output": "1837-yil, Viktoriya taxtga chiqqan."
+    },
+    {
+      "id": 778,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 779,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 780,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 781,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 782,
+      "input": "Qachon Rim imperiyasida Pax Romana davri tugadi?",
+      "output": "180-yilda, imperator Mark Avreli davrida."
+    },
+    {
+      "id": 783,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 784,
+      "input": "Kim Rimda imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 785,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 786,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 787,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 788,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 789,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 790,
+      "input": "Kim Fransiya inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 791,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 792,
+      "input": "Kim Fransuz inqilobi davrida \"Terror\"ni boshqarib, inqilobni qayta tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 793,
+      "input": "Qachon Rim imperiyasining Sharqiy qismlari mustahkamlandi?",
+      "output": "330-yilda, imperator Konstantin davrida."
+    },
+    {
+      "id": 794,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 795,
+      "input": "Qachon Fransiya inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya isyoni boshlandi."
+    },
+    {
+      "id": 796,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 797,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 798,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 799,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 800,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 801,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 802,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 803,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 804,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 805,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 806,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 807,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 808,
+      "input": "Qachon Buyuk Britaniya imperiyasida Viktoriya davri boshlandi?",
+      "output": "1837-yil, Viktoriya taxtga chiqqan."
+    },
+    {
+      "id": 809,
+      "input": "Kim Rimda imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 810,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 811,
+      "input": "Kim Fransuz inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 812,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 813,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 814,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 815,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 816,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 817,
+      "input": "Qachon Rim imperiyasining Sharqiy qismlari mustahkamlandi?",
+      "output": "330-yilda, imperator Konstantin davrida."
+    },
+    {
+      "id": 818,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 819,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 820,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 821,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 822,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 823,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 824,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 825,
+      "input": "Kimning hukmronligi davrida Rim imperiyasining sharqiy va g‘arbiy qismlarga bo‘lingan?",
+      "output": "Theodosius I, 395-yil."
+    },
+    {
+      "id": 826,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 827,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 828,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 829,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 830,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 831,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 832,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 833,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 834,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 835,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 836,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 837,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 838,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 839,
+      "input": "Kim Fransiya inqilobi davomida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 840,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 841,
+      "input": "Qachon Rim imperiyasining sharqiy qismlari mustahkamlandi?",
+      "output": "330-yilda, imperator Konstantin davrida."
+    },
+    {
+      "id": 842,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 843,
+      "input": "Kim Fransiya inqilobi davrida \"Terror\"ni boshqarib, inqilobni qayta tiklagan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 844,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 845,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 846,
+      "input": "Kim Fransuz inqilobi davomida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 847,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 848,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 849,
+      "input": "Kim Buyuk Britaniya imperiyasining asoschisi bo‘lgan?",
+      "output": "Vilgelm Xusran, 1066-yil."
+    },
+    {
+      "id": 850,
+      "input": "Kim Fransiya inqilobi davomida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 851,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 852,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 853,
+      "input": "Kim Rim imperiyasining asoschisi bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 854,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 855
+    },
+    {
+      "id": 856,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 857,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 858,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 859,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 860,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 861,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 862,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 863,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 864,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 865,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 866,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 867,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 868,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 869,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 870,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 871,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 872,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 873,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 874,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 875,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 876,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 877,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 878,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 879,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 880,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 881,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 882,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 883,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 884,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 885,
+      "input": "Qachon Fransiya inqilobi boshlandi?",
+      "output": "1789-yil, 14-iyulda Bastiliya isyoni boshlandi."
+    },
+    {
+      "id": 886,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 887,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 888,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 889,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 890,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 891,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 892,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 893,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 894,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 895,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 896,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 897,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 898,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 899,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 900,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 901,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 902,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 903,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 904,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 905,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 906,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 907,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 908,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 909,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 910,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 911,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 912,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 913,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 914,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 915,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 916,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 917,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 918,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 919,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 920,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 921,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 922,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 923,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 924,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 925,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 926,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 927,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 928,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 929,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 930,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 931,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 932,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 933,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 934,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 935,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 936,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 937,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 938,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 939,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 940,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 941,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 942,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 943,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 944,
+      "input": "Kim Xitoyda Ming sulolasini tashkil etgan?",
+      "output": "Zhu Yuanzhang, 1368-yilda."
+    },
+    {
+      "id": 945,
+      "input": "Qachon Napoleon Bonapartning hukmronligi tugagan?",
+      "output": "1814-yil, Napoleon Bonapartni taxtdan ag‘darishdi."
+    },
+    {
+      "id": 946,
+      "input": "Qachon Rim imperiyasi sharqiy va g‘arbiy qismlarga bo‘lindi?",
+      "output": "395-yil, imperator Theodosius I tomonidan."
+    },
+    {
+      "id": 947,
+      "input": "Kim buyuk Alexanderning mirasini taqsimlagan generallardan biri bo‘lgan?",
+      "output": "Ptolemey, Misrni boshqargan."
+    },
+    {
+      "id": 948,
+      "input": "Qachon Frantsuz inqilobi yuzaga keldi?",
+      "output": "1789-yil, Bastiliya isyoni boshlanishi."
+    },
+    {
+      "id": 949,
+      "input": "Kim Rim imperiyasini tashkil etgan va birinchi imperator bo‘lgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 950,
+      "input": "Qachon Xitoyda Qin sulolasi hukmronlik qilgan?",
+      "output": "Miloddan avvalgi 221-206-yillar."
+    },
+    {
+      "id": 951,
+      "input": "Kim Rim imperiyasining eng mashhur imperatori bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 952,
+      "input": "Qachon Frantsuz inqilobi amalga oshirildi?",
+      "output": "1789-1799-yillar, Napoleon Bonapart davrida."
+    },
+    {
+      "id": 953,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 954,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 955,
+      "input": "Qachon Rim imperiyasining sharqiy qismlari Konstantinopolda mustahkamlandi?",
+      "output": "330-yil, imperator Konstantin davrida."
+    },
+    {
+      "id": 956,
+      "input": "Kim Buyuk Britaniyada Viktoriya davrini boshqarib, imperiyani mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 957,
+      "input": "Kim Fransiya inqilobidan keyin Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 958,
+      "input": "Qachon Rimda gladiator janglari birinchi marta o‘tkazildi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari boshlandi."
+    },
+    {
+      "id": 959,
+      "input": "Kim Xitoyda Yuan sulolasini tashkil etgan?",
+      "output": "Kubilay Xon, 1271-yilda."
+    },
+    {
+      "id": 960,
+      "input": "Qachon buyuk Alexander Makedoniyalik yangi imperiya yaratdi?",
+      "output": "334-323-yillar, buyuk Alexanderning yurishlari."
+    },
+    {
+      "id": 961,
+      "input": "Kim Fransuz inqilobi davrida \"Reynolds\"ni mag‘lub etgan?",
+      "output": "Napoleon Bonapart, 1805-yil."
+    },
+    {
+      "id": 962,
+      "input": "Kim Angliyada Magna Carta imzolanishiga olib kelgan?",
+      "output": "Jon, 1215-yil."
+    },
+    {
+      "id": 963,
+      "input": "Qachon Rim imperiyasida Pax Romana davri boshlangan?",
+      "output": "Miloddan avvalgi 27-yil, Augustus tomonidan."
+    },
+    {
+      "id": 964,
+      "input": "Kim Fransuz inqilobi davrida \"Terror\"ni boshqargan?",
+      "output": "Maximilien Robespierre, 1793-1794-yillar."
+    },
+    {
+      "id": 965,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 966,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 967,
+      "input": "Qachon Rim imperiyasining sharqiy qismlari mustahkamlandi?",
+      "output": "330-yil, imperator Konstantin davrida."
+    },
+    {
+      "id": 968,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 969,
+      "input": "Kim Rim imperiyasining G‘arbiy qismini tashkil etgan?",
+      "output": "Diokletian, 286-yilda."
+    },
+    {
+      "id": 970,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 971,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 972,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 973,
+      "input": "Kim Xitoyda Yuan sulolasini tashkil etgan?",
+      "output": "Kubilay Xon, 1271-yilda."
+    },
+    {
+      "id": 974,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 975,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 976,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 977,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 978,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 979,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 980,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 981,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 982,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 983,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 984,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 985,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 986,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 987,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 988,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 989,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 990,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 991,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 992,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 993,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 994,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 995,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 996,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 997,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 998,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 999,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 1000,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 1001,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 1002,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1003,
+      "input": "Kim Rim imperiyasining sharqiy qismini tashkil etgan?",
+      "output": "Konstantin, 330-yilda."
+    },
+    {
+      "id": 1004,
+      "input": "Kim Fransiya inqilobi davrida Bastiliya isyoni boshchiligini amalga oshirgan?",
+      "output": "Inqilobchilar, 1789-yil, 14-iyulda."
+    },
+    {
+      "id": 1005,
+      "input": "Kim Xitoyda Qin sulolasini tashkil etgan?",
+      "output": "Qin Shi Huang, miloddan avvalgi 221-yilda."
+    },
+    {
+      "id": 1006,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1007,
+      "input": "Kim Rim imperiyasida imperator Avgustning hukmronligini boshlagan?",
+      "output": "Miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1008,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 1009,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 1010,
+      "input": "Kim Rim imperiyasida gladiator janglarini boshqargan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 1011,
+      "input": "Qachon Rim imperiyasining G‘arbiy qismlari quladi?",
+      "output": "476-yil, G‘arbiy Rim imperiyasi quladi."
+    },
+    {
+      "id": 1012,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1013,
+      "input": "Kim Fransiya inqilobi davrida Napoleon Bonapartni taxtdan ag‘darishdi?",
+      "output": "Koalitsiya kuchlari, 1814-yil."
+    },
+    {
+      "id": 1014,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1015,
+      "input": "Kim Rim imperiyasida Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1016,
+      "input": "Kim Fransiya inqilobi davrida \"Napoleon\"ni mag‘lub etgan?",
+      "output": "Koalitsiya kuchlari, 1815-yil, Vattenluda."
+    },
+    {
+      "id": 1017,
+      "input": "Kim Xitoyda Meiji inqilobini amalga oshirgan?",
+      "output": "Meiji imperatori, 1868-yilda."
+    },
+    {
+      "id": 1018,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1019,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 1020,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 1021,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1022,
+      "input": "Kim Rim imperiyasining Pax Romana davrida hukmronlik qilgan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1023,
+      "input": "Kim Xitoyda Tang sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 1024,
+      "input": "Kim Rimda imperatorlikni birinchi bo‘lib mustahkamladi?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1025,
+      "input": "Kim Xitoyda Qing sulolasini tashkil etgan?",
+      "output": "Li Shimin, 618-yilda."
+    },
+    {
+      "id": 1026,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshqarib, imperatorlikni mustahkamlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    },
+    {
+      "id": 1027,
+      "input": "Kim Rim imperiyasining eng mashhur hukmdorlaridan biri bo‘lgan?",
+      "output": "Julius Caesar, miloddan avvalgi 1-asrda."
+    },
+    {
+      "id": 1028,
+      "input": "Kim Buyuk Britaniya imperiyasini mustahkamladi?",
+      "output": "Viktoriya, 19-asrda."
+    },
+    {
+      "id": 1029,
+      "input": "Kim Fransuz inqilobi davrida Napoleon Bonapartni taxtga olib chiqqan?",
+      "output": "Napoleon Bonapart, 1799-yil, konsul sifatida."
+    },
+    {
+      "id": 1030,
+      "input": "Qachon Rim imperiyasida gladiator janglari boshlandi?",
+      "output": "264-yil, Rimda birinchi gladiator janglari o‘tkazildi."
+    },
+    {
+      "id": 1031,
+      "input": "Kim Rim imperiyasining Pax Romana davrini boshlagan?",
+      "output": "Augustus, miloddan avvalgi 27-yilda."
+    }
+  ]

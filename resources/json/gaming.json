@@ -1,0 +1,5097 @@
+ [
+    {
+      "id": 1,
+      "input": "O'yinlarda eng ko'p ishlatiladigan tasodifiy raqam generatori qaysi?",
+      "output": "RNG (Random Number Generator)"
+    },
+    {
+      "id": 2,
+      "input": "\"Super Mario Bros.\" o'yini qaysi yilda chiqarilgan?",
+      "output": 1985
+    },
+    {
+      "id": 3,
+      "input": "O'yinlarda \"XP\" nima degan ma'noni anglatadi?",
+      "output": "Experience Points (tajriba ballari)"
+    },
+    {
+      "id": 4,
+      "input": "\"Minecraft\" o'yini kim tomonidan yaratilgan?",
+      "output": "Markus Persson (Notch)"
+    },
+    {
+      "id": 5,
+      "input": "\"League of Legends\" o'yinida nechta qahramon mavjud?",
+      "output": "160 dan ortiq"
+    },
+    {
+      "id": 6,
+      "input": "\"Fortnite\" o'yini qaysi kompaniya tomonidan ishlab chiqilgan?",
+      "output": "Epic Games"
+    },
+    {
+      "id": 7,
+      "input": "\"The Sims\" o'yinini kim yaratgan?",
+      "output": "Will Wright"
+    },
+    {
+      "id": 8,
+      "input": "\"Pac-Man\" o'yini qaysi davlatda yaratildi?",
+      "output": "Yaponiyada"
+    },
+    {
+      "id": 9,
+      "input": "\"Tetris\" o'yini qaysi yilda chiqdi?",
+      "output": 1984
+    },
+    {
+      "id": 10,
+      "input": "\"Zelda: Breath of the Wild\" qaysi konsolda mavjud?",
+      "output": "Nintendo Switch"
+    },
+    {
+      "id": 11,
+      "input": "\"FIFA\" o'yinlari nechanchi versiyasidan boshlab jahon chempionatlari mavjud?",
+      "output": 1998
+    },
+    {
+      "id": 12,
+      "input": "O'yinlarda \"PvP\" nima anglatadi?",
+      "output": "Player vs Player (O'yinchi qarshi o'yinchi)"
+    },
+    {
+      "id": 13,
+      "input": "\"Grand Theft Auto V\" o'yini qaysi yilda chiqdi?",
+      "output": 2013
+    },
+    {
+      "id": 14,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yini qaysi studiya tomonidan ishlab chiqilgan?",
+      "output": "CD Projekt Red"
+    },
+    {
+      "id": 15,
+      "input": "\"Overwatch\" o'yinida nechta qahramon mavjud?",
+      "output": "32 dan ortiq"
+    },
+    {
+      "id": 16,
+      "input": "\"Among Us\" o'yini qanday janrga kiradi?",
+      "output": "Social Deduction (Ijtimoiy taxmin qilish)"
+    },
+    {
+      "id": 17,
+      "input": "\"Pokémon Go\" o'yini qaysi texnologiyani ishlatadi?",
+      "output": "Augmented Reality (AR)"
+    },
+    {
+      "id": 18,
+      "input": "\"Dark Souls\" o'yini qaysi janrda ishlab chiqilgan?",
+      "output": "Action RPG (harakatli ro'le o'yini)"
+    },
+    {
+      "id": 19,
+      "input": "\"World of Warcraft\" o'yini qaysi janrda bo'ladi?",
+      "output": "MMORPG (Massively Multiplayer Online Role-Playing Game)"
+    },
+    {
+      "id": 20,
+      "input": "\"Call of Duty\" o'yinlari qanday janrga mansub?",
+      "output": "FPS (First-Person Shooter)"
+    },
+    {
+      "id": 21,
+      "input": "\"Animal Crossing\" o'yini qaysi konsolda mashhur?",
+      "output": "Nintendo Switch"
+    },
+    {
+      "id": 22,
+      "input": "\"Red Dead Redemption\" o'yinida qaysi davr tasvirlangan?",
+      "output": "Vahshiy G'arb (Wild West)"
+    },
+    {
+      "id": 23,
+      "input": "\"Fall Guys\" o'yini qanday janrga kiradi?",
+      "output": "Battle Royale (Xarobalarga qarshi kurash)"
+    },
+    {
+      "id": 24,
+      "input": "\"Street Fighter\" o'yinida nechta belgi mavjud?",
+      "output": "40 dan ortiq"
+    },
+    {
+      "id": 25,
+      "input": "\"Scribblenauts\" o'yinida qanday mexanika ishlatilgan?",
+      "output": "Ob'ektlarni yozib yaratish"
+    },
+    {
+      "id": 26,
+      "input": "\"Counter-Strike\" o'yinida qaysi tomonlar jang qiladi?",
+      "output": "Terroristlar va Anti-terroristlar"
+    },
+    {
+      "id": 27,
+      "input": "\"SimCity\" o'yinida o'yinchi nima quradi?",
+      "output": "Shahar yaratish"
+    },
+    {
+      "id": 28,
+      "input": "\"Hearthstone\" o'yinida qanday kartalar ishlatiladi?",
+      "output": "Yuqori xususiyatli kartalar (Collectible Cards)"
+    },
+    {
+      "id": 29,
+      "input": "\"Resident Evil\" o'yini qanday janrda?",
+      "output": "Survival Horror (Omonda qolish qo'rqinchli o'yin)"
+    },
+    {
+      "id": 30,
+      "input": "\"Mortal Kombat\" o'yinida eng mashhur harakat qanday nomlanadi?",
+      "output": "Fatality"
+    },
+    {
+      "id": 31,
+      "input": "\"League of Legends\" o'yinida o'yinchilar qaysi jamoalarda o'ynaydi?",
+      "output": "\"Blue\" va \"Red\" jamoalari"
+    },
+    {
+      "id": 32,
+      "input": "\"StarCraft\" o'yinida nechta o'yinchi ishtirok etadi?",
+      "output": "2 dan 4 gacha"
+    },
+    {
+      "id": 33,
+      "input": "\"Assassin's Creed\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Assassin (qotil)"
+    },
+    {
+      "id": 34,
+      "input": "\"The Legend of Zelda\" o'yinida asosiy qahramon kim?",
+      "output": "Link"
+    },
+    {
+      "id": 35,
+      "input": "\"Portal\" o'yinida o'yinchi nima orqali portal ochadi?",
+      "output": "Portal qutisi (Portal Gun)"
+    },
+    {
+      "id": 36,
+      "input": "\"Final Fantasy VII\" o'yini qaysi yilda chiqarilgan?",
+      "output": 1997
+    },
+    {
+      "id": 37,
+      "input": "\"GTA V\" o'yinida o'yinchi qaysi personajlarni boshqaradi?",
+      "output": "Michael, Trevor va Franklin"
+    },
+    {
+      "id": 38,
+      "input": "\"BioShock\" o'yini qanday janrga kiradi?",
+      "output": "First-Person Shooter (FPS)"
+    },
+    {
+      "id": 39,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday dunyo mavjud?",
+      "output": "Tamriel (dastlabki hudud Skyrim)"
+    },
+    {
+      "id": 40,
+      "input": "\"Dark Souls\" o'yini kim tomonidan ishlab chiqilgan?",
+      "output": "FromSoftware"
+    },
+    {
+      "id": 41,
+      "input": "\"Minecraft\" o'yinida o'yinchi qanday bloklar bilan ishlaydi?",
+      "output": "3D bloklar"
+    },
+    {
+      "id": 42,
+      "input": "\"Overwatch 2\" o'yinida yangi qahramon kim?",
+      "output": "Kiriko"
+    },
+    {
+      "id": 43,
+      "input": "\"Halo\" o'yini qaysi konsolda birinchi bo'lib chiqarilgan?",
+      "output": "Xbox"
+    },
+    {
+      "id": 44,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida asosiy qahramon kim?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 45,
+      "input": "\"Spelunky\" o'yinida nima maqsad?",
+      "output": "Tizimli tarzda chuqurliklarga kirish va boylik topish"
+    },
+    {
+      "id": 46,
+      "input": "\"Doom\" o'yinida asosiy qahramon kim?",
+      "output": "Doomguy (Space Marine)"
+    },
+    {
+      "id": 47,
+      "input": "\"Apex Legends\" o'yinida nechta personaj mavjud?",
+      "output": "20 dan ortiq"
+    },
+    {
+      "id": 48,
+      "input": "\"Hollow Knight\" o'yinida qaysi dunyo tasvirlangan?",
+      "output": "Hallownest (yer osti qirolligi)"
+    },
+    {
+      "id": 49,
+      "input": "\"Battlefield\" o'yinida qanday jangovar maydonlar mavjud?",
+      "output": "Yirik jangovar maydonlar (dengiz, havo, yer)"
+    },
+    {
+      "id": 50,
+      "input": "\"Fallout 4\" o'yinida o'yinchi qaysi janrda o'ynaydi?",
+      "output": "RPG (Rol o'ynash o'yini)"
+    },
+    {
+      "id": 51,
+      "input": "\"Minecraft\" o'yinida o'yinchi qanday yaratish imkoniyatiga ega?",
+      "output": "Bloklar yordamida qurilish, yaratish"
+    },
+    {
+      "id": 52,
+      "input": "\"Ragnarok Online\" o'yini qaysi janrda bo'ladi?",
+      "output": "MMORPG (Massively Multiplayer Online Role-Playing Game)"
+    },
+    {
+      "id": 53,
+      "input": "\"Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 54,
+      "input": "\"God of War\" o'yinida qaysi mifologiya asosida hikoya qurilgan?",
+      "output": "Norveg mifologiyasi"
+    },
+    {
+      "id": 55,
+      "input": "\"Counter-Strike: Global Offensive\" o'yinida necha nafar o'yinchi qatnashadi?",
+      "output": "5 nafar har bir jamoada"
+    },
+    {
+      "id": 56,
+      "input": "\"The Last of Us\" o'yini qanday janrga mansub?",
+      "output": "Action-Adventure"
+    },
+    {
+      "id": 57,
+      "input": "\"Far Cry\" o'yinlarida o'yinchi qanday dunyolarda jang qiladi?",
+      "output": "Ochiq dunyo, ochiq hududlar"
+    },
+    {
+      "id": 58,
+      "input": "\"Forza Horizon\" o'yinida qaysi janrda o'ynaladi?",
+      "output": "Racing (Poyga)"
+    },
+    {
+      "id": 59,
+      "input": "\"FIFA 23\" o'yinida qanday futbol jamoalari mavjud?",
+      "output": "Real futbol jamoalari"
+    },
+    {
+      "id": 60,
+      "input": "\"Destiny 2\" o'yini qaysi janrga kiradi?",
+      "output": "First-Person Shooter (FPS) + MMORPG"
+    },
+    {
+      "id": 61,
+      "input": "\"Sea of Thieves\" o'yini qanday janrda ishlab chiqilgan?",
+      "output": "Action-Adventure, PvP"
+    },
+    {
+      "id": 62,
+      "input": "\"Civilization VI\" o'yinida o'yinchi nima quradi?",
+      "output": "Imperiya qurish va rivojlantirish"
+    },
+    {
+      "id": 63,
+      "input": "\"Rocket League\" o'yinida qanday o'yin mexanizmi ishlatilgan?",
+      "output": "Futbol va avtomobillar o'rtasidagi aralashma"
+    },
+    {
+      "id": 64,
+      "input": "\"Animal Crossing: New Horizons\" o'yinida o'yinchi nima qiladi?",
+      "output": "O'z orolida hayot quradi va rivojlantiradi"
+    },
+    {
+      "id": 65,
+      "input": "\"Assassin's Creed Odyssey\" o'yinida asosiy qahramon kim?",
+      "output": "Alexios yoki Kassandra"
+    },
+    {
+      "id": 66,
+      "input": "\"Uncharted\" o'yinida asosiy qahramon kim?",
+      "output": "Nathan Drake"
+    },
+    {
+      "id": 67,
+      "input": "\"Bloodborne\" o'yini qaysi janrda ishlab chiqilgan?",
+      "output": "Action RPG, Survival Horror"
+    },
+    {
+      "id": 68,
+      "input": "\"The Division 2\" o'yini qanday janrda?",
+      "output": "Third-Person Shooter (TPS)"
+    },
+    {
+      "id": 69,
+      "input": "\"Mass Effect\" o'yinida asosiy qahramon kim?",
+      "output": "Commander Shepard"
+    },
+    {
+      "id": 70,
+      "input": "\"Resident Evil 4\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Leon S. Kennedy"
+    },
+    {
+      "id": 71,
+      "input": "\"Watch Dogs\" o'yinida o'yinchi qanday texnologiyani ishlatadi?",
+      "output": "Hakerlik va dasturiy ta'minot"
+    },
+    {
+      "id": 72,
+      "input": "\"The Elder Scrolls IV: Oblivion\" o'yinida asosiy qahramon kim?",
+      "output": "Hero (nomi o'zgarishi mumkin)"
+    },
+    {
+      "id": 73,
+      "input": "\"The Last of Us Part II\" o'yinida qaysi qahramon o'ynaydi?",
+      "output": "Ellie"
+    },
+    {
+      "id": 74,
+      "input": "\"Kingdom Hearts\" o'yinida asosiy qahramon kim?",
+      "output": "Sora"
+    },
+    {
+      "id": 75,
+      "input": "\"Minecraft\" o'yinida qanday rejimlar mavjud?",
+      "output": "Survival, Creative, Adventure, Hardcore"
+    },
+    {
+      "id": 76,
+      "input": "\"Need for Speed\" o'yinida qaysi janrda o'ynaladi?",
+      "output": "Racing (Poyga)"
+    },
+    {
+      "id": 77,
+      "input": "\"Diablo III\" o'yini qanday janrda?",
+      "output": "Action RPG (Harakatli ro'le o'yini)"
+    },
+    {
+      "id": 78,
+      "input": "\"Counter-Strike 1.6\" o'yinida qanday jamoalar mavjud?",
+      "output": "Terroristlar va Anti-terroristlar"
+    },
+    {
+      "id": 79,
+      "input": "\"Battlefield V\" o'yini qaysi davrda joylashgan?",
+      "output": "Ikkinchi Jahon Urushi"
+    },
+    {
+      "id": 80,
+      "input": "\"Tom Clancy's Rainbow Six Siege\" o'yinida nechta operator mavjud?",
+      "output": "60 dan ortiq"
+    },
+    {
+      "id": 81,
+      "input": "\"Rocket League\" o'yinida qanday sport turi mavjud?",
+      "output": "Futbol va avtomobillar"
+    },
+    {
+      "id": 82,
+      "input": "\"Fallout New Vegas\" o'yinida asosiy qahramon kim?",
+      "output": "Courier"
+    },
+    {
+      "id": 83,
+      "input": "\"Star Wars Jedi: Fallen Order\" o'yinida asosiy qahramon kim?",
+      "output": "Cal Kestis"
+    },
+    {
+      "id": 84,
+      "input": "\"For Honor\" o'yini qaysi jangovar uslubga ega?",
+      "output": "Yaqin jangovar o'yin (melee combat)"
+    },
+    {
+      "id": 85,
+      "input": "\"Overcooked!\" o'yinida o'yinchilar qanday vazifani bajaradi?",
+      "output": "Ovqat pishirish va boshqarish"
+    },
+    {
+      "id": 86,
+      "input": "\"Street Fighter V\" o'yinida eng mashhur belgi kim?",
+      "output": "Ryu"
+    },
+    {
+      "id": 87,
+      "input": "\"The Sims 4\" o'yinida o'yinchi nimani boshqaradi?",
+      "output": "Simlar hayoti"
+    },
+    {
+      "id": 88,
+      "input": "\"Dead by Daylight\" o'yinida qanday jamoalar mavjud?",
+      "output": "Qotil va 4 ta o'yinchi (survivors)"
+    },
+    {
+      "id": 89,
+      "input": "\"Dark Souls III\" o'yinida asosiy qahramon kim?",
+      "output": "The Ashen One"
+    },
+    {
+      "id": 90,
+      "input": "\"Sid Meier's Civilization VI\" o'yinida o'yinchi qanday dunyo yaratadi?",
+      "output": "Tsivilizatsiya yaratish"
+    },
+    {
+      "id": 91,
+      "input": "\"Hitman\" o'yinida asosiy qahramon kim?",
+      "output": "Agent 47"
+    },
+    {
+      "id": 92,
+      "input": "\"Subnautica\" o'yini qanday janrga kiradi?",
+      "output": "Survival, Exploration"
+    },
+    {
+      "id": 93,
+      "input": "\"Hades\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Zagreus (Hadesning o'g'li)"
+    },
+    {
+      "id": 94,
+      "input": "\"Spiderman\" o'yinida asosiy qahramon kim?",
+      "output": "Peter Parker (Spiderman)"
+    },
+    {
+      "id": 95,
+      "input": "\"Grand Theft Auto: San Andreas\" o'yinida asosiy qahramon kim?",
+      "output": "Carl \"CJ\" Johnson"
+    },
+    {
+      "id": 96,
+      "input": "\"Madden NFL\" o'yinida qaysi sport turi mavjud?",
+      "output": "Futbol (Amerika futboli)"
+    },
+    {
+      "id": 97,
+      "input": "\"Shadow of the Colossus\" o'yinida o'yinchi nima qilish kerak?",
+      "output": "Kolosslarni yengish"
+    },
+    {
+      "id": 98,
+      "input": "\"No Man's Sky\" o'yinida qanday asosiy xususiyat mavjud?",
+      "output": "Koinotdagi sayyoralarga sayohat qilish"
+    },
+    {
+      "id": 99,
+      "input": "\"Celeste\" o'yini qanday janrda?",
+      "output": "Platformer"
+    },
+    {
+      "id": 100,
+      "input": "\"Tales of Zestiria\" o'yini qaysi janrga mansub?",
+      "output": "Action RPG"
+    },
+    {
+      "id": 101,
+      "input": "\"Dead Space\" o'yinida asosiy qahramon kim?",
+      "output": "Isaac Clarke"
+    },
+    {
+      "id": 102,
+      "input": "\"Persona 5\" o'yinida asosiy qahramon kim?",
+      "output": "Joker"
+    },
+    {
+      "id": 103,
+      "input": "\"Bioshock Infinite\" o'yinida qaysi shahar mavjud?",
+      "output": "Columbia"
+    },
+    {
+      "id": 104,
+      "input": "\"Dragon Age: Inquisition\" o'yinida asosiy qahramon kim?",
+      "output": "Inquisitor (Nomini o'zgartirish mumkin)"
+    },
+    {
+      "id": 105,
+      "input": "\"Tomb Raider (2013)\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 106,
+      "input": "\"Dead Rising\" o'yinida o'yinchi qanday voqealar bilan kurashadi?",
+      "output": "Zombilarni yo'q qilish"
+    },
+    {
+      "id": 107,
+      "input": "\"Fallout 76\" o'yinida qaysi hududda voqealar rivojlanadi?",
+      "output": "West Virginia"
+    },
+    {
+      "id": 108,
+      "input": "\"Nier: Automata\" o'yinida asosiy qahramon kim?",
+      "output": "2B (Android)"
+    },
+    {
+      "id": 109,
+      "input": "\"The Outer Worlds\" o'yini qaysi janrda ishlab chiqilgan?",
+      "output": "Action RPG"
+    },
+    {
+      "id": 110,
+      "input": "\"Horizon Zero Dawn\" o'yinida asosiy qahramon kim?",
+      "output": "Aloy"
+    },
+    {
+      "id": 111,
+      "input": "\"Witcher 2: Assassins of Kings\" o'yini qanday janrga kiradi?",
+      "output": "RPG (Rol o'ynash o'yini)"
+    },
+    {
+      "id": 112,
+      "input": "\"The Witcher 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 113,
+      "input": "\"Mafia II\" o'yini qaysi davrda joylashgan?",
+      "output": "1940-yillar"
+    },
+    {
+      "id": 114,
+      "input": "\"The Crew 2\" o'yinida o'yinchilar qanday faoliyat bilan shug'ullanadi?",
+      "output": "Avtomobil, samolyot va qayiq poygalari"
+    },
+    {
+      "id": 115,
+      "input": "\"Farming Simulator\" o'yinida o'yinchi nima qiladi?",
+      "output": "Fermerlik ishlarini boshqaradi"
+    },
+    {
+      "id": 116,
+      "input": "\"Portal 2\" o'yinida qaysi mexanika ishlatiladi?",
+      "output": "Portal ochish va yechimlarni topish"
+    },
+    {
+      "id": 117,
+      "input": "\"Journey\" o'yini qanday janrda?",
+      "output": "Adventure, Puzzle"
+    },
+    {
+      "id": 118,
+      "input": "\"The Walking Dead\" o'yinida asosiy qahramon kim?",
+      "output": "Lee Everett"
+    },
+    {
+      "id": 119,
+      "input": "\"RimWorld\" o'yinida o'yinchi nima qiladi?",
+      "output": "Koloniya qurish va yashashni saqlash"
+    },
+    {
+      "id": 120,
+      "input": "\"Stardew Valley\" o'yinida o'yinchi nima bilan shug'ullanadi?",
+      "output": "Qishloq xo'jaligi va shaxsiy hayotni rivojlantirish"
+    },
+    {
+      "id": 121,
+      "input": "\"Cuphead\" o'yini qanday janrda?",
+      "output": "Platformer, Shoot 'em up"
+    },
+    {
+      "id": 122,
+      "input": "\"Rust\" o'yinida o'yinchi nima qilish kerak?",
+      "output": "Hayot kechirish, resurslar yig'ish, kurashish"
+    },
+    {
+      "id": 123,
+      "input": "\"Spelunky 2\" o'yinida o'yinchi qanday maqsadga intiladi?",
+      "output": "Chuqurliklarga sayohat qilish va boylik topish"
+    },
+    {
+      "id": 124,
+      "input": "\"Divinity: Original Sin 2\" o'yini qanday janrda?",
+      "output": "RPG (Rol o'ynash o'yini)"
+    },
+    {
+      "id": 125,
+      "input": "\"Nioh 2\" o'yinida qanday asosiy xususiyat mavjud?",
+      "output": "Samurai janglari va yapon mifologiyasi"
+    },
+    {
+      "id": 126,
+      "input": "\"Fortnite\" o'yinida qanday o'yin rejimlari mavjud?",
+      "output": "Battle Royale, Creative, Save the World"
+    },
+    {
+      "id": 127,
+      "input": "\"Darkest Dungeon\" o'yini qanday janrga kiradi?",
+      "output": "Roguelike, Dungeon Crawl"
+    },
+    {
+      "id": 128,
+      "input": "\"Monster Hunter: World\" o'yinida o'yinchi kimlarni ovlash kerak?",
+      "output": "Yirtqich hayvonlarni va monsterlarni"
+    },
+    {
+      "id": 129,
+      "input": "\"Bloodborne\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Hunter (Ovchi)"
+    },
+    {
+      "id": 130,
+      "input": "\"FIFA 21\" o'yinida qaysi yangi o'yin mexanikalari mavjud?",
+      "output": "\"Agility dribbling\" va \"Creative runs\""
+    },
+    {
+      "id": 131,
+      "input": "\"Left 4 Dead 2\" o'yinida qaysi turdagi dushmanlar mavjud?",
+      "output": "Zombilar (bo'ronchilar, to'plamchilar)"
+    },
+    {
+      "id": 132,
+      "input": "\"Red Dead Redemption 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Arthur Morgan"
+    },
+    {
+      "id": 133,
+      "input": "\"Worms\" o'yini qanday janrda bo'ladi?",
+      "output": "Strategy (Strategiya)"
+    },
+    {
+      "id": 134,
+      "input": "\"Gears of War 4\" o'yinida qaysi jangovar mexanika ishlatiladi?",
+      "output": "Cover-based shooting (Yashiringan holda otish)"
+    },
+    {
+      "id": 135,
+      "input": "\"Warframe\" o'yinida o'yinchilar kimlarni boshqaradi?",
+      "output": "Tenno (Bio-mechanik jangchilar)"
+    },
+    {
+      "id": 136,
+      "input": "\"Overwatch\" o'yinida o'yinchilar qanday rollarda o'ynaydi?",
+      "output": "Tank, Damage, Support"
+    },
+    {
+      "id": 137,
+      "input": "\"Star Wars Battlefront II\" o'yini qanday janrda?",
+      "output": "Third-Person Shooter (TPS)"
+    },
+    {
+      "id": 138,
+      "input": "\"Zelda: Ocarina of Time\" o'yinida asosiy qahramon kim?",
+      "output": "Link"
+    },
+    {
+      "id": 139,
+      "input": "\"SimCity 4\" o'yinida o'yinchi nima yaratadi?",
+      "output": "Shahar va infratuzilma"
+    },
+    {
+      "id": 140,
+      "input": "\"Halo: Combat Evolved\" o'yinida asosiy qahramon kim?",
+      "output": "Master Chief"
+    },
+    {
+      "id": 141,
+      "input": "\"Dead Space 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Isaac Clarke"
+    },
+    {
+      "id": 142,
+      "input": "\"Diablo II\" o'yinida nechta sinf mavjud?",
+      "output": "7 ta sinf"
+    },
+    {
+      "id": 143,
+      "input": "\"Grand Theft Auto III\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Claude (Ismni ochiq)"
+    },
+    {
+      "id": 144,
+      "input": "\"NBA 2K23\" o'yinida qanday sport turi mavjud?",
+      "output": "Basketbol"
+    },
+    {
+      "id": 145,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday maxsus harakatlar mavjud?",
+      "output": "Fatalities, Brutalities, Krushing Blows"
+    },
+    {
+      "id": 146,
+      "input": "\"Magic: The Gathering Arena\" o'yini qanday janrga kiradi?",
+      "output": "Card Game (Karta o'yini)"
+    },
+    {
+      "id": 147,
+      "input": "\"Minecraft Dungeons\" o'yini qanday janrda?",
+      "output": "Action RPG"
+    },
+    {
+      "id": 148,
+      "input": "\"Assassin's Creed Valhalla\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Eivor"
+    },
+    {
+      "id": 149,
+      "input": "\"F1 2023\" o'yini qanday sport turi haqida?",
+      "output": "Formula 1 (Avtomobil poygasi)"
+    },
+    {
+      "id": 150,
+      "input": "\"Fall Guys: Ultimate Knockout\" o'yinida qanday o'yin mexanizmi ishlatiladi?",
+      "output": "Battle Royale (Bir-birga kurash)"
+    },
+    {
+      "id": 151,
+      "input": "\"Dragon's Dogma\" o'yini qanday janrda?",
+      "output": "Action RPG"
+    },
+    {
+      "id": 152,
+      "input": "\"Metro Exodus\" o'yinida asosiy qahramon kim?",
+      "output": "Artyom"
+    },
+    {
+      "id": 153,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yini qanday mexanizmga ega?",
+      "output": "Yapon samurayi janglari va stealth"
+    },
+    {
+      "id": 154,
+      "input": "\"Assassin's Creed Syndicate\" o'yinida qaysi joyda o'yin o'ynaladi?",
+      "output": "Londonda"
+    },
+    {
+      "id": 155,
+      "input": "\"The Crew\" o'yinida qanday o'yin mexanizmi ishlatiladi?",
+      "output": "Ochiq dunyo poygalar"
+    },
+    {
+      "id": 156,
+      "input": "\"Unravel\" o'yinida asosiy qahramon kim?",
+      "output": "Yarny (To'qilgan sim)"
+    },
+    {
+      "id": 157,
+      "input": "\"Terraria\" o'yinida qanday mexanika mavjud?",
+      "output": "Ochiq dunyo va qurilish"
+    },
+    {
+      "id": 158,
+      "input": "\"Spyro the Dragon\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Spyro the Dragon"
+    },
+    {
+      "id": 159,
+      "input": "\"Half-Life 2\" o'yinida asosiy qahramon kim?",
+      "output": "Gordon Freeman"
+    },
+    {
+      "id": 160,
+      "input": "\"Super Mario Odyssey\" o'yinida asosiy qahramon kim?",
+      "output": "Mario"
+    },
+    {
+      "id": 161,
+      "input": "\"Counter-Strike: Source\" o'yinida qaysi jangovar mexanika ishlatiladi?",
+      "output": "Taktik otish va jamoaviy strategiya"
+    },
+    {
+      "id": 162,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qaysi qurol asosiy hisoblanadi?",
+      "output": "M4A1"
+    },
+    {
+      "id": 163,
+      "input": "\"Minecraft: Dungeons\" o'yinida qanday dushmanlar mavjud?",
+      "output": "Monstrlar va yirtqich hayvonlar"
+    },
+    {
+      "id": 164,
+      "input": "\"The Binding of Isaac\" o'yinida o'yinchi nima qilishi kerak?",
+      "output": "Yaratilishlar va dushmanlarga qarshi kurashish"
+    },
+    {
+      "id": 165,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Henry (Shahzoda)"
+    },
+    {
+      "id": 166,
+      "input": "\"Fallout 3\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Lone Wanderer"
+    },
+    {
+      "id": 167,
+      "input": "\"XCOM 2\" o'yinida qanday jamoa mavjud?",
+      "output": "XCOM (Insoniyatni himoya qiluvchi maxsus guruh)"
+    },
+    {
+      "id": 168,
+      "input": "\"Portal 2\" o'yinida asosiy mexanizm nima?",
+      "output": "Portal yaratish va dunyolarni o'zgartirish"
+    },
+    {
+      "id": 169,
+      "input": "\"Stardew Valley\" o'yinida qaysi faoliyatlar mavjud?",
+      "output": "Fermerlik, baliq ovlash, quduqlarni qazish"
+    },
+    {
+      "id": 170,
+      "input": "\"Gears of War\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Yashirin jang va qoplangan otish"
+    },
+    {
+      "id": 171,
+      "input": "\"Monster Hunter World\" o'yinida o'yinchi qanday dushmanlarni ovlaydi?",
+      "output": "Yirik monsturlar va hayvonlar"
+    },
+    {
+      "id": 172,
+      "input": "\"Team Fortress 2\" o'yinida qanday rollar mavjud?",
+      "output": "Soldier, Scout, Heavy, Spy va boshqa"
+    },
+    {
+      "id": 173,
+      "input": "\"The Legend of Zelda: Breath of the Wild\" o'yinida asosiy qahramon kim?",
+      "output": "Link"
+    },
+    {
+      "id": 174,
+      "input": "\"Spyro Reignited Trilogy\" o'yinida asosiy qahramon kim?",
+      "output": "Spyro the Dragon"
+    },
+    {
+      "id": 175,
+      "input": "\"Dying Light\" o'yinida qanday janr mavjud?",
+      "output": "First-Person Survival Horror"
+    },
+    {
+      "id": 176,
+      "input": "\"Need for Speed: Heat\" o'yinida o'yinchi nima qiladi?",
+      "output": "Poyga qiladi va mushtarak dunyoda jang qiladi"
+    },
+    {
+      "id": 177,
+      "input": "\"LittleBigPlanet 3\" o'yinida o'yinchi qanday qahramonlarni boshqaradi?",
+      "output": "Sackboy va boshqa turli xarakterlar"
+    },
+    {
+      "id": 178,
+      "input": "\"Rayman Legends\" o'yinida asosiy qahramon kim?",
+      "output": "Rayman"
+    },
+    {
+      "id": 179,
+      "input": "\"Dead Island\" o'yinida o'yinchi qanday dushmanlar bilan kurashadi?",
+      "output": "Zombilar"
+    },
+    {
+      "id": 180,
+      "input": "\"Shovel Knight\" o'yini qanday janrda?",
+      "output": "Platformer va Metroidvania"
+    },
+    {
+      "id": 181,
+      "input": "\"Dark Souls II\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "The Bearer of the Curse"
+    },
+    {
+      "id": 182,
+      "input": "\"Lords Mobile\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Strategiya va real vaqtli janglar"
+    },
+    {
+      "id": 183,
+      "input": "\"Rocket League\" o'yinida qanday sport turi mavjud?",
+      "output": "Futbol va avtomobillar"
+    },
+    {
+      "id": 184,
+      "input": "\"Total War: Three Kingdoms\" o'yinida o'yinchi qaysi davrda jang qiladi?",
+      "output": "Qadimgi Xitoy (Three Kingdoms davri)"
+    },
+    {
+      "id": 185,
+      "input": "\"Horizon Forbidden West\" o'yinida asosiy qahramon kim?",
+      "output": "Aloy"
+    },
+    {
+      "id": 186,
+      "input": "\"Grand Theft Auto IV\" o'yinida asosiy qahramon kim?",
+      "output": "Niko Bellic"
+    },
+    {
+      "id": 187,
+      "input": "\"Forza Horizon 5\" o'yinida o'yinchi qaysi turdagi avtomobillarda poyga qiladi?",
+      "output": "Ko'plab real hayotdagi mashinalar"
+    },
+    {
+      "id": 188,
+      "input": "\"Destiny\" o'yinida o'yinchi qanday sinflarda o'ynaydi?",
+      "output": "Titan, Hunter va Warlock"
+    },
+    {
+      "id": 189,
+      "input": "\"The Sims 3\" o'yinida o'yinchi nima qiladi?",
+      "output": "Simlarning hayotini boshqaradi"
+    },
+    {
+      "id": 190,
+      "input": "\"Tekken 7\" o'yinida eng kuchli jangchi kim?",
+      "output": "Kazuya Mishima"
+    },
+    {
+      "id": 191,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida asosiy qahramon kim?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 192,
+      "input": "\"Assassin's Creed: Odyssey\" o'yinida qaysi tarixiy davrda o'yin o'ynaladi?",
+      "output": "Qadimgi Yunonistonda"
+    },
+    {
+      "id": 193,
+      "input": "\"Tetris\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "Bloklarni joylashtirish va to'ldirish"
+    },
+    {
+      "id": 194,
+      "input": "\"Star Wars: Knights of the Old Republic\" o'yinida asosiy qahramon kim?",
+      "output": "Jedi (Nomini o'zgartirish mumkin)"
+    },
+    {
+      "id": 195,
+      "input": "\"Fortnite\" o'yinida o'yinchilar qanday strategiyalardan foydalanadi?",
+      "output": "Battle Royale, kurash, qurilish"
+    },
+    {
+      "id": 196,
+      "input": "\"Minecraft\" o'yinida qanday rejimlar mavjud?",
+      "output": "Survival, Creative, Adventure, Hardcore"
+    },
+    {
+      "id": 197,
+      "input": "\"Far Cry 5\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Nick Rye (birinchi o'yinchi)"
+    },
+    {
+      "id": 198,
+      "input": "\"Metal Gear Solid V: The Phantom Pain\" o'yinida asosiy qahramon kim?",
+      "output": "Snake (Big Boss)"
+    },
+    {
+      "id": 199,
+      "input": "\"Kingdom Hearts III\" o'yinida asosiy qahramon kim?",
+      "output": "Sora"
+    },
+    {
+      "id": 200,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida asosiy mexanika qanday?",
+      "output": "Dushmanlardan yashirish va yaqin janglar"
+    },
+    {
+      "id": 201,
+      "input": "\"Horizon Zero Dawn\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Aloy"
+    },
+    {
+      "id": 202,
+      "input": "\"Dead by Daylight\" o'yinida qanday guruhlar mavjud?",
+      "output": "Survivorlar va Killer (qotil)"
+    },
+    {
+      "id": 203,
+      "input": "\"Super Mario Bros\" o'yinida asosiy qahramon kim?",
+      "output": "Mario"
+    },
+    {
+      "id": 204,
+      "input": "\"Red Dead Redemption\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "John Marston"
+    },
+    {
+      "id": 205,
+      "input": "\"Rocket League\" o'yinida qanday sport turi mavjud?",
+      "output": "Futbol va avtomobillar"
+    },
+    {
+      "id": 206,
+      "input": "\"Call of Duty: Warzone\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Battle Royale"
+    },
+    {
+      "id": 207,
+      "input": "\"Bioshock Infinite\" o'yinida qaysi shahar mavjud?",
+      "output": "Columbia"
+    },
+    {
+      "id": 208,
+      "input": "\"Doom Eternal\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Doom Slayer"
+    },
+    {
+      "id": 209,
+      "input": "\"Resident Evil 7: Biohazard\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Ethan Winters"
+    },
+    {
+      "id": 210,
+      "input": "\"Shovel Knight\" o'yinida asosiy qahramon kim?",
+      "output": "Shovel Knight"
+    },
+    {
+      "id": 211,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida asosiy qahramon kim?",
+      "output": "Dragonborn"
+    },
+    {
+      "id": 212,
+      "input": "\"Overwatch 2\" o'yinida qaysi jangovar rollar mavjud?",
+      "output": "Tank, Damage, Support"
+    },
+    {
+      "id": 213,
+      "input": "\"FIFA 23\" o'yinida qaysi sport turi mavjud?",
+      "output": "Futbol"
+    },
+    {
+      "id": 214,
+      "input": "\"Dark Souls III\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "The Ashen One"
+    },
+    {
+      "id": 215,
+      "input": "\"No Man's Sky\" o'yinida o'yinchi nima qiladi?",
+      "output": "Koinotdagi sayyoralarni o'rganadi"
+    },
+    {
+      "id": 216,
+      "input": "\"Dying Light 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Aiden Caldwell"
+    },
+    {
+      "id": 217,
+      "input": "\"Lords Mobile\" o'yinida qanday mexanika mavjud?",
+      "output": "Real vaqtli strategiya, janglar va qurilish"
+    },
+    {
+      "id": 218,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qaysi qahramonlar mavjud?",
+      "output": "Inquisitor va qo'shinlar"
+    },
+    {
+      "id": 219,
+      "input": "\"The Crew 2\" o'yinida qanday poyga turlari mavjud?",
+      "output": "Avtomobil, samolyot va qayiq poygalari"
+    },
+    {
+      "id": 220,
+      "input": "\"The Last of Us Part II\" o'yinida asosiy qahramon kim?",
+      "output": "Ellie"
+    },
+    {
+      "id": 221,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday maxsus harakatlar mavjud?",
+      "output": "Fatalities, Brutalities, Krushing Blows"
+    },
+    {
+      "id": 222,
+      "input": "\"Fable II\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Hero (Ismi o'yinchi tomonidan tanlanadi)"
+    },
+    {
+      "id": 223,
+      "input": "\"Skyrim\" o'yinida o'yinchi qaysi sinfda o'ynashi mumkin?",
+      "output": "Druid, Warrior, Mage va boshqa sinflar"
+    },
+    {
+      "id": 224,
+      "input": "\"Resident Evil 4\" o'yinida asosiy qahramon kim?",
+      "output": "Leon S. Kennedy"
+    },
+    {
+      "id": 225,
+      "input": "\"Uncharted 4: A Thief's End\" o'yinida asosiy qahramon kim?",
+      "output": "Nathan Drake"
+    },
+    {
+      "id": 226,
+      "input": "\"The Sims 4\" o'yinida o'yinchi nima qiladi?",
+      "output": "Simlarni yaratadi va ularning hayotini boshqaradi"
+    },
+    {
+      "id": 227,
+      "input": "\"Cyberpunk 2077\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "V (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 228,
+      "input": "\"Assassin's Creed: Origins\" o'yinida asosiy qahramon kim?",
+      "output": "Bayek"
+    },
+    {
+      "id": 229,
+      "input": "\"Borderlands 3\" o'yinida qanday janrda o'ynaladi?",
+      "output": "First-Person Shooter (RPG elementlari bilan)"
+    },
+    {
+      "id": 230,
+      "input": "\"The Last of Us\" o'yinida asosiy qahramon kim?",
+      "output": "Joel va Ellie"
+    },
+    {
+      "id": 231,
+      "input": "\"Watch Dogs: Legion\" o'yinida qanday mexanika mavjud?",
+      "output": "Har bir shaxsni boshqarish imkoniyati"
+    },
+    {
+      "id": 232,
+      "input": "\"League of Legends\" o'yinida o'yinchilar qanday rollarda o'ynaydi?",
+      "output": "Champion, Tank, Support, Assassin, Marksman"
+    },
+    {
+      "id": 233,
+      "input": "\"Hollow Knight\" o'yini qanday janrda?",
+      "output": "Metroidvania, Action-Adventure"
+    },
+    {
+      "id": 234,
+      "input": "\"Hitman 3\" o'yinida asosiy qahramon kim?",
+      "output": "Agent 47"
+    },
+    {
+      "id": 235,
+      "input": "\"Diablo III\" o'yinida qanday sinflar mavjud?",
+      "output": "Barbarian, Witch Doctor, Wizard, Monk, Demon Hunter, Crusader, Necromancer"
+    },
+    {
+      "id": 236,
+      "input": "\"The Division 2\" o'yinida o'yinchilar kimni boshqaradi?",
+      "output": "Division agentlari (turli maxsus agentlar)"
+    },
+    {
+      "id": 237,
+      "input": "\"Grand Theft Auto V\" o'yinida qaysi shaharda o'yin o'ynaladi?",
+      "output": "Los Santos"
+    },
+    {
+      "id": 238,
+      "input": "\"Destiny 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Guardian"
+    },
+    {
+      "id": 239,
+      "input": "\"No Man's Sky\" o'yinida qanday asosiy maqsad mavjud?",
+      "output": "Koinotdagi sayyoralarni o'rganish va resurslar yig'ish"
+    },
+    {
+      "id": 240,
+      "input": "\"Kingdom Hearts\" o'yinida asosiy qahramon kim?",
+      "output": "Sora"
+    },
+    {
+      "id": 241,
+      "input": "\"Tomb Raider (2013)\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 242,
+      "input": "\"Final Fantasy VII Remake\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Cloud Strife"
+    },
+    {
+      "id": 243,
+      "input": "\"CyberConnect2's Naruto Shippuden: Ultimate Ninja Storm 4\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Tekshirish va qahramonlar o'rtasida kurash"
+    },
+    {
+      "id": 244,
+      "input": "\"The Witcher 2: Assassins of Kings\" o'yinida asosiy qahramon kim?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 245,
+      "input": "\"Scribblenauts Unlimited\" o'yinida qanday mexanika mavjud?",
+      "output": "So'z yozib, dunyoni yaratish va o'zgartirish"
+    },
+    {
+      "id": 246,
+      "input": "\"Red Dead Redemption 2\" o'yinida asosiy qahramon kim?",
+      "output": "Arthur Morgan"
+    },
+    {
+      "id": 247,
+      "input": "\"Dead Space\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Isaac Clarke"
+    },
+    {
+      "id": 248,
+      "input": "\"Monster Hunter World\" o'yinida o'yinchi nima qiladi?",
+      "output": "Yirik canavarlarga qarshi ovlash"
+    },
+    {
+      "id": 249,
+      "input": "\"Resident Evil Village\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Ethan Winters"
+    },
+    {
+      "id": 250,
+      "input": "\"Nier: Automata\" o'yinida asosiy qahramon kim?",
+      "output": "2B (Android)"
+    },
+    {
+      "id": 251,
+      "input": "\"Mortal Kombat\" o'yinida qanday maxsus harakatlar mavjud?",
+      "output": "Fatalities, Brutalities, Krushing Blows"
+    },
+    {
+      "id": 252,
+      "input": "\"Apex Legends\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Battle Royale"
+    },
+    {
+      "id": 253,
+      "input": "\"Monster Hunter: Rise\" o'yinida o'yinchi nima qiladi?",
+      "output": "Yirik yirtqich hayvonlarni ovlash va qurollarni ishlab chiqish"
+    },
+    {
+      "id": 254,
+      "input": "\"The Elder Scrolls Online\" o'yinida o'yinchilar qanday rolni bajaradi?",
+      "output": "Dasturxonlarga, g'azabga qarshi jang qilish"
+    },
+    {
+      "id": 255,
+      "input": "\"Uncharted 2: Among Thieves\" o'yinida asosiy qahramon kim?",
+      "output": "Nathan Drake"
+    },
+    {
+      "id": 256,
+      "input": "\"Fallout New Vegas\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Courier (Pochta tashuvchi)"
+    },
+    {
+      "id": 257,
+      "input": "\"Spelunky\" o'yini qanday janrda?",
+      "output": "Roguelike Platformer"
+    },
+    {
+      "id": 258,
+      "input": "\"Gran Turismo 7\" o'yinida qanday sport turi mavjud?",
+      "output": "Avtomobil poygasi"
+    },
+    {
+      "id": 259,
+      "input": "\"Mass Effect 2\" o'yinida asosiy qahramon kim?",
+      "output": "Commander Shepard"
+    },
+    {
+      "id": 260,
+      "input": "\"Bioshock Infinite\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Booker DeWitt"
+    },
+    {
+      "id": 261,
+      "input": "\"Dragon Age: Origins\" o'yinida qanday sinfda o'ynaladi?",
+      "output": "Warrior, Mage, Rogue"
+    },
+    {
+      "id": 262,
+      "input": "\"Minecraft\" o'yinida qanday qurollar mavjud?",
+      "output": "Qama, qopqoq, bow, pichoq va boshqa"
+    },
+    {
+      "id": 263,
+      "input": "\"Fortnite: Battle Royale\" o'yinida qanday mexanizm mavjud?",
+      "output": "Kurash va qurilish"
+    },
+    {
+      "id": 264,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 265,
+      "input": "\"Hitman 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Agent 47"
+    },
+    {
+      "id": 266,
+      "input": "\"The Legend of Zelda: Breath of the Wild\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Link"
+    },
+    {
+      "id": 267,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida o'yinchi qanday sinflarda o'ynashi mumkin?",
+      "output": "Witcher, Mage, Archer"
+    },
+    {
+      "id": 268,
+      "input": "\"Overcooked! 2\" o'yinida o'yinchilar qanday faoliyat bilan shug'ullanadi?",
+      "output": "Oshpazlik va taom tayyorlash"
+    },
+    {
+      "id": 269,
+      "input": "\"Tekken 7\" o'yinida qaysi jangovar mexanika mavjud?",
+      "output": "Jangovar qo'llar, kombolar va maxsus harakatlar"
+    },
+    {
+      "id": 270,
+      "input": "\"Rainbow Six Siege\" o'yinida qanday operatsion mexanizm ishlatiladi?",
+      "output": "Takroriy rejalashtirish va ko'proq strategiya"
+    },
+    {
+      "id": 271,
+      "input": "\"Control\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Jesse Faden"
+    },
+    {
+      "id": 272,
+      "input": "\"FIFA 22\" o'yinida qanday yangi o'yin mexanikalari mavjud?",
+      "output": "HyperMotion texnologiyasi"
+    },
+    {
+      "id": 273,
+      "input": "\"Dying Light\" o'yinida qanday jangovar mexanika ishlatiladi?",
+      "output": "Parkur va o'zgaruvchan janglar"
+    },
+    {
+      "id": 274,
+      "input": "\"World of Warcraft\" o'yinida o'yinchilar qanday rollarda o'ynaydi?",
+      "output": "Warrior, Mage, Priest, Hunter, Rogue va boshqalar"
+    },
+    {
+      "id": 275,
+      "input": "\"Stardew Valley\" o'yinida o'yinchi nima qiladi?",
+      "output": "Fermerlik va kichik biznesni boshqarish"
+    },
+    {
+      "id": 276,
+      "input": "\"Final Fantasy XV\" o'yinida asosiy qahramon kim?",
+      "output": "Noctis Lucis Caelum"
+    },
+    {
+      "id": 277,
+      "input": "\"Civilization VI\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Davlat qurish va boshqaruv simulyatori"
+    },
+    {
+      "id": 278,
+      "input": "\"Dead Space 2\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Isaac Clarke"
+    },
+    {
+      "id": 279,
+      "input": "\"Star Wars: Battlefront II\" o'yinida qanday jangovar mexanika ishlatiladi?",
+      "output": "Ochiq jangovar maydon va kosmik janglar"
+    },
+    {
+      "id": 280,
+      "input": "\"RimWorld\" o'yinida o'yinchilar nima qilishadi?",
+      "output": "Koloniyalarni qurish va hayotiy qarorlar qabul qilish"
+    },
+    {
+      "id": 281,
+      "input": "\"Monster Hunter: World\" o'yinida qanday dushmanlar mavjud?",
+      "output": "Yirik monsturlar va yirtqich hayvonlar"
+    },
+    {
+      "id": 282,
+      "input": "\"XCOM: Enemy Unknown\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Takroriy strategiya va navbatdagi janglar"
+    },
+    {
+      "id": 283,
+      "input": "\"Halo 5: Guardians\" o'yinida asosiy qahramon kim?",
+      "output": "Master Chief"
+    },
+    {
+      "id": 284,
+      "input": "\"Mortal Kombat 10\" o'yinida qanday maxsus harakatlar mavjud?",
+      "output": "Fatalities, Kombolar, Krushing Blows"
+    },
+    {
+      "id": 285,
+      "input": "\"No Man's Sky\" o'yinida qanday o'yin mexanizmlari mavjud?",
+      "output": "Sayyoralarni o'rganish va resurs yig'ish"
+    },
+    {
+      "id": 286,
+      "input": "\"Gears of War 4\" o'yinida asosiy qahramon kim?",
+      "output": "JD Fenix"
+    },
+    {
+      "id": 287,
+      "input": "\"Assassin's Creed IV: Black Flag\" o'yinida asosiy qahramon kim?",
+      "output": "Edward Kenway"
+    },
+    {
+      "id": 288,
+      "input": "\"Grand Theft Auto: San Andreas\" o'yinida asosiy qahramon kim?",
+      "output": "CJ (Carl Johnson)"
+    },
+    {
+      "id": 289,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday ko'rinishdagi janglar mavjud?",
+      "output": "Yaqin janglar, otishmalar, qochishlar"
+    },
+    {
+      "id": 290,
+      "input": "\"Elden Ring\" o'yinida asosiy qahramon kim?",
+      "output": "Tarnished"
+    },
+    {
+      "id": 291,
+      "input": "\"League of Legends\" o'yinida qaysi rolda o'ynash mumkin?",
+      "output": "Mid, Top, Bot, Support, Jungler"
+    },
+    {
+      "id": 292,
+      "input": "\"Dark Souls\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Jangovar urushlar va parri taqdim etish"
+    },
+    {
+      "id": 293,
+      "input": "\"Call of Duty: Black Ops\" o'yinida qanday yangi o'yin mexanizmlari mavjud?",
+      "output": "Zombi rejimi va multiplayer boshqaruvi"
+    },
+    {
+      "id": 294,
+      "input": "\"Minecraft\" o'yinida qanday rejimlar mavjud?",
+      "output": "Survival, Creative, Adventure, Hardcore"
+    },
+    {
+      "id": 295,
+      "input": "\"Need for Speed: Most Wanted\" o'yinida o'yinchi nima qiladi?",
+      "output": "Poyga qilish va politsiyadan qochish"
+    },
+    {
+      "id": 296,
+      "input": "\"Hollow Knight\" o'yinida asosiy qahramon kim?",
+      "output": "The Knight (yashirin qahramon)"
+    },
+    {
+      "id": 297,
+      "input": "\"The Sims 3\" o'yinida qanday imkoniyatlar mavjud?",
+      "output": "Simlarni yaratish, ularning hayotini boshqarish"
+    },
+    {
+      "id": 298,
+      "input": "\"The Elder Scrolls III: Morrowind\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "RPG, sarguzasht va jangovar o'yin"
+    },
+    {
+      "id": 299,
+      "input": "\"Splatoon 2\" o'yinida asosiy o'yin mexanizmi qanday?",
+      "output": "Bo'yoq urushi va jangovar tizim"
+    },
+    {
+      "id": 300,
+      "input": "\"The Legend of Zelda: Ocarina of Time\" o'yinida asosiy qahramon kim?",
+      "output": "Link"
+    },
+    {
+      "id": 301,
+      "input": "\"Dark Souls III\" o'yinida qaysi sinfda o'ynash mumkin?",
+      "output": "Knight, Warrior, Sorcerer, Pyromancer"
+    },
+    {
+      "id": 302,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Qilich janglari, magiyalar, aloqalar"
+    },
+    {
+      "id": 303,
+      "input": "\"Fortnite\" o'yinida o'yinchi qanday strategiyalardan foydalanadi?",
+      "output": "Kurash va qurilish"
+    },
+    {
+      "id": 304,
+      "input": "\"Metal Gear Solid V: Ground Zeroes\" o'yinida asosiy qahramon kim?",
+      "output": "Big Boss (Snake)"
+    },
+    {
+      "id": 305,
+      "input": "\"Overwatch\" o'yinida qaysi jangovar rollar mavjud?",
+      "output": "Tank, Support, Damage"
+    },
+    {
+      "id": 306,
+      "input": "\"Gears of War 5\" o'yinida asosiy qahramon kim?",
+      "output": "Kait Diaz"
+    },
+    {
+      "id": 307,
+      "input": "\"Tomb Raider (2013)\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Parkur, ovlash, jangovar qurollar"
+    },
+    {
+      "id": 308,
+      "input": "\"Stardew Valley\" o'yinida qanday faoliyatlar mavjud?",
+      "output": "Fermerlik, baliq ovlash, quduqlarni qazish"
+    },
+    {
+      "id": 309,
+      "input": "\"Counter-Strike: Global Offensive\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Jamoaviy janglar va taktikalar"
+    },
+    {
+      "id": 310,
+      "input": "\"FIFA 21\" o'yinida qaysi yangi xususiyatlar mavjud?",
+      "output": "Qolgan xususiyatlar va HyperMotion texnologiyasi"
+    },
+    {
+      "id": 311,
+      "input": "\"Hunt: Showdown\" o'yinida qanday mexanizm ishlatiladi?",
+      "output": "Battle Royale va hunterlar bilan janglar"
+    },
+    {
+      "id": 312,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday yangi harakatlar mavjud?",
+      "output": "Fatalities, Kombolar, Krushing Blows"
+    },
+    {
+      "id": 313,
+      "input": "\"Call of Duty: Modern Warfare 2\" o'yinida qaysi mexanizm mavjud?",
+      "output": "Battle Royale, Zombi rejimi, Multiplayer"
+    },
+    {
+      "id": 314,
+      "input": "\"F1 2021\" o'yinida qanday poygalar mavjud?",
+      "output": "Formula 1 va raqobatli poyga turlari"
+    },
+    {
+      "id": 315,
+      "input": "\"Assassin's Creed: Unity\" o'yinida asosiy qahramon kim?",
+      "output": "Arno Dorian"
+    },
+    {
+      "id": 316,
+      "input": "\"Battlefield 1\" o'yinida qaysi davrda o'yin o'ynaladi?",
+      "output": "Birinchi Jahon urushi"
+    },
+    {
+      "id": 317,
+      "input": "\"Rocket League\" o'yinida qanday jamoaviy strategiyalar mavjud?",
+      "output": "Futbol va avtomobillarni birlashtirish"
+    },
+    {
+      "id": 318,
+      "input": "\"The Last of Us Part II\" o'yinida asosiy qahramon kim?",
+      "output": "Ellie"
+    },
+    {
+      "id": 319,
+      "input": "\"Resident Evil: Village\" o'yinida qanday dushmanlar mavjud?",
+      "output": "Zombilar, mutantlar, yirtqichlar"
+    },
+    {
+      "id": 320,
+      "input": "\"Grand Theft Auto IV\" o'yinida asosiy qahramon kim?",
+      "output": "Niko Bellic"
+    },
+    {
+      "id": 321,
+      "input": "\"Assassin's Creed III\" o'yinida asosiy qahramon kim?",
+      "output": "Connor Kenway"
+    },
+    {
+      "id": 322,
+      "input": "\"Dead by Daylight\" o'yinida qaysi guruhlar mavjud?",
+      "output": "Survivorlar va Killer (qotil)"
+    },
+    {
+      "id": 323,
+      "input": "\"The Legend of Zelda: Twilight Princess\" o'yinida asosiy qahramon kim?",
+      "output": "Link"
+    },
+    {
+      "id": 324,
+      "input": "\"Dark Souls II\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Qilich janglari, ko'proq dushmanlar, yirik bosslar"
+    },
+    {
+      "id": 325,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Dungeonlarni o'rganish va jang qilish"
+    },
+    {
+      "id": 326,
+      "input": "\"World of Warcraft: Shadowlands\" o'yinida o'yinchilar qanday xususiyatlarga ega?",
+      "output": "Qahramonlar, sinflar va maxsus afzalliklar"
+    },
+    {
+      "id": 327,
+      "input": "\"Nioh\" o'yinida asosiy qahramon kim?",
+      "output": "William (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 328,
+      "input": "\"FIFA 20\" o'yinida qanday o'yin mexanizmlari mavjud?",
+      "output": "Futbol, yangi dribling va strategiyalar"
+    },
+    {
+      "id": 329,
+      "input": "\"Rocket League\" o'yinida o'yinchilar qanday o'yinlar o'ynaydi?",
+      "output": "Futbol, avtomobillar bilan o'ynash"
+    },
+    {
+      "id": 330,
+      "input": "\"Final Fantasy XIV\" o'yinida qanday rollar mavjud?",
+      "output": "Tank, Healer, DPS (Damage Dealer)"
+    },
+    {
+      "id": 331,
+      "input": "\"Resident Evil 2\" o'yinida asosiy qahramon kim?",
+      "output": "Leon S. Kennedy va Claire Redfield"
+    },
+    {
+      "id": 332,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Realistik janglar, zamonaviy qurollar"
+    },
+    {
+      "id": 333,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Magiyalar, qilich janglari va dushmanlardan qochish"
+    },
+    {
+      "id": 334,
+      "input": "\"Tekken 7\" o'yinida qanday jangovar harakatlar mavjud?",
+      "output": "Kombolar, maxsus urush usullari"
+    },
+    {
+      "id": 335,
+      "input": "\"Spiderman\" o'yinida asosiy qahramon kim?",
+      "output": "Peter Parker (Spiderman)"
+    },
+    {
+      "id": 336,
+      "input": "\"Doom Eternal\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Yaqin janglar, uzoq masofali otishmalar"
+    },
+    {
+      "id": 337,
+      "input": "\"Cyberpunk 2077\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "V (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 338,
+      "input": "\"Tomb Raider: Definitive Edition\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 339,
+      "input": "\"Borderlands 2\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "RPG elementlari bilan birga ko'plab qurollar"
+    },
+    {
+      "id": 340,
+      "input": "\"Dark Souls Remastered\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi remastering, yuqori aniqlik"
+    },
+    {
+      "id": 341,
+      "input": "\"Assassin's Creed: Syndicate\" o'yinida asosiy qahramon kim?",
+      "output": "Jacob va Evie Frye"
+    },
+    {
+      "id": 342,
+      "input": "\"Grand Theft Auto V\" o'yinida qanday yangi faoliyatlar mavjud?",
+      "output": "Ko'proq avtomobillar, poygalar, o'g'irliklar"
+    },
+    {
+      "id": 343,
+      "input": "\"Overwatch 2\" o'yinida qanday yangi qahramonlar mavjud?",
+      "output": "Kiriko, Sojourn va boshqalar"
+    },
+    {
+      "id": 344,
+      "input": "\"Uncharted: The Lost Legacy\" o'yinida asosiy qahramon kim?",
+      "output": "Chloe Frazer va Nadine Ross"
+    },
+    {
+      "id": 345,
+      "input": "\"Gears 5\" o'yinida asosiy qahramon kim?",
+      "output": "Kait Diaz"
+    },
+    {
+      "id": 346,
+      "input": "\"Mortal Kombat X\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Jangovar qo'llar, maxsus urushlar, kombolar"
+    },
+    {
+      "id": 347,
+      "input": "\"Monster Hunter Rise\" o'yinida o'yinchi qanday qurollardan foydalanadi?",
+      "output": "Qilich, arkebuz, qama va boshqalar"
+    },
+    {
+      "id": 348,
+      "input": "\"Dying Light\" o'yinida qaysi janrda o'ynaladi?",
+      "output": "Zombie survival, parkur va jangovar o'yin"
+    },
+    {
+      "id": 349,
+      "input": "\"Minecraft\" o'yinida qanday qurollar mavjud?",
+      "output": "Qama, bow, qurol va boshqa"
+    },
+    {
+      "id": 350,
+      "input": "\"Watch Dogs 2\" o'yinida asosiy qahramon kim?",
+      "output": "Marcus Holloway"
+    },
+    {
+      "id": 351,
+      "input": "\"Far Cry 4\" o'yinida qanday yangi qurollar mavjud?",
+      "output": "Yangi qurollar, dushmanlar va dushmanlarga qarshi strategiyalar"
+    },
+    {
+      "id": 352,
+      "input": "\"Final Fantasy VII\" o'yinida asosiy qahramon kim?",
+      "output": "Cloud Strife"
+    },
+    {
+      "id": 353,
+      "input": "\"Horizon Zero Dawn\" o'yinida asosiy qahramon kim?",
+      "output": "Aloy"
+    },
+    {
+      "id": 354,
+      "input": "\"Persona 5\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Joker (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 355,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida asosiy qahramon kim?",
+      "output": "Wolf (Shinobi)"
+    },
+    {
+      "id": 356,
+      "input": "\"Dark Souls III\" o'yinida qanday dushmanlar mavjud?",
+      "output": "Yirik bosslar, yirtqichlar va dushmanlar"
+    },
+    {
+      "id": 357,
+      "input": "\"Assassin's Creed: Valhalla\" o'yinida asosiy qahramon kim?",
+      "output": "Eivor"
+    },
+    {
+      "id": 358,
+      "input": "\"Minecraft: Story Mode\" o'yinida asosiy qahramon kim?",
+      "output": "Jesse (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 359,
+      "input": "\"The Last of Us Part I\" o'yinida asosiy qahramon kim?",
+      "output": "Joel va Ellie"
+    },
+    {
+      "id": 360,
+      "input": "\"Call of Duty: Warzone\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Battle Royale"
+    },
+    {
+      "id": 361,
+      "input": "\"Tetris\" o'yinida qanday asosiy mexanika mavjud?",
+      "output": "Bloklarni joylashtirish va to'ldirish"
+    },
+    {
+      "id": 362,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday sinflar mavjud?",
+      "output": "Warrior, Mage, Thief, Archer, Assassins"
+    },
+    {
+      "id": 363,
+      "input": "\"Fortnite\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Battle Royale, qurilish va kurash"
+    },
+    {
+      "id": 364,
+      "input": "\"Uncharted: Drake's Fortune\" o'yinida asosiy qahramon kim?",
+      "output": "Nathan Drake"
+    },
+    {
+      "id": 365,
+      "input": "\"Super Mario Odyssey\" o'yinida asosiy qahramon kim?",
+      "output": "Mario"
+    },
+    {
+      "id": 366,
+      "input": "\"Bloodborne\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Qilich janglari, otishmalar va ko'proq janglar"
+    },
+    {
+      "id": 367,
+      "input": "\"GTA V Online\" o'yinida o'yinchilar nima qilishadi?",
+      "output": "Avtomobillarni boshqarish, poygalar va o'g'irliklar"
+    },
+    {
+      "id": 368,
+      "input": "\"The Witcher 2: Assassins of Kings\" o'yinida asosiy qahramon kim?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 369,
+      "input": "\"FIFA 19\" o'yinida qanday yangi o'yin mexanizmlari mavjud?",
+      "output": "UEFA Champions League, Active Touch System"
+    },
+    {
+      "id": 370,
+      "input": "\"Dying Light 2\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "Parkur, jangovar harakatlar va zombi kurashi"
+    },
+    {
+      "id": 371,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qanday sinflar mavjud?",
+      "output": "Mage, Warrior, Rogue"
+    },
+    {
+      "id": 372,
+      "input": "\"Gears of War 4\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "JD Fenix"
+    },
+    {
+      "id": 373,
+      "input": "\"Borderlands 3\" o'yinida asosiy qahramon kim?",
+      "output": "Lilith, Moze, Zane, Amara (Vault Hunters)"
+    },
+    {
+      "id": 374,
+      "input": "\"Overwatch\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hero-based tactical shooting"
+    },
+    {
+      "id": 375,
+      "input": "\"Hitman 3\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Agent 47"
+    },
+    {
+      "id": 376,
+      "input": "\"Cyberpunk 2077\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Kustomizatsiya, futuristik qurollar"
+    },
+    {
+      "id": 377,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 378,
+      "input": "\"Watch Dogs: Legion\" o'yinida qanday mexanika mavjud?",
+      "output": "Har bir shaxsni boshqarish"
+    },
+    {
+      "id": 379,
+      "input": "\"Madden NFL 21\" o'yinida qanday o'yin mexanizmlari mavjud?",
+      "output": "Amerikan futboli, yangi taktika va strategiyalar"
+    },
+    {
+      "id": 380,
+      "input": "\"Halo: Master Chief Collection\" o'yinida qaysi o'yinlar mavjud?",
+      "output": "Halo: Combat Evolved, Halo 2, Halo 3, Halo 4"
+    },
+    {
+      "id": 381,
+      "input": "\"Rocket League\" o'yinida qanday sport turi mavjud?",
+      "output": "Futbol, lekin avtomobillar bilan o'ynaladi"
+    },
+    {
+      "id": 382,
+      "input": "\"Animal Crossing: New Horizons\" o'yinida o'yinchilar nima qiladi?",
+      "output": "O'z orolida yashash, resurslarni yig'ish, qurilish"
+    },
+    {
+      "id": 383,
+      "input": "\"Resident Evil 7: Biohazard\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "Ethan Winters"
+    },
+    {
+      "id": 384,
+      "input": "\"Super Smash Bros. Ultimate\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Krossover janglar, maxsus harakatlar"
+    },
+    {
+      "id": 385,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida asosiy qahramon kim?",
+      "output": "Henry"
+    },
+    {
+      "id": 386,
+      "input": "\"Street Fighter V\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Combo sistemalari va maxsus harakatlar"
+    },
+    {
+      "id": 387,
+      "input": "\"Star Wars: Jedi Fallen Order\" o'yinida asosiy qahramon kim?",
+      "output": "Cal Kestis"
+    },
+    {
+      "id": 388,
+      "input": "\"Fable III\" o'yinida o'yinchi nima qiladi?",
+      "output": "Qirollikni boshqarish va tanlovlar qilish"
+    },
+    {
+      "id": 389,
+      "input": "\"Battlefield V\" o'yinida qaysi davrda janglar mavjud?",
+      "output": "Ikkinchi Jahon Urushi"
+    },
+    {
+      "id": 390,
+      "input": "\"Metal Gear Solid V: The Phantom Pain\" o'yinida asosiy qahramon kim?",
+      "output": "Snake (Big Boss)"
+    },
+    {
+      "id": 391,
+      "input": "\"No Man’s Sky\" o'yinida qanday dunyo va mexanizm mavjud?",
+      "output": "Sayyoralarni o'rganish va kosmik janglar"
+    },
+    {
+      "id": 392,
+      "input": "\"Assassin's Creed: Rogue\" o'yinida asosiy qahramon kim?",
+      "output": "Shay Patrick Cormac"
+    },
+    {
+      "id": 393,
+      "input": "\"The Walking Dead: A New Frontier\" o'yinida asosiy qahramon kim?",
+      "output": "Javier Garcia"
+    },
+    {
+      "id": 394,
+      "input": "\"Outlast\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Survival Horror va stealth mexanizm"
+    },
+    {
+      "id": 395,
+      "input": "\"Gears of War 3\" o'yinida asosiy qahramon kim?",
+      "output": "Marcus Fenix"
+    },
+    {
+      "id": 396,
+      "input": "\"Tetris Effect\" o'yinida qanday asosiy mexanika mavjud?",
+      "output": "Bloklarni joylashtirish va musiqa bilan birgalikda o'ynash"
+    },
+    {
+      "id": 397,
+      "input": "\"Dragon Ball FighterZ\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "2D jangovar o'yin, kombolar va maxsus urushlar"
+    },
+    {
+      "id": 398,
+      "input": "\"StarCraft II\" o'yinida o'yinchilar qanday pleyerlardan foydalanadi?",
+      "output": "Terran, Zerg va Protoss"
+    },
+    {
+      "id": 399,
+      "input": "\"Civilization V\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Davlatlar qurish va strategik rejalashtirish"
+    },
+    {
+      "id": 400,
+      "input": "\"Injustice 2\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Superherolar va maxsus harakatlar"
+    },
+    {
+      "id": 401,
+      "input": "\"The Elder Scrolls Online\" o'yinida qanday yangi qurollar mavjud?",
+      "output": "Ko'plab qurollar va yangi sinflar"
+    },
+    {
+      "id": 402,
+      "input": "\"Dishonored 2\" o'yinida asosiy qahramon kim?",
+      "output": "Emily Kaldwin va Corvo Attano"
+    },
+    {
+      "id": 403,
+      "input": "\"Persona 4 Golden\" o'yinida asosiy qahramon kim?",
+      "output": "Yu Narukami"
+    },
+    {
+      "id": 404,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Mavjud janglar va katta jang maydonlari"
+    },
+    {
+      "id": 405,
+      "input": "\"The Division 2\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Multiplayer jamoaviy janglar va RPG elementlari"
+    },
+    {
+      "id": 406,
+      "input": "\"Rage 2\" o'yinida qanday yangi jangovar mexanizm mavjud?",
+      "output": "Open-world janglar va otishmalar"
+    },
+    {
+      "id": 407,
+      "input": "\"Witcher 3: Blood and Wine\" o'yinida asosiy qahramon kim?",
+      "output": "Geralt of Rivia"
+    },
+    {
+      "id": 408,
+      "input": "\"Lords Mobile\" o'yinida qanday mexanizm mavjud?",
+      "output": "Strateji qurilish va janglar"
+    },
+    {
+      "id": 409,
+      "input": "\"The Outer Worlds\" o'yinida o'yinchi kimni boshqaradi?",
+      "output": "The Stranger (Nomini o'yinchi tanlaydi)"
+    },
+    {
+      "id": 410,
+      "input": "\"Destiny 2\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "PvP va PvE janglar, qurollarni rivojlantirish"
+    },
+    {
+      "id": 411,
+      "input": "\"NBA 2K21\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik basketbol simulyatsiyasi"
+    },
+    {
+      "id": 412,
+      "input": "\"Resident Evil 3\" o'yinida asosiy qahramon kim?",
+      "output": "Jill Valentine"
+    },
+    {
+      "id": 413,
+      "input": "\"Yakuza 0\" o'yinida asosiy qahramon kim?",
+      "output": "Kazuma Kiryu va Goro Majima"
+    },
+    {
+      "id": 414,
+      "input": "\"Far Cry 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Free roam va yangi jangovar strategiyalar"
+    },
+    {
+      "id": 415,
+      "input": "\"Left 4 Dead 2\" o'yinida qanday dushmanlar mavjud?",
+      "output": "Zombilar va mutantlar"
+    },
+    {
+      "id": 416,
+      "input": "\"Rainbow Six Siege\" o'yinida qanday yangi o'yin mexanizmlari mavjud?",
+      "output": "Jamoaviy taktika va maxsus harakatlar"
+    },
+    {
+      "id": 417,
+      "input": "\"Dark Souls Remastered\" o'yinida asosiy qahramon kim?",
+      "output": "The Undead Hero"
+    },
+    {
+      "id": 418,
+      "input": "\"World War Z\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Zombi hordalariga qarshi kooperativ janglar"
+    },
+    {
+      "id": 419,
+      "input": "\"Battlefield 2042\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Future-based qurollar va ko'plab strategiyalar"
+    },
+    {
+      "id": 420,
+      "input": "\"Subnautica\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Suv ostidagi dunyoni o'rganish va hayot qolish"
+    },
+    {
+      "id": 421,
+      "input": "\"Forza Horizon 5\" o'yinida qanday yangi qurollar mavjud?",
+      "output": "Yangi avtomobillar va turli poyga maydonlari"
+    },
+    {
+      "id": 422,
+      "input": "\"Tomb Raider: Rise of the Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft"
+    },
+    {
+      "id": 423,
+      "input": "\"Saints Row IV\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "Komediya va super kuchlar bilan janglar"
+    },
+    {
+      "id": 424,
+      "input": "\"Star Wars Battlefront II\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Star Wars mavzusidagi janglar va turli qahramonlar"
+    },
+    {
+      "id": 425,
+      "input": "\"Unravel 2\" o'yinida asosiy qahramon kim?",
+      "output": "Yarny (ikki qahramon - birlashgan iplardan)"
+    },
+    {
+      "id": 426,
+      "input": "\"Pokémon Sword and Shield\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Dynamax va Gigantamax imkoniyatlari"
+    },
+    {
+      "id": 427,
+      "input": "\"FIFA 22\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "HyperMotion texnologiyasi va yangilangan taktika"
+    },
+    {
+      "id": 428,
+      "input": "\"Mass Effect 2\" o'yinida asosiy qahramon kim?",
+      "output": "Commander Shepard"
+    },
+    {
+      "id": 429,
+      "input": "\"The Sims 4\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Yangi sim kartalari, hayot davomiyligi, va yaqin aloqalar"
+    },
+    {
+      "id": 430,
+      "input": "\"Far Cry New Dawn\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Post-apokaliptik dunyo va kurashlar"
+    },
+    {
+      "id": 431,
+      "input": "\"The Last of Us Part II\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi stealth mexanizmlar va yuqori darajadagi jangovar mexanika"
+    },
+    {
+      "id": 432,
+      "input": "\"Dragon Age: Origins\" o'yinida asosiy qahramon kim?",
+      "output": "The Grey Warden"
+    },
+    {
+      "id": 433,
+      "input": "\"Gotham Knights\" o'yinida asosiy qahramon kim?",
+      "output": "Batgirl, Nightwing, Red Hood, va Robin"
+    },
+    {
+      "id": 434,
+      "input": "\"Tom Clancy's Ghost Recon Wildlands\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kooperativ o'yin, strategik va jismoniy janglar"
+    },
+    {
+      "id": 435,
+      "input": "\"The Crew 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ko'p transport vositalari va keng ochiq dunyo"
+    },
+    {
+      "id": 436,
+      "input": "\"Zelda: Breath of the Wild\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo va turli jangovar imkoniyatlar"
+    },
+    {
+      "id": 437,
+      "input": "\"CyberConnect2's Naruto Shippuden: Ultimate Ninja Storm 4\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "Jangovar o'yinlar va maxsus ninja harakatlar"
+    },
+    {
+      "id": 438,
+      "input": "\"Persona 5 Royal\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "New confidants, Palaces, and Personas"
+    },
+    {
+      "id": 439,
+      "input": "\"Call of Duty: Cold War\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Warzone va Zombies rejimlari"
+    },
+    {
+      "id": 440,
+      "input": "\"Horizon Forbidden West\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar mexanika va yangi yirtqichlar"
+    },
+    {
+      "id": 441,
+      "input": "\"Super Mario Maker 2\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "O'z darajalarni yaratish va yangi elementlar"
+    },
+    {
+      "id": 442,
+      "input": "\"The Witcher 3: Wild Hunt – Hearts of Stone\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Yangi hikoyalar va qahramonlar"
+    },
+    {
+      "id": 443,
+      "input": "\"Minecraft: Bedrock Edition\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Ko'proq bloklar, yangi rejimlar va kooperativ o'yin"
+    },
+    {
+      "id": 444,
+      "input": "\"Monster Hunter World\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Yirtqichlarni ovlash, qurollarni yaratish"
+    },
+    {
+      "id": 445,
+      "input": "\"Dead Space\" o'yinida qanday asosiy mexanika mavjud?",
+      "output": "Survival horror va dushmanlarni mag'lub etish"
+    },
+    {
+      "id": 446,
+      "input": "\"Splinter Cell: Blacklist\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Stealth va maxfiylik bilan jang qilish"
+    },
+    {
+      "id": 447,
+      "input": "\"Nier: Automata\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kombolar, urushlar va jangovar texnologiyalar"
+    },
+    {
+      "id": 448,
+      "input": "\"Horizon Zero Dawn\" o'yinida asosiy qahramon kim?",
+      "output": "Aloy, o'yinning asosiy qahramoni, \"machine hunter\" bo'lib, kelajakdagi dunyoda yirtqich robotlarni ovlaydi."
+    },
+    {
+      "id": 449,
+      "input": "\"Minecraft\" o'yinida o'yinchi nima qiladi?",
+      "output": "O'yinchi ochiq dunyoda qurilish, resurslarni yig'ish, dushmanlardan himoyalanish va yangi dunyo yaratish uchun ishlaydi."
+    },
+    {
+      "id": 450,
+      "input": "\"Final Fantasy XV\" o'yinida asosiy qahramon kim?",
+      "output": "Noctis Lucis Caelum, o'yinning bosh qahramoni bo'lib, u o'z taxtini qaytarib olish uchun safarga chiqadi."
+    },
+    {
+      "id": 451,
+      "input": "\"The Last of Us Part II\" o'yinida asosiy qahramon kim?",
+      "output": "Ellie, o'yinning asosiy qahramoni, u zo'ravonlik, sevgi va yo'qotishlar bilan kurashadi."
+    },
+    {
+      "id": 452,
+      "input": "\"Overwatch\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "O'yinda turli xil qahramonlar bilan jamoaviy janglar, har bir qahramon o'ziga xos maxsus qobiliyatga ega."
+    },
+    {
+      "id": 453,
+      "input": "\"Grand Theft Auto V\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Open-world formatda poygalar, janglar, o'g'irliklar va yirik missiyalarni bajarish imkoniyatlari."
+    },
+    {
+      "id": 454,
+      "input": "\"League of Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "PvP janglar, har bir o'yinchi o'ziga xos qahramonni boshqaradi va strategik jamoaviy kurashlarda qatnashadi."
+    },
+    {
+      "id": 455,
+      "input": "\"Bloodborne\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Qo'l janglari, qila oladigan otishmalar va magiyalar, stealth va tarkibiy yondoshuvlar mavjud."
+    },
+    {
+      "id": 456,
+      "input": "\"Assassin’s Creed Odyssey\" o'yinida asosiy qahramon kim?",
+      "output": "Kassandra yoki Alexios (o'yinchi tanlagan qahramon), Sparta jangchisi va qotil."
+    },
+    {
+      "id": 457,
+      "input": "\"Rocket League\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Futbol o'yini avtomobillar bilan o'ynaladi, jamoalar gol urishga harakat qilishadi."
+    },
+    {
+      "id": 458,
+      "input": "\"Super Mario Odyssey\" o'yinida asosiy qahramon kim?",
+      "output": "Mario, o'yinning asosiy qahramoni, Princess Peach-ni qutqarish uchun dunyo bo'ylab sayohat qiladi."
+    },
+    {
+      "id": 459,
+      "input": "\"Tomb Raider: Shadow of the Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft, dunyodagi eng mashhur ayol sarguzashtchi, turli xavf-xatarlarga qarshi kurashadi."
+    },
+    {
+      "id": 460,
+      "input": "\"Monster Hunter World\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "O'yinchi turli xil qurollar bilan yirtqich hayvonlarni ovlab, yangi qurollar va armaturalarni yaratadi."
+    },
+    {
+      "id": 461,
+      "input": "\"Civilization VI\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Strategik o'yin, davlatchilikni boshqarish, resurslarni boshqarish, janglar va diplomatiya."
+    },
+    {
+      "id": 462,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Wild West dunyosida erkin o'yin, janglar, poygalar, qaroqchilik va hayotning turli aspektlarini ko'rish."
+    },
+    {
+      "id": 463,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Jangovar mexanizmda magiyalarni ishlatish, qilich bilan jang qilish va alohida yirtqichlardan qochish imkoniyatlari mavjud."
+    },
+    {
+      "id": 464,
+      "input": "\"Fortnite\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Battle Royale, qurilish va jangovar harakatlar. O'yinchilar hayotda qolishga va raqiblarini yengishga harakat qilishadi."
+    },
+    {
+      "id": 465,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Turli sinflardan (mijozlar, jangchilar, mag) foydalanib, raqiblar bilan jamoaviy kurashlar."
+    },
+    {
+      "id": 466,
+      "input": "\"Splatoon 2\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Paintball janglari, jamoalar o'z hududlarini bo'yashadi va raqibni yo'q qilishadi."
+    },
+    {
+      "id": 467,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik janglar, harbiy strategiyalar, zamonaviy qurollar va keng miqyosli janglar."
+    },
+    {
+      "id": 468,
+      "input": "\"Persona 5\" o'yinida asosiy qahramon kim?",
+      "output": "Joker (o'yinchi tomonidan tanlanadigan nom), o'yinning asosiy qahramoni, jinoyatchilikka qarshi kurashadi."
+    },
+    {
+      "id": 469,
+      "input": "\"Assassin’s Creed: Valhalla\" o'yinida asosiy qahramon kim?",
+      "output": "Eivor, Viking jangchisi, o'z xalqining o'zgarishlari uchun kurashadi."
+    },
+    {
+      "id": 470,
+      "input": "\"Dead by Daylight\" o'yinida o'yinchilar qanday rollarda o'ynaydi?",
+      "output": "O'yinchilar Survivor (hayot qolish) yoki Killer (qotil) sifatida o'ynashadi."
+    },
+    {
+      "id": 471,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday sinflar mavjud?",
+      "output": "Warrior, Mage, Thief, Archer va Assassins kabi sinflar mavjud."
+    },
+    {
+      "id": 472,
+      "input": "\"Super Smash Bros. Ultimate\" o'yinida qanday jangovar mexanizm ishlatiladi?",
+      "output": "2D jangovar o'yinlar, maxsus harakatlar va turli xil o'yinchi xarakterlari."
+    },
+    {
+      "id": 473,
+      "input": "\"Resident Evil 2\" o'yinida asosiy qahramon kim?",
+      "output": "Leon S. Kennedy va Claire Redfield, o'yinda hayotga qolish uchun zombi va yirtqichlardan qochishadi."
+    },
+    {
+      "id": 474,
+      "input": "\"Gears of War 5\" o'yinida asosiy qahramon kim?",
+      "output": "Kait Diaz, Gears of War seriyasining so'nggi o'yinida asosiy qahramon."
+    },
+    {
+      "id": 475,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Yangi personajlar, Kombat Variationlar va yirik jangovar qo'shimchalar."
+    },
+    {
+      "id": 476,
+      "input": "\"Dead Space\" o'yinida qanday asosiy mexanika mavjud?",
+      "output": "Survival horror, zombi-mutantlarga qarshi kurashish va hayot qolish uchun maxfiylik."
+    },
+    {
+      "id": 477,
+      "input": "\"Star Wars: Jedi Fallen Order\" o'yinida asosiy qahramon kim?",
+      "output": "Cal Kestis, Jedi bo'lish yo'lida kuchlarini rivojlantiradi va Star Wars universumida yangi dunyo yaratadi."
+    },
+    {
+      "id": 478,
+      "input": "\"Tekken 7\" o'yinida qanday jangovar harakatlar mavjud?",
+      "output": "Kombolar, maxsus urush usullari va jismoniy janglar."
+    },
+    {
+      "id": 479,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Janglar va katta jang maydonlarida turli yirik jismoniy kurashlar."
+    },
+    {
+      "id": 480,
+      "input": "\"World of Warcraft\" o'yinida qanday sinflar mavjud?",
+      "output": "Warrior, Mage, Hunter, Priest, Rogue, Warlock, Druid, Shaman, Monk, Death Knight, Demon Hunter."
+    },
+    {
+      "id": 481,
+      "input": "\"Cyberpunk 2077\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Open-world RPG, keng qamrovli diologlar, qurollar, haydovchilik va kiber-maqsadlar."
+    },
+    {
+      "id": 482,
+      "input": "\"No Man’s Sky\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "Kosmik sayohatlar, turli sayyoralarni o'rganish va resurslar yig'ish."
+    },
+    {
+      "id": 483,
+      "input": "\"The Legend of Zelda: Ocarina of Time\" o'yinida asosiy qahramon kim?",
+      "output": "Link, o'yinning asosiy qahramoni, o'zining sarguzashtlari davomida Hyrule qirolichasini qutqarishga harakat qiladi."
+    },
+    {
+      "id": 484,
+      "input": "\"Doom Eternal\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Super tezkor janglar, yuqori darajadagi otishmalar va qurollarning turli turlari."
+    },
+    {
+      "id": 485,
+      "input": "\"Red Dead Redemption 2\" o'yinida asosiy qahramon kim?",
+      "output": "Arthur Morgan, o'yinning asosiy qahramoni, Wild Westdagi jangarilar guruhining a'zosi."
+    },
+    {
+      "id": 486,
+      "input": "\"Apex Legends\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Battle Royale, turli qahramonlar (Legends) bilan jamoaviy janglar."
+    },
+    {
+      "id": 487,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Qilich bilan jang qilish, alohida qurollar va magiyalarni ishlatish, jangovar combo-lar."
+    },
+    {
+      "id": 488,
+      "input": "\"Watch Dogs 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hakerlik va kooperativ o'yin, shaharni boshqarish uchun texnologiyalardan foydalanish."
+    },
+    {
+      "id": 489,
+      "input": "\"Street Fighter V\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Combo mexanizmlari va maxsus super harakatlar orqali jang qilish."
+    },
+    {
+      "id": 490,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Realistik o'rtacha janglar, qurollar bilan kurashish va taqiqlangan harakatlardan foydalanish."
+    },
+    {
+      "id": 491,
+      "input": "\"Monster Hunter Rise\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Monster hunterlar uchun yangi qurollar, yangi yirtqichlar va qayta ishlangan jang mexanizmi."
+    },
+    {
+      "id": 492,
+      "input": "\"Madden NFL 21\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "NFL simulyatsiyasi, jamoa boshqaruvi, yangi turdagi jismoniy harakatlar va to'qnashuvlar."
+    },
+    {
+      "id": 493,
+      "input": "\"Dark Souls III\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Jangovar mexanizmda qurollar, spell-lar va maxsus qobiliyatlar yordamida jang qilish."
+    },
+    {
+      "id": 494,
+      "input": "\"The Elder Scrolls Online\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Multiplayer RPG, turli sinflar va guruhlar bilan jamoaviy janglar."
+    },
+    {
+      "id": 495,
+      "input": "\"FIFA 23\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, yangi jismoniy harakatlar va taktikalar."
+    },
+    {
+      "id": 496,
+      "input": "\"Spider-Man: Miles Morales\" o'yinida asosiy qahramon kim?",
+      "output": "Miles Morales, Spider-Man, yangi yirtqichlar va jinoyatchilar bilan kurashadi."
+    },
+    {
+      "id": 497,
+      "input": "\"Uncharted 4: A Thief's End\" o'yinida asosiy qahramon kim?",
+      "output": "Nathan Drake, dunyo bo'ylab sarguzashtlarga chiqadigan xazina izlovchi."
+    },
+    {
+      "id": 498,
+      "input": "\"Portal 2\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "Puzzle o'yini, portalni yaratish orqali yo'lni ochish va ob'ektlarni manipulyatsiya qilish."
+    },
+    {
+      "id": 499,
+      "input": "\"Halo 5: Guardians\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "First-person shooter, keng qamrovli janglar va kooperativ o'yin imkoniyatlari."
+    },
+    {
+      "id": 500,
+      "input": "\"Diablo III\" o'yinida qanday o'yin mexanizmi mavjud?",
+      "output": "Hack and Slash, RPG o'yini, turli sinflarda dushmanlarni yo'q qilish."
+    },
+    {
+      "id": 501,
+      "input": "\"Hitman 2\" o'yinida qanday asosiy mexanika mavjud?",
+      "output": "Stealth, maxfiylik va dushmanlarni ta'sir qilish orqali o'ldirish."
+    },
+    {
+      "id": 502,
+      "input": "\"Assassin's Creed Syndicate\" o'yinida asosiy qahramon kim?",
+      "output": "Jacob va Evie Frye, ikkalasi Londonning jinoyatchilik dunyosida jang qilishadi."
+    },
+    {
+      "id": 503,
+      "input": "\"Gears of War 4\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Jamoaviy janglar, qurollar va texnologiyalar yordamida yangi dushmanlar bilan kurashish."
+    },
+    {
+      "id": 504,
+      "input": "\"Resident Evil Village\" o'yinida asosiy qahramon kim?",
+      "output": "Ethan Winters, o'z oilasini qutqarish uchun dahshatli qishloqda omon qolishga harakat qiladi."
+    },
+    {
+      "id": 505,
+      "input": "\"Tetris 99\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Battle Royale formatida 99 o'yinchi bir-biriga qarshi kurashadi va oxirigacha omon qolishadi."
+    },
+    {
+      "id": 506,
+      "input": "\"Assassin's Creed Origins\" o'yinida asosiy qahramon kim?",
+      "output": "Bayek, Misrning eski davridagi assassin bo'lib, o'zining adolatni ta'minlash yo'lida kurashadi."
+    },
+    {
+      "id": 507,
+      "input": "\"F1 2021\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Formula 1 simulyatsiyasi, jismoniy poyga mexanizmi, yangi o'yin rejimlari va shaxsiy qarorlar."
+    },
+    {
+      "id": 508,
+      "input": "\"Dragon Age II\" o'yinida asosiy qahramon kim?",
+      "output": "Hawke, turli qismlar va sinflarda kurashadigan o'yinning bosh qahramoni."
+    },
+    {
+      "id": 509,
+      "input": "\"Fortnite: Battle Royale\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi qurilish mexanizmi va Battle Royale formatida kengaytirilgan o'yin maydonlari."
+    },
+    {
+      "id": 510,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft, o'yinning asosiy qahramoni, qadimiy sirlarni ochishga harakat qiladi."
+    },
+    {
+      "id": 511,
+      "input": "\"Battlefield 1\" o'yinida qanday davrda janglar mavjud?",
+      "output": "Birinchi Jahon Urushi davri, jamoaviy janglar va realistik strategiya."
+    },
+    {
+      "id": 512,
+      "input": "\"Final Fantasy VII Remake\" o'yinida asosiy qahramon kim?",
+      "output": "Cloud Strife, turli xususiyatlar va qobiliyatlar bilan jangchi."
+    },
+    {
+      "id": 513,
+      "input": "\"Resident Evil 3\" o'yinida asosiy qahramon kim?",
+      "output": "Jill Valentine, zombi-apokalipsida omon qolishga harakat qiladi."
+    },
+    {
+      "id": 514,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack and Slash, kooperativ jamoaviy janglar va turli xil qurollar."
+    },
+    {
+      "id": 515,
+      "input": "\"The Outer Worlds\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "RPG, ochiq dunyo, o'yinchilar tanlagan qarorlarga asoslangan hikoya."
+    },
+    {
+      "id": 516,
+      "input": "\"Dark Souls II\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Realistik janglar, parry va evasion harakatlari bilan xavf-xatarlar."
+    },
+    {
+      "id": 517,
+      "input": "\"Fall Guys: Ultimate Knockout\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, kulgili platforma o'yini, 60 o'yinchi bir-biriga qarshi kurashadi."
+    },
+    {
+      "id": 518,
+      "input": "\"Hollow Knight\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Platformer, o'yinchi jang qilish va sayohat qilish uchun turli xil qurollar va maxsus qobiliyatlar ishlatadi."
+    },
+    {
+      "id": 519,
+      "input": "\"Call of Duty: Black Ops Cold War\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ko'plab multiplayer rejimlari, zombies va yangi qurollar."
+    },
+    {
+      "id": 520,
+      "input": "\"The Elder Scrolls V: Skyrim Special Edition\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Yangi grafiklar, kengaytirilgan qo'shimcha kontent va modlar qo'llab-quvvatlanadi."
+    },
+    {
+      "id": 521,
+      "input": "\"Halo: Combat Evolved\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "First-person shooter, jamoaviy janglar va strategik qurollardan foydalanish."
+    },
+    {
+      "id": 522,
+      "input": "\"Star Wars Jedi: Fallen Order\" o'yinida asosiy qahramon kim?",
+      "output": "Cal Kestis, Jedi bo'lishni orzu qiluvchi o'yinchi, Sithlarga qarshi kurashadi."
+    },
+    {
+      "id": 523,
+      "input": "\"Super Mario Bros.\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, Mario va Luigi qahramonlari yordamida turli darajalarni bosib o'tish."
+    },
+    {
+      "id": 524,
+      "input": "\"Far Cry 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Open-world, terrorizmga qarshi kurashish, kooperativ o'yin va silovatchilik."
+    },
+    {
+      "id": 525,
+      "input": "\"Spelunky 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, zindonlarni o'rganish va to'qnashuvlar."
+    },
+    {
+      "id": 526,
+      "input": "\"The Division 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kooperativ multiplayer, shaharni qutqarish va dushmanlar bilan kurashish."
+    },
+    {
+      "id": 527,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbol o'yinini avtomobillar bilan o'ynash, jamoaviy kurashlar."
+    },
+    {
+      "id": 528,
+      "input": "\"BioShock Infinite\" o'yinida qanday asosiy mexanizm mavjud?",
+      "output": "First-person shooter, janglar va o'yin ichidagi hikoya mexanizmi."
+    },
+    {
+      "id": 529,
+      "input": "\"God of War (2018)\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kombinatsiya janglari, magiya va qurollarning yangilanishi."
+    },
+    {
+      "id": 530,
+      "input": "\"Minecraft: Story Mode\" o'yinida qanday mexanizm mavjud?",
+      "output": "Interaktiv hikoya, qarorlarni tanlash va o'yin dunyosiga ta'sir qilish."
+    },
+    {
+      "id": 531,
+      "input": "\"Zelda: Breath of the Wild\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, tabiat bilan integratsiya qilish va yangi qurollar."
+    },
+    {
+      "id": 532,
+      "input": "\"Red Dead Redemption\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Ochiq dunyo, qurollar bilan jang qilish va dushmanlarni ovlash."
+    },
+    {
+      "id": 533,
+      "input": "\"Street Fighter IV\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Combo mexanizmlari va maxsus super harakatlar yordamida jang qilish."
+    },
+    {
+      "id": 534,
+      "input": "\"Assassin’s Creed III\" o'yinida asosiy qahramon kim?",
+      "output": "Connor Kenway, o'yinning bosh qahramoni, Amerika inqilobida kurashadi."
+    },
+    {
+      "id": 535,
+      "input": "\"Dead Space 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival horror, qayta qurilgan qurollar va yangi dushmanlar."
+    },
+    {
+      "id": 536,
+      "input": "\"Kingdom Hearts III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, turli Disney va Final Fantasy personajlari bilan janglar."
+    },
+    {
+      "id": 537,
+      "input": "\"Witcher 2: Assassins of Kings\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Sarguzasht, hikoya va kurash mexanizmlari, yangi magiyalar."
+    },
+    {
+      "id": 538,
+      "input": "\"Dragon Quest XI\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, turn-based janglar, dushmanlar bilan strategik kurash."
+    },
+    {
+      "id": 539,
+      "input": "\"F1 2020\" o'yinida qanday mexanizm mavjud?",
+      "output": "Formula 1 poygalari, jismoniy simulyatsiya va yangi poyga mashinalari."
+    },
+    {
+      "id": 540,
+      "input": "\"Diablo II: Resurrected\" o'yinida qanday yangi xususiyatlar mavjud?",
+      "output": "Yangi grafika, kengaytirilgan boshqaruv imkoniyatlari va onlayn o'yin."
+    },
+    {
+      "id": 541,
+      "input": "\"Mass Effect 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "RPG, jamoaviy strategik janglar, xususiy qahramonlar va hikoyalar."
+    },
+    {
+      "id": 542,
+      "input": "\"Sonic Mania\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, eski klassik Sonic o'yinlari elementlarini yangilangan grafika bilan taqdim etadi."
+    },
+    {
+      "id": 543,
+      "input": "\"Nier Replicant ver.1.22474487139...\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "O'yinda hikoya, jangovar mexanika va o'yinchiga ta'sir etuvchi yangi o'zgarishlar mavjud"
+    },
+    {
+      "id": 544,
+      "input": "\"Tomb Raider (2013)\" o'yinida asosiy qahramon kim?",
+      "output": "Lara Croft, o'zining sarguzashtlarida yirik xazina izlovchi va jangchi sifatida o'zini tanitadi."
+    },
+    {
+      "id": 545,
+      "input": "\"The Last of Us Part II\" o'yinida asosiy qahramon kim?",
+      "output": "Ellie, o'yinda o'zining og'ir tajribalaridan so'ng hayotni qayta tiklashga harakat qiladi."
+    },
+    {
+      "id": 546,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik janglar, taktikalar va kooperativ missiyalar."
+    },
+    {
+      "id": 547,
+      "input": "\"Resident Evil 2 Remake\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, zombi-apokalipsisi va resurslar bilan boshqarish."
+    },
+    {
+      "id": 548,
+      "input": "\"The Legend of Zelda: Breath of the Wild\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Ochiq dunyo, resurslar yig'ish va qurollar yordamida jang qilish."
+    },
+    {
+      "id": 549,
+      "input": "\"Hades\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Roguelike, qahramonning doimiy o'zgarishlari va yangi yovuzliklarni yengish."
+    },
+    {
+      "id": 550,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik jangovar mexanizm, parry va evasion kombinatsiyasi, tezkor qahramon harakatlari."
+    },
+    {
+      "id": 551,
+      "input": "\"CyberConnect2's Naruto Shippuden: Ultimate Ninja Storm 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced battle, jamoa janglari va maxsus harakatlar yordamida raqibni yengish."
+    },
+    {
+      "id": 552,
+      "input": "\"Bloodborne\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Action RPG, ko'proq qattiq janglar, shiddatli dushmanlar va atmosferik horro."
+    },
+    {
+      "id": 553,
+      "input": "\"Final Fantasy XV\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar tizim va multiplayer qo'shimchalar."
+    },
+    {
+      "id": 554,
+      "input": "\"Persona 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Dungeon crawling, turn-based janglar, va shaxsiy qarorlarni qabul qilish."
+    },
+    {
+      "id": 555,
+      "input": "\"Gears 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kooperativ janglar, yangi dushmanlar va jamoaviy strategiyalar."
+    },
+    {
+      "id": 556,
+      "input": "\"Destiny 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "FPS, kooperativ va raqobatbardosh multiplayer rejimlari."
+    },
+    {
+      "id": 557,
+      "input": "\"Overwatch 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hero-based FPS, yangi qahramonlar, xaritalar va o'yin rejimlari."
+    },
+    {
+      "id": 558,
+      "input": "\"Street Fighter V\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "V-Trigger va V-Skill mexanizmlari, har bir qahramon uchun maxsus harakatlar."
+    },
+    {
+      "id": 559,
+      "input": "\"Dragon Ball FighterZ\" o'yinida qanday mexanizm mavjud?",
+      "output": "Tag-team style battle, combo harakatlar va maxsus \"Super\" harakatlar."
+    },
+    {
+      "id": 560,
+      "input": "\"Hitman 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, maxfiy o'ldirish va turli xil ssenariylarga asoslangan o'yin."
+    },
+    {
+      "id": 561,
+      "input": "\"Uncharted 4: A Thief's End\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platforming, jangovar o'yinlar va strategik otishmalar."
+    },
+    {
+      "id": 562,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, qurollar va magiyalar bilan janglar, qarorlarni qabul qilish."
+    },
+    {
+      "id": 563,
+      "input": "\"Far Cry 4\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, ko'plab jangovar qurollar va hayvonlar bilan kurashish."
+    },
+    {
+      "id": 564,
+      "input": "\"Halo: Reach\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "First-person shooter, keng ko'lamli janglar va strategik kooperativ rejimlar."
+    },
+    {
+      "id": 565,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash, kuchli qahramon va urushlar."
+    },
+    {
+      "id": 566,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "X-Ray va Fatality harakatlari, yirik janglar va combo mexanizmlari."
+    },
+    {
+      "id": 567,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik o'rta asr jangovar mexanizmlari, qurol va himoya tizimlari."
+    },
+    {
+      "id": 568,
+      "input": "\"Monster Hunter World\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yirtqichlarni ovlash va resurslarni yig'ish, yangi qurollar va jangovar strategiyalar."
+    },
+    {
+      "id": 569,
+      "input": "\"Final Fantasy XIV\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MMORPG, kooperativ missiyalar, jamoaviy janglar va g'alaba qozonish uchun strategiyalar."
+    },
+    {
+      "id": 570,
+      "input": "\"No Man’s Sky\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kosmik sayohatlar, sayyoralarni o'rganish, koinotdagi yangi turlarni kashf etish."
+    },
+    {
+      "id": 571,
+      "input": "\"Assassin’s Creed Valhalla\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Vikinglarning jangovar stilini yorituvchi qurollar va maxsus harakatlar."
+    },
+    {
+      "id": 572,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival elementlari, yangi qurilish va mahoratlarni oshirish mexanizmlari."
+    },
+    {
+      "id": 573,
+      "input": "\"FIFA 22\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, yangi jismoniy harakatlar va taktikalar."
+    },
+    {
+      "id": 574,
+      "input": "\"Dead Cells\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike platformer, turli qurollar va kombolar bilan jang qilish."
+    },
+    {
+      "id": 575,
+      "input": "\"Dying Light\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, parkur, jangovar mexanizm va zombi-apokalipsisi."
+    },
+    {
+      "id": 576,
+      "input": "\"Star Wars Battlefront II\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Star Wars dunyosida jangovar missiyalar, kooperativ va raqobatbardosh rejimlar."
+    },
+    {
+      "id": 577,
+      "input": "\"Divinity: Original Sin 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, o'yinchi qarorlari va guruh janglari bilan to'liq o'zgarishlar."
+    },
+    {
+      "id": 578,
+      "input": "\"Minecraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, qurilish, resurslarni yig'ish va hayotiy strategiyalar."
+    },
+    {
+      "id": 579,
+      "input": "\"Assassin's Creed Odyssey\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, RPG elementlari va jangovar tizimning takomillashuvi."
+    },
+    {
+      "id": 580,
+      "input": "\"The Sims 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, o'yinchi o'z simlarini boshqaradi, ijtimoiy munosabatlarni rivojlantiradi."
+    },
+    {
+      "id": 581,
+      "input": "\"Warframe\" o'yinida qanday mexanizm mavjud?",
+      "output": "Kooperativ multiplayer, futuristik janglar va o'ziga xos qurollar."
+    },
+    {
+      "id": 582,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Swords, magic, alchemy, and monster hunting mechanics."
+    },
+    {
+      "id": 583,
+      "input": "\"Celeste\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platforming, o'yinchi turli xil qiyinchiliklarni yengish uchun ko'nikmalarni o'rganadi."
+    },
+    {
+      "id": 584,
+      "input": "\"League of Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "MOBA (Multiplayer Online Battle Arena), jamoalar o'rtasida strategik janglar."
+    },
+    {
+      "id": 585,
+      "input": "\"Apex Legends\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Battle Royale, heros-based mexanizmlar va kooperativ janglar."
+    },
+    {
+      "id": 586,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, jangovar tizim va alohida sarguzashtlar."
+    },
+    {
+      "id": 587,
+      "input": "\"Counter-Strike: Global Offensive\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, taktik janglar va qurollarni tanlash."
+    },
+    {
+      "id": 588,
+      "input": "\"Monster Hunter: World\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Yirtqichlarni ovlash, jangovar usullar va guruhli strategiyalar."
+    },
+    {
+      "id": 589,
+      "input": "\"Far Cry 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, junglni o'rganish, jangovar qurollar va ko'plab tomoshabinlar."
+    },
+    {
+      "id": 590,
+      "input": "\"Starcraft II\" o'yinida qanday mexanizm mavjud?",
+      "output": "RTS (Real-Time Strategy), resurslarni boshqarish va jangovar birliklarni yaratish."
+    },
+    {
+      "id": 591,
+      "input": "\"Metal Gear Solid V: The Phantom Pain\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth gameplay, juda ko'p strategik imkoniyatlar va kooperativ missiyalar."
+    },
+    {
+      "id": 592,
+      "input": "\"F1 2021\" o'yinida qanday mexanizm mavjud?",
+      "output": "Formula 1 poygalarining simulyatsiyasi, jismoniy tizim va poyga strategiyalari."
+    },
+    {
+      "id": 593,
+      "input": "\"Dark Souls III\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, qattiq jangovar mexanizm, dushmanlarga qarshi turli taktikalardan foydalanish."
+    },
+    {
+      "id": 594,
+      "input": "\"Fortnite\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, qurilish mexanizmlari va turli xil kooperativ imkoniyatlar."
+    },
+    {
+      "id": 595,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, hayvonlarni ovlash, qurollarni o'zgartirish va realistik jismoniy tizim."
+    },
+    {
+      "id": 596,
+      "input": "\"Spiderman: Miles Morales\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Jangovar mexanizm, yangi super qobiliyatlar va o'ziga xos parkur elementlari."
+    },
+    {
+      "id": 597,
+      "input": "\"GTA V\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobillar, jamoalar va strategik hujumlar."
+    },
+    {
+      "id": 598,
+      "input": "\"Overcooked! 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Kooperativ multiplayer, tezkor va chaotiq oshpazlik o'yini."
+    },
+    {
+      "id": 599,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillar bilan o'ynash, sport va jamoaviy o'yin."
+    },
+    {
+      "id": 600,
+      "input": "\"Bioshock Infinite\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "First-person shooter, atmosferik o'yin va murakkab hikoya."
+    },
+    {
+      "id": 601,
+      "input": "\"Sid Meier's Civilization VI\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, xalqlarni boshqarish va strategik yutug'lar."
+    },
+    {
+      "id": 602,
+      "input": "\"Plants vs. Zombies: Battle for Neighborville\" o'yinida qanday mexanizm mavjud?",
+      "output": "TPS (Third-Person Shooter), o'zgaruvchan qurollar va boshqarish mexanizmi."
+    },
+    {
+      "id": 603,
+      "input": "\"Hollow Knight\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Platformer, jag'lar va maxsus qobiliyatlarni rivojlantirish."
+    },
+    {
+      "id": 604,
+      "input": "\"Nier: Automata\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hack-and-slash, robotlar va jangovar tajribalar."
+    },
+    {
+      "id": 605,
+      "input": "\"Dead Space\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival horror, zombi-apokalipsisi va resurslarni boshqarish mexanizmi."
+    },
+    {
+      "id": 606,
+      "input": "\"Titanfall 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced FPS, Titanlar bilan jang qilish va kooperativ rejimlar."
+    },
+    {
+      "id": 607,
+      "input": "\"Battlefield V\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, o'yinchilar o'rtasida keng ko'lamli janglar va strategik harakatlar."
+    },
+    {
+      "id": 608,
+      "input": "\"Red Dead Redemption 2\" o'yinida asosiy qahramon kim?",
+      "output": "Arthur Morgan, yovvoyi G'arbda yashayotgan Van der Linde jamoasining a'zosi."
+    },
+    {
+      "id": 609,
+      "input": "\"Borderlands 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "RPG elementlari, kooperativ multiplayer, yangi qurollar va dushmanlar."
+    },
+    {
+      "id": 610,
+      "input": "\"The Elder Scrolls IV: Oblivion\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, sarguzashtlar, jangovar tizimlar va alohida missiyalar."
+    },
+    {
+      "id": 611,
+      "input": "\"Control\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Paranormal kuchlar va yangi o'yin mexanizmlarini o'z ichiga olgan psixologik triller."
+    },
+    {
+      "id": 612,
+      "input": "\"The Walking Dead\" o'yinida qanday mexanizm mavjud?",
+      "output": "Point-and-click, hikoyaga asoslangan qarorlar va interaktiv qism."
+    },
+    {
+      "id": 613,
+      "input": "\"Zelda: Twilight Princess\" o'yinida qanday mexanizm mavjud?",
+      "output": "Puzzle platforming, zindonlarni o'rganish va jangovar tizimlar."
+    },
+    {
+      "id": 614,
+      "input": "\"Star Wars: Knights of the Old Republic\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, Jedi va Sithlar o'rtasida tanlovlar va strategiyalar."
+    },
+    {
+      "id": 615,
+      "input": "\"Baldur's Gate 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Isometric RPG, dungeons, turn-based janglar va qarorlar qabul qilish."
+    },
+    {
+      "id": 616,
+      "input": "\"Gears of War 4\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi harbiy qurollar, jamoaviy strategiyalar va o'zgaruvchan xususiyatlar."
+    },
+    {
+      "id": 617,
+      "input": "\"Hitman 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Stealth, maqsadli o'ldirish va yangi strategik muhitlar."
+    },
+    {
+      "id": 618,
+      "input": "\"Forza Horizon 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobil poygalari va strategik haydovchilik elementlari."
+    },
+    {
+      "id": 619,
+      "input": "\"Doom Eternal\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Fast-paced shooter, yangi dushmanlar va jangovar qurollar."
+    },
+    {
+      "id": 620,
+      "input": "\"Assassin's Creed Valhalla\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Vikinglarning jangovar tizimi, qurollarni yangilash va sarguzashtlarni rivojlantirish."
+    },
+    {
+      "id": 621,
+      "input": "\"Ghost of Tsushima\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Samurai janglari, stealth harakatlar va epik hikoya."
+    },
+    {
+      "id": 622,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash, dungeon crawling, qurollar va jangovar strategiyalar."
+    },
+    {
+      "id": 623,
+      "input": "\"Tekken 7\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo mexanizmlari va har bir jangchi uchun maxsus xususiyatlar."
+    },
+    {
+      "id": 624,
+      "input": "\"Diablo III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash, dungeon crawling, qurollar va ko'plab dushmanlar."
+    },
+    {
+      "id": 625,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash, qurollarni yangilash va strategik janglar."
+    },
+    {
+      "id": 626,
+      "input": "\"Dead Island\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival horror, zombi-apokalipsisi, jangovar mexanizmlar va resurslarni yig'ish."
+    },
+    {
+      "id": 627,
+      "input": "\"Tom Clancy's Rainbow Six Siege\" o'yinida qanday mexanizm mavjud?",
+      "output": "Tactical shooter, har bir jangchi uchun maxsus qurollar va taktikalar."
+    },
+    {
+      "id": 628,
+      "input": "\"Outer Worlds\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "RPG, o'yinchining qarorlari asosida rivojlanadigan hikoya va turli qo'shimcha imkoniyatlar."
+    },
+    {
+      "id": 629,
+      "input": "\"Horizon Zero Dawn\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar tizimlar va futuristik hayvonlarni ovlash."
+    },
+    {
+      "id": 630,
+      "input": "\"Wasteland 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Isometric RPG, strategik janglar, o'zgaruvchan qarorlar va sarguzashtlar."
+    },
+    {
+      "id": 631,
+      "input": "\"Mortal Kombat X\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kombolar, Fatalities va har bir jangchi uchun o'ziga xos maxsus harakatlar."
+    },
+    {
+      "id": 632,
+      "input": "\"The Division 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kooperativ multiplayer, yangi qurollar va jangovar missiyalar."
+    },
+    {
+      "id": 633,
+      "input": "\"Lords Mobile\" o'yinida qanday mexanizm mavjud?",
+      "output": "Real-time strategy, resurslarni yig'ish va qo'shinlarni boshqarish."
+    },
+    {
+      "id": 634,
+      "input": "\"Fallout 4\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, zombi-apokalipsisi, qurollar va ko'plab imkoniyatlar."
+    },
+    {
+      "id": 635,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday jangovar mexanizm mavjud?",
+      "output": "Parry mexanizmi, tezkor janglar va dushmanlarni yengish uchun o'ziga xos strategiyalar."
+    },
+    {
+      "id": 636,
+      "input": "\"Overwatch\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hero-based FPS, kooperativ janglar va strategiyalar."
+    },
+    {
+      "id": 637,
+      "input": "\"The Last of Us\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival, hikoyaga asoslangan qarorlar va o'zgaruvchan dunyo."
+    },
+    {
+      "id": 638,
+      "input": "\"FIFA 21\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, taktikalar va yangi o'yin rejimlari."
+    },
+    {
+      "id": 639,
+      "input": "\"Minecraft\" o'yinida qanday maxsus rejim mavjud?",
+      "output": "Survival, Creative, Adventure va Hardcore kabi rejimlar mavjud."
+    },
+    {
+      "id": 640,
+      "input": "\"Assassin’s Creed III\" o'yinida asosiy qahramon kim?",
+      "output": "Connor Kenway, Amerika mustamlakalarida yashayotgan assasin."
+    },
+    {
+      "id": 641,
+      "input": "\"Far Cry 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, xristianlik ekstremizmi va harbiy qurollar bilan kurash."
+    },
+    {
+      "id": 642,
+      "input": "\"Diablo II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash RPG, dungeon crawling va qurollarni yangilash."
+    },
+    {
+      "id": 643,
+      "input": "\"GTA San Andreas\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobillarni boshqarish, o'q-dorilarni yig'ish va sarguzashtlar."
+    },
+    {
+      "id": 644,
+      "input": "\"Rocket League\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Futbolni avtomobillar bilan o'ynash, yuqori tezlikda harakatlar va strategik o'yin."
+    },
+    {
+      "id": 645,
+      "input": "\"League of Legends\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MOBA, qahramonlar o'rtasida strategik janglar va o'yinchi qarorlarini qabul qilish."
+    },
+    {
+      "id": 646,
+      "input": "\"World of Warcraft\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MMORPG, g'alaba qozonish uchun jamoaviy kurashlar va missionlarni bajarish."
+    },
+    {
+      "id": 647,
+      "input": "\"Halo 5: Guardians\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, jamoaviy janglar va harbiy strategiyalar."
+    },
+    {
+      "id": 648,
+      "input": "\"Uncharted 2: Among Thieves\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Qahramonning yangi harakatlari, jangovar platforming va sarguzashtlar."
+    },
+    {
+      "id": 649,
+      "input": "\"Dead Rising\" o'yinida qanday mexanizm mavjud?",
+      "output": "Zombi-apokalipsisi, qahramonning qurollar bilan jang qilish va resurslarni boshqarish."
+    },
+    {
+      "id": 650,
+      "input": "\"The Sims 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hayot simulyatori, shaxsiy hayot va ijtimoiy aloqalarni boshqarish."
+    },
+    {
+      "id": 651,
+      "input": "\"Tom Clancy’s Splinter Cell: Blacklist\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth gameplay, jangovar qurollar va taktikalar."
+    },
+    {
+      "id": 652,
+      "input": "\"Max Payne 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Bullet-time mexanizmi, maxsus harakatlar va qurol tanlash."
+    },
+    {
+      "id": 653,
+      "input": "\"Assassin’s Creed Origins\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, yangi jangovar tizimlar va RPG elementlari."
+    },
+    {
+      "id": 654,
+      "input": "\"NBA 2K20\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik basketbol simulyatsiyasi, jismoniy harakatlar va yangi strategiyalar."
+    },
+    {
+      "id": 655,
+      "input": "\"XCOM 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, qo'shinlarni boshqarish va qahramonlarning rivojlanishi."
+    },
+    {
+      "id": 656,
+      "input": "\"Red Dead Redemption\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, kovboylik sarguzashtlari, janglar va jismoniy tizimlar."
+    },
+    {
+      "id": 657,
+      "input": "\"Tetris Effect\" o'yinida qanday mexanizm mavjud?",
+      "output": "Tetris klassik o'yini, musiqaga asoslangan tezlik va qiyinchilik darajalari."
+    },
+    {
+      "id": 658,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar strategiyalar va turli xil sinflar."
+    },
+    {
+      "id": 659,
+      "input": "\"The Witcher 2: Assassins of Kings\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, qarorlarni qabul qilish va jangovar tizimlar."
+    },
+    {
+      "id": 660,
+      "input": "\"Metal Gear Solid\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Stealth gameplay, qahramonlar va o'yinchi harakatlari asosida tizimlar."
+    },
+    {
+      "id": 661,
+      "input": "\"Persona 4 Golden\" o'yinida qanday mexanizm mavjud?",
+      "output": "Dungeon crawling, turn-based janglar va shaxsiy qarorlar qabul qilish."
+    },
+    {
+      "id": 662,
+      "input": "\"Shadow of the Colossus\" o'yinida qanday mexanizm mavjud?",
+      "output": "Gigant monster hunting, platforming va o'ziga xos jangovar mexanizm."
+    },
+    {
+      "id": 663,
+      "input": "\"Bioshock Infinite\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, yuqori darajadagi hikoya va atmosferik janglar."
+    },
+    {
+      "id": 664,
+      "input": "\"For Honor\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Jangovar mexanizm, turli xil jangchilar va o'ziga xos harakatlar."
+    },
+    {
+      "id": 665,
+      "input": "\"Hitman: Absolution\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth o'yini, yuqori darajadagi maqsadli o'ldirish va taktikalar."
+    },
+    {
+      "id": 666,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hack-and-slash, dungeon crawling, yangi jangovar usullar va missiyalar."
+    },
+    {
+      "id": 667,
+      "input": "\"The Last of Us Part II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival, stealth gameplay va o'yin dunyosiga moslashtirilgan qarorlar."
+    },
+    {
+      "id": 668,
+      "input": "\"Overwatch 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hero-based FPS, yangi qahramonlar va o'yin mexanizmlari, jamoaviy strategiyalar."
+    },
+    {
+      "id": 669,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, hayot simulyatori, qurollar va transport vositalarini boshqarish."
+    },
+    {
+      "id": 670,
+      "input": "\"Destiny 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MMOFPS, yangi silahlar, pvp va pve modlari va missiyalar."
+    },
+    {
+      "id": 671,
+      "input": "\"Tomb Raider (2013)\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, sarguzashtlar, jangovar mexanizm va zindonlarni o'rganish."
+    },
+    {
+      "id": 672,
+      "input": "\"Minecraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, resurslarni yig'ish va qurilish."
+    },
+    {
+      "id": 673,
+      "input": "\"Gears of War 5\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Taktik kooperativ janglar, yangi qurollar va qahramonlar."
+    },
+    {
+      "id": 674,
+      "input": "\"Apex Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, heros-based mexanizmlar, jamoaviy o'yin va jangovar strategiyalar."
+    },
+    {
+      "id": 675,
+      "input": "\"Control\" o'yinida qanday mexanizm mavjud?",
+      "output": "Paranormal kuchlar, o'ziga xos jangovar mexanizm va hikoya asosidagi o'yin."
+    },
+    {
+      "id": 676,
+      "input": "\"Horizon Zero Dawn\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, futuristik janglar va maxsus hayvonlarni ovlash mexanizmi."
+    },
+    {
+      "id": 677,
+      "input": "\"Assassin's Creed: Syndicate\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, platforming va stealth o'yin mexanizmlari."
+    },
+    {
+      "id": 678,
+      "input": "\"Halo: Combat Evolved\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, futuristik qurollar va jangovar harakatlar."
+    },
+    {
+      "id": 679,
+      "input": "\"GTA V\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobillar, qurollar, va ko'plab strategik rejalar."
+    },
+    {
+      "id": 680,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hack-and-slash, jangovar mexanizm, qurollar va harakatlar."
+    },
+    {
+      "id": 681,
+      "input": "\"Far Cry 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar strategiyalar va yangi qurollar."
+    },
+    {
+      "id": 682,
+      "input": "\"Fortnite\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Battle Royale, qurilish mexanizmi va jamoaviy o'yin."
+    },
+    {
+      "id": 683,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, sarguzashtlar va yuqori darajadagi RPG elementlari."
+    },
+    {
+      "id": 684,
+      "input": "\"World of Warcraft: Classic\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMORPG, o'zaro jamoaviy janglar va o'yinchining rivojlanishiga asoslangan qarorlar."
+    },
+    {
+      "id": 685,
+      "input": "\"Call of Duty: Warzone\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Battle Royale, qurollarni yangilash va kooperativ janglar."
+    },
+    {
+      "id": 686,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth gameplay, parry mexanizmi va yuqori darajadagi janglar."
+    },
+    {
+      "id": 687,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillar bilan o'ynash, jamoaviy strategiya va o'yinchining tezkor harakatlari."
+    },
+    {
+      "id": 688,
+      "input": "\"FIFA 22\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, yangi harakatlar va strategiyalar."
+    },
+    {
+      "id": 689,
+      "input": "\"Need for Speed: Heat\" o'yinida qanday mexanizm mavjud?",
+      "output": "Avtomobil poygalari, ochiq dunyo, yangi avtomobillar va poyga strategiyalari."
+    },
+    {
+      "id": 690,
+      "input": "\"Battlefield 1\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Birinchi Jahon Urushi tematikasidagi o'yin, taktik janglar va qurollar."
+    },
+    {
+      "id": 691,
+      "input": "\"Tom Clancy's The Division\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMOFPS, yangi qurollar va jangovar strategiyalar."
+    },
+    {
+      "id": 692,
+      "input": "\"The Sims 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, shaxsiy rivojlanish va o'zgaruvchan ijtimoiy aloqalar."
+    },
+    {
+      "id": 693,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kombolar, Fatalities va har bir jangchi uchun o'ziga xos maxsus harakatlar."
+    },
+    {
+      "id": 694,
+      "input": "\"No Man's Sky\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq kosmos, kosmik kemalar va galaktikalarda sayohat."
+    },
+    {
+      "id": 695,
+      "input": "\"Dead by Daylight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, bir o'yinchi dushman sifatida qolib, qolganlari esa yashirincha qochishga harakat qiladi."
+    },
+    {
+      "id": 696,
+      "input": "\"Star Wars Jedi: Fallen Order\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, lightsaber janglari va Jedi qobiliyatlari."
+    },
+    {
+      "id": 697,
+      "input": "\"The Legend of Zelda: Breath of the Wild\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, hayotiy elementlar, janglar va qurollarni yangilash mexanizmi."
+    },
+    {
+      "id": 698,
+      "input": "\"Bloodborne\" o'yinida qanday mexanizm mavjud?",
+      "output": "Dark Souls kabi, ammo tezroq janglar va hayotiy muhitni o'rganish mexanizmi."
+    },
+    {
+      "id": 699,
+      "input": "\"Watch Dogs 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hack qilish, jamoaviy harakatlar va innovatsion texnologiyalarni boshqarish."
+    },
+    {
+      "id": 700,
+      "input": "\"Resident Evil 2 (Remake)\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, zombi-apokalipsisi va strategik jangovar tizimlar."
+    },
+    {
+      "id": 701,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, ochiq dunyo, jangovar tizimlar va ko'plab tanlovlar."
+    },
+    {
+      "id": 702,
+      "input": "\"Star Wars Battlefront II\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "O'yinchilarni turli xil Star Wars fraksiyalariga ajratish, uchuvchi janglar va strategiyalar."
+    },
+    {
+      "id": 703,
+      "input": "\"Dark Souls III\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, yuqori qiyinchilik darajasi, turli jangovar strategiyalar."
+    },
+    {
+      "id": 704,
+      "input": "\"Cyberpunk 2077\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, futuristik qurollar va avtomobillar, RPG va ko'plab qarorlar."
+    },
+    {
+      "id": 705,
+      "input": "\"Civilization VI\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, davlatlarni rivojlantirish va resurslarni boshqarish."
+    },
+    {
+      "id": 706,
+      "input": "\"F1 2020\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik Formula 1 poygalari, yuqori tezlikda haydovchilik va taktikalar."
+    },
+    {
+      "id": 707,
+      "input": "\"Resident Evil Village\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival horror, qahramonlarni rivojlantirish, o'zgacha dushmanlar va sarguzashtlar."
+    },
+    {
+      "id": 708,
+      "input": "\"Minecraft\" o'yinida qanday maxsus rejim mavjud?",
+      "output": "Creative, Survival, Hardcore va Adventure rejimlari."
+    },
+    {
+      "id": 709,
+      "input": "\"Monster Hunter: World\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, qurollarni rivojlantirish va yangi sarguzashtlar."
+    },
+    {
+      "id": 710,
+      "input": "\"Gears of War 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Taktik kooperativ janglar, yangi qurollar va dushmanlar."
+    },
+    {
+      "id": 711,
+      "input": "\"Final Fantasy VII Remake\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Qahramonlarning rivojlanishi, strategik janglar va o'yin dunyosining kengaytirilgan tasviri."
+    },
+    {
+      "id": 712,
+      "input": "\"Assassin's Creed Black Flag\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, dengiz janglari va yashirin assassining harakatlari."
+    },
+    {
+      "id": 713,
+      "input": "\"FIFA 21\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, yangi taktika va strategiyalar."
+    },
+    {
+      "id": 714,
+      "input": "\"No Man's Sky\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kosmosni o'rganish, sayyoralarni koloniyalash va resurslar yig'ish."
+    },
+    {
+      "id": 715,
+      "input": "\"Hitman 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth o'yin mexanizmi, maqsadli o'ldirish va yangi sarguzashtlar."
+    },
+    {
+      "id": 716,
+      "input": "\"The Outer Worlds\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, o'yinchining qarorlariga asoslangan rivojlanish va ochiq dunyo."
+    },
+    {
+      "id": 717,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida qanday mexanizm mavjud?",
+      "output": "O'rta asrlar o'yini, tarixiy voqealar va realistik janglar."
+    },
+    {
+      "id": 718,
+      "input": "\"Tekken 7\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo mexanizmlari va har bir jangchi uchun maxsus harakatlar."
+    },
+    {
+      "id": 719,
+      "input": "\"Persona 5 Royal\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, turn-based janglar, va shaxsiy qarorlar qabul qilish mexanizmi."
+    },
+    {
+      "id": 720,
+      "input": "\"The Last of Us Part II\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Survival, stealth, va voqea asosidagi qarorlar."
+    },
+    {
+      "id": 721,
+      "input": "\"Call of Duty: Black Ops Cold War\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, kooperativ missiyalar va pvp o'yin mexanizmlari."
+    },
+    {
+      "id": 722,
+      "input": "\"Tetris 99\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, Tetris o'yinining yangilangan versiyasi."
+    },
+    {
+      "id": 723,
+      "input": "\"Spelunky 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike, platforming, va zindonlarni o'rganish."
+    },
+    {
+      "id": 724,
+      "input": "\"Dragon Quest XI\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Turn-based RPG, hikoyaga asoslangan elementlar va janglar."
+    },
+    {
+      "id": 725,
+      "input": "\"Street Fighter V\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "2D fighting, o'yinchining qahramonlari o'rtasida kombo strategiyalari."
+    },
+    {
+      "id": 726,
+      "input": "\"Watch Dogs: Legion\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Har bir NPC o'yinchining nazoratiga olingan, ularning malakalari va xususiyatlarini boshqarish."
+    },
+    {
+      "id": 727,
+      "input": "\"Doom Eternal\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced FPS, janglar va yuqori darajadagi qurollar."
+    },
+    {
+      "id": 728,
+      "input": "\"Sid Meier's Civilization VI\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Turn-based strategy, o'yinchi xalqini rivojlantirish va tarixiy qarorlar."
+    },
+    {
+      "id": 729,
+      "input": "\"NBA 2K23\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik basketbol simulyatsiyasi, yangi harakatlar va jismoniy mexanizm."
+    },
+    {
+      "id": 730,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi alohida side questlar, jangovar tizim va hikoya tanlovlari."
+    },
+    {
+      "id": 731,
+      "input": "\"Borderlands 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Loot-shooter, qurollar va maxsus qahramonlar."
+    },
+    {
+      "id": 732,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, taktik janglar va ko'plab qurollar."
+    },
+    {
+      "id": 733,
+      "input": "\"Gran Turismo 7\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik poyga simulyatori, avtomobil sozlamalari va jismoniy mexanizm."
+    },
+    {
+      "id": 734,
+      "input": "\"Star Wars Jedi: Fallen Order\" o'yinida qanday mexanizm mavjud?",
+      "output": "Lightsaber janglari, platforming va Jedi kuchlaridan foydalanish."
+    },
+    {
+      "id": 735,
+      "input": "\"Fable II\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, tanlovga asoslangan hikoya va shaxsiy rivojlanish."
+    },
+    {
+      "id": 736,
+      "input": "\"Dark Souls II\" o'yinida qanday mexanizm mavjud?",
+      "output": "O'yinchining o'limi va qayta tug'ilishi, yuqori qiyinchilik va strategiyalar."
+    },
+    {
+      "id": 737,
+      "input": "\"Final Fantasy XV\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, real vaqt janglari va avtomobillarni boshqarish."
+    },
+    {
+      "id": 738,
+      "input": "\"Bioshock Infinite\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "First-person shooter, atmosferik voqealar va maxsus qurollar."
+    },
+    {
+      "id": 739,
+      "input": "\"Hollow Knight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platforming, Metroidvania, zindonlarni o'rganish va janglar."
+    },
+    {
+      "id": 740,
+      "input": "\"Resident Evil 3 (Remake)\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, maxsus qurollar va zombi-apokalipsisi."
+    },
+    {
+      "id": 741,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Dungeon crawler, hack-and-slash va co-op janglar."
+    },
+    {
+      "id": 742,
+      "input": "\"League of Legends\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MOBA, yangi qahramonlar va turli xil strategiyalar."
+    },
+    {
+      "id": 743,
+      "input": "\"Far Cry New Dawn\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, qurollarni sozlash va yangi kooperativ imkoniyatlar."
+    },
+    {
+      "id": 744,
+      "input": "\"Horizon Forbidden West\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Ochiq dunyo, futuristik janglar va yangi ko'nikmalar."
+    },
+    {
+      "id": 745,
+      "input": "\"The Elder Scrolls Online\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMORPG, dunyo bo'ylab sarguzashtlar va jamoaviy janglar."
+    },
+    {
+      "id": 746,
+      "input": "\"The Division 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, kooperativ o'yin mexanizmi va o'yinchining rivojlanishi."
+    },
+    {
+      "id": 747,
+      "input": "\"Hitman 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Stealth gameplay, qiyinchiliklarni oshirish va yangi missiyalar."
+    },
+    {
+      "id": 748,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack-and-slash, jangovar harakatlar va ko'plab dushmanlar."
+    },
+    {
+      "id": 749,
+      "input": "\"Call of Duty: Cold War\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "First-person shooter, yangi qurollar va o'yin mexanizmlari."
+    },
+    {
+      "id": 750,
+      "input": "\"Skyrim Special Edition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, yangi missiyalar va ko'plab xarakterlarni rivojlantirish."
+    },
+    {
+      "id": 751,
+      "input": "\"Overwatch\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Hero-based gameplay, yangi qahramonlar va jamoaviy strategiyalar."
+    },
+    {
+      "id": 752,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, jangovar tizimlar va o'yinchining tanlovlari asosida voqealar."
+    },
+    {
+      "id": 753,
+      "input": "\"Batman: Arkham Knight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, batman bilan jang qilish, maxsus qurollar va taktikalar."
+    },
+    {
+      "id": 754,
+      "input": "\"Nier: Automata\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, futuristik janglar va hikoya tanlovlariga asoslangan voqealar."
+    },
+    {
+      "id": 755,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, zindonlarni o'rganish va jangovar harakatlar."
+    },
+    {
+      "id": 756,
+      "input": "\"Marvel's Spider-Man\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, parkur harakatlari va jangovar tizimlar."
+    },
+    {
+      "id": 757,
+      "input": "\"Tales of Arise\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, turli jangovar tizimlar va o'yinchi qarorlari."
+    },
+    {
+      "id": 758,
+      "input": "\"Watch Dogs 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hack qilish mexanizmi, jamoaviy harakatlar va strategiyalar."
+    },
+    {
+      "id": 759,
+      "input": "\"Star Wars: Knights of the Old Republic\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, Jedi va Sith kuchlaridan foydalanish, va voqealarga ta'sir ko'rsatish."
+    },
+    {
+      "id": 760,
+      "input": "\"The Forest\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, resurslarni yig'ish va yashirincha yashash mexanizmi."
+    },
+    {
+      "id": 761,
+      "input": "\"Bioshock\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, atmosferik o'yin va maxsus qurollar."
+    },
+    {
+      "id": 762,
+      "input": "\"Hitman: Absolution\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth gameplay, maqsadli o'ldirish va maxsus harakatlar."
+    },
+    {
+      "id": 763,
+      "input": "\"Call of Duty: Infinite Warfare\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Futuristik FPS, yangi qurollar va kosmik janglar."
+    },
+    {
+      "id": 764,
+      "input": "\"Gears 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Taktik kooperativ janglar, yangi dushmanlar va qurollar."
+    },
+    {
+      "id": 765,
+      "input": "\"For Honor\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik o'rtasida janglar, har bir jangchi uchun alohida harakatlar va strategiyalar."
+    },
+    {
+      "id": 766,
+      "input": "\"Destiny 2: Forsaken\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMOFPS, yangi missiyalar, qahramonlar va jangovar strategiyalar."
+    },
+    {
+      "id": 767,
+      "input": "\"Assassin's Creed: Origins\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar strategiyalar, va tarixiy muhitni o'rganish."
+    },
+    {
+      "id": 768,
+      "input": "\"Nioh 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, yapon jangovar san'ati va maxsus kuchlardan foydalanish."
+    },
+    {
+      "id": 769,
+      "input": "\"Witcher 2: Assassins of Kings\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, qahramonning tanlovlariga asoslangan hikoya va harakatlar."
+    },
+    {
+      "id": 770,
+      "input": "\"Monster Hunter Rise\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, yangi qurollar va boshqaruv mexanizmlari."
+    },
+    {
+      "id": 771,
+      "input": "\"Farming Simulator 22\" o'yinida qanday mexanizm mavjud?",
+      "output": "Qishloq xo'jaligi simulyatori, yerni ishlov berish va mahsulot yetishtirish."
+    },
+    {
+      "id": 772,
+      "input": "\"Madden NFL 21\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, yangi harakatlar va taktika."
+    },
+    {
+      "id": 773,
+      "input": "\"Dragon Quest Builders 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Sandbox, qurilish mexanizmi va sarguzashtlar."
+    },
+    {
+      "id": 774,
+      "input": "\"Overcooked! 2\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Kooperativ o'yin, ovqat tayyorlashda jamoaviy harakatlar va tezkorlik."
+    },
+    {
+      "id": 775,
+      "input": "\"Rainbow Six Siege\" o'yinida qanday mexanizm mavjud?",
+      "output": "Taktik FPS, jamoaviy strategiya va o'yinchi malakalari."
+    },
+    {
+      "id": 776,
+      "input": "\"Minecraft: Story Mode\" o'yinida qanday mexanizm mavjud?",
+      "output": "O'yin hikoya asosida, tanlovlar va zindonlarni o'rganish."
+    },
+    {
+      "id": 777,
+      "input": "\"Street Fighter IV\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo tizimi va har bir jangchi uchun maxsus harakatlar."
+    },
+    {
+      "id": 778,
+      "input": "\"Mass Effect 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, turli xil tanlovlar va qarorlar, har bir voqea o'yinchiga ta'sir qiladi."
+    },
+    {
+      "id": 779,
+      "input": "\"Outward\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, ochiq dunyo, survival mexanizmlari va o'zaro yordam."
+    },
+    {
+      "id": 780,
+      "input": "\"The Surge 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, qayta qurilgan mexanizmlar va robotlarga qarshi janglar."
+    },
+    {
+      "id": 781,
+      "input": "\"Tetris Effect\" o'yinida qanday mexanizm mavjud?",
+      "output": "Puzzle, Tetrisning yangi versiyasi, vizual va musiqa aspektlari bilan bezatilgan."
+    },
+    {
+      "id": 782,
+      "input": "\"World War 3\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "MMOFPS, jahon miqyosida jamoaviy janglar va strategik o'yin."
+    },
+    {
+      "id": 783,
+      "input": "\"Left 4 Dead 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, jamoaviy kooperativ janglar va strategiya."
+    },
+    {
+      "id": 784,
+      "input": "\"The Last of Us\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival, stealth va maxsus qurollardan foydalanish."
+    },
+    {
+      "id": 785,
+      "input": "\"Assassin's Creed: Valhalla\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Vikinglar bilan jang, jangovar tizim va ko'plab sarguzashtlar."
+    },
+    {
+      "id": 786,
+      "input": "\"Hades\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike, o'zaro tasodifiy dushmanlar va yangi kuchlarni topish."
+    },
+    {
+      "id": 787,
+      "input": "\"Forza Horizon 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, poygalar va avtomobil sozlamalarini o'zgartirish."
+    },
+    {
+      "id": 788,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, jangovar tizim va stealth harakatlar."
+    },
+    {
+      "id": 789,
+      "input": "\"Cuphead\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D platformer, ko'plab dushmanlar va maxsus kombo hujumlari."
+    },
+    {
+      "id": 790,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, o'q otish janglari, hayvonlar bilan aloqada bo'lish va hikoya tanlovlari."
+    },
+    {
+      "id": 791,
+      "input": "\"Spelunky\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike, platforming va resurslarni yig'ish."
+    },
+    {
+      "id": 792,
+      "input": "\"Stardew Valley\" o'yinida qanday mexanizm mavjud?",
+      "output": "Farming simulyatori, qishloq xo'jaligi va ijtimoiy hayot."
+    },
+    {
+      "id": 793,
+      "input": "\"XCOM 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, harbiy birliklarni boshqarish va dushmanlarni mag'lub etish."
+    },
+    {
+      "id": 794,
+      "input": "\"FIFA 22\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, harakatlar va taktikalar."
+    },
+    {
+      "id": 795,
+      "input": "\"Tomb Raider\" o'yinida qanday mexanizm mavjud?",
+      "output": "Zindonlarni o'rganish, janglar va yashirincha harakatlar."
+    },
+    {
+      "id": 796,
+      "input": "\"Monster Hunter World: Iceborne\" o'yinida qanday mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, yangi qurollar va qiyinchiliklar."
+    },
+    {
+      "id": 797,
+      "input": "\"The Sims 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, shaxsiy rivojlanish va ijtimoiy munosabatlar."
+    },
+    {
+      "id": 798,
+      "input": "\"Call of Duty: Warzone\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, jamoaviy strategiyalar va jangovar tizimlar."
+    },
+    {
+      "id": 799,
+      "input": "\"Destiny 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMOFPS, o'yinchilarni turli misiyalar va dushmanlar bilan yuborish."
+    },
+    {
+      "id": 800,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbol o'yini, lekin avtomobillarda o'ynanadi, yangi strategiyalar va taktikalar."
+    },
+    {
+      "id": 801,
+      "input": "\"Hunt: Showdown\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, janglar va maxsus ovchilarning bir-biriga qarshi kurashi."
+    },
+    {
+      "id": 802,
+      "input": "\"Dying Light 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, parkur harakatlari va hayotiy survival mexanizmi."
+    },
+    {
+      "id": 803,
+      "input": "\"Dead by Daylight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Asimmetrik multiplayer, bir o'ldiruvchi va bir nechta qurbonlar o'rtasidagi kurash."
+    },
+    {
+      "id": 804,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo tizimi va o'zgacha maxsus hujumlar."
+    },
+    {
+      "id": 805,
+      "input": "\"Borderlands 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Loot-shooter, jangovar tizimlar va yangi qurollar."
+    },
+    {
+      "id": 806,
+      "input": "\"Noita\" o'yinida qanday mexanizm mavjud?",
+      "output": "Physics-based roguelike, tasodifiy yaratish mexanizmi va janglar."
+    },
+    {
+      "id": 807,
+      "input": "\"Civilization V\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, millatni rivojlantirish va xalqaro diplomatiya."
+    },
+    {
+      "id": 808,
+      "input": "\"The Division\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, kooperativ o'yin va jamoaviy taktikalar."
+    },
+    {
+      "id": 809,
+      "input": "\"CyberConnect2's Naruto Shippuden: Ultimate Ninja Storm 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "3D fighting, jahon miqyosidagi ninja janglari va maxsus texnikalar."
+    },
+    {
+      "id": 810,
+      "input": "\"F1 2021\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik Formula 1 poygalari, avtomobil sozlamalari va strategiyalar."
+    },
+    {
+      "id": 811,
+      "input": "\"The Crew 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, poygalar va avtomobillarni boshqarish, samolyot va kemalarni boshqarish."
+    },
+    {
+      "id": 812,
+      "input": "\"Battlefield V\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, turli jangovar joylar va kooperativ o'yin mexanizmlari."
+    },
+    {
+      "id": 813,
+      "input": "\"Dead Space\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, o'liklar va dahshatli dushmanlar bilan jang qilish."
+    },
+    {
+      "id": 814,
+      "input": "\"Metal Gear Solid V: The Phantom Pain\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world stealth, strategiya va resurslarni yig'ish."
+    },
+    {
+      "id": 815,
+      "input": "\"Persona 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, simulyatsiya va ijtimoiy munosabatlar."
+    },
+    {
+      "id": 816,
+      "input": "\"Ghost of Tsushima\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, samuray janglari va yashirincha harakatlar."
+    },
+    {
+      "id": 817,
+      "input": "\"The Legend of Zelda: Breath of the Wild\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, parkur va yangi jangovar mexanizm."
+    },
+    {
+      "id": 818,
+      "input": "\"The Witcher 3: Wild Hunt - Blood and Wine\" o'yinida qanday yangi mexanizm mavjud?",
+      "output": "Yangi hudud, yangi dushmanlar va maxsus qahramonlar."
+    },
+    {
+      "id": 819,
+      "input": "\"Yakuza 0\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, jangovar tizimlar va hikoyaga asoslangan sarguzashtlar."
+    },
+    {
+      "id": 820,
+      "input": "\"Dead Island\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, zombi apokalipsisi va jangovar strategiyalar."
+    },
+    {
+      "id": 821,
+      "input": "\"Wasteland 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, jamoaviy kurash va tanlovlarga asoslangan hikoya."
+    },
+    {
+      "id": 822,
+      "input": "\"Star Wars Battlefront II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, ko'plab rejimlar va jamoaviy janglar."
+    },
+    {
+      "id": 823,
+      "input": "\"Dragon Ball FighterZ\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo tizimi va maxsus qahramonlar."
+    },
+    {
+      "id": 824,
+      "input": "\"Fallout 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, turli xil qurollar va resurslar bilan hayotni davom ettirish."
+    },
+    {
+      "id": 825,
+      "input": "\"Gears of War 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, turli xil dushmanlar va qurollar."
+    },
+    {
+      "id": 826,
+      "input": "\"Hitman 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth gameplay, maqsadli o'ldirish va taktikalar."
+    },
+    {
+      "id": 827,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik RPG, tarixiy o'yin va jangovar tizimlar."
+    },
+    {
+      "id": 828,
+      "input": "\"Just Cause 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, havodagi janglar va maxsus qurollar."
+    },
+    {
+      "id": 829,
+      "input": "\"Red Dead Redemption\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, o'q otish janglari, hayvonlarni ovlash va hikoya asosida tanlovlar."
+    },
+    {
+      "id": 830,
+      "input": "\"Doom (2016)\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced FPS, jangovar tizimlar va yuqori darajadagi qurollar."
+    },
+    {
+      "id": 831,
+      "input": "\"Final Fantasy VII Remake\" o'yinida qanday mexanizm mavjud?",
+      "output": "Real vaqt janglari, yangi hikoya va o'yinchi tanlovlari."
+    },
+    {
+      "id": 832,
+      "input": "\"Outlast 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, stealth va dahshatli atmosferaga asoslangan o'yin."
+    },
+    {
+      "id": 833,
+      "input": "\"Vampire: The Masquerade - Bloodlines 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, ijtimoiy va ma'naviy qarorlar bilan o'ynash."
+    },
+    {
+      "id": 834,
+      "input": "\"Nier: Replicant ver.1.22474487139...\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, yangi jangovar tizimlar va hikoya asosida o'ynash."
+    },
+    {
+      "id": 835,
+      "input": "\"Watch Dogs: Legion - Bloodline\" o'yinida qanday mexanizm mavjud?",
+      "output": "Har bir NPC boshqarilishi, yangi malakalar va ko'plab vazifalar."
+    },
+    {
+      "id": 836,
+      "input": "\"Mafia III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, 3rd person shooter va huquqiy masalalar."
+    },
+    {
+      "id": 837,
+      "input": "\"Control\" o'yinida qanday mexanizm mavjud?",
+      "output": "Metroidvania, realistik harakatlar va ko'plab sirlar."
+    },
+    {
+      "id": 838,
+      "input": "\"Monster Hunter: World\" o'yinida qanday mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, maxsus jangovar usullar va qurollar."
+    },
+    {
+      "id": 839,
+      "input": "\"Farming Simulator 19\" o'yinida qanday mexanizm mavjud?",
+      "output": "Qishloq xo'jaligi simulyatori, fermani rivojlantirish va resurslarni boshqarish."
+    },
+    {
+      "id": 840,
+      "input": "\"The Outer Worlds\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person RPG, turli xil qarorlar va hikoya tanlovlari."
+    },
+    {
+      "id": 841,
+      "input": "\"Control: Ultimate Edition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Aksiyon, Metroidvania uslubida o'yin va sirli muhitni o'rganish."
+    },
+    {
+      "id": 842,
+      "input": "\"Battlefield 1\" o'yinida qanday mexanizm mavjud?",
+      "output": "World War I asosidagi FPS, jamoaviy janglar va transport vositalarini boshqarish."
+    },
+    {
+      "id": 843,
+      "input": "\"Far Cry 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world FPS, stealth va jangovar harakatlar, diniy kultga qarshi kurash."
+    },
+    {
+      "id": 844,
+      "input": "\"Resident Evil Village\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, o'q otish va qo'riqlash mexanizmlari."
+    },
+    {
+      "id": 845,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, jangovar tizimlar, sarguzashtlar va magiya."
+    },
+    {
+      "id": 846,
+      "input": "\"Metro Exodus\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, hikoya asosidagi survival, resurslarni yig'ish."
+    },
+    {
+      "id": 847,
+      "input": "\"Diablo III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, looter-shooter mexanizmi, tasodifiy zindonlar."
+    },
+    {
+      "id": 848,
+      "input": "\"Rising Storm 2: Vietnam\" o'yinida qanday mexanizm mavjud?",
+      "output": "Tactical FPS, kooperativ o'yin va jangovar strategiyalar."
+    },
+    {
+      "id": 849,
+      "input": "\"Call of Duty: Black Ops Cold War\" o'yinida qanday mexanizm mavjud?",
+      "output": "Cold War davri asosida FPS, ko'p foydalanuvchi rejimlar va yangi qurollar."
+    },
+    {
+      "id": 850,
+      "input": "\"Dark Souls III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, qiyinchilik, strategiya va jangovar tizimlar."
+    },
+    {
+      "id": 851,
+      "input": "\"Final Fantasy XV\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, real vaqt janglari va jangovar qo'shimchalar."
+    },
+    {
+      "id": 852,
+      "input": "\"Assassin's Creed Odyssey\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, RPG, janglar va tarixiy voqealarga asoslangan missiyalar."
+    },
+    {
+      "id": 853,
+      "input": "\"Super Mario Odyssey\" o'yinida qanday mexanizm mavjud?",
+      "output": "3D platformer, yangi o'ynash mexanizmlari va sarguzashtlar."
+    },
+    {
+      "id": 854,
+      "input": "\"Shenmue III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, hikoyaga asoslangan va jangovar tizimlar."
+    },
+    {
+      "id": 855,
+      "input": "\"Little Nightmares II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platforming, stealth va qorqinchli atmosferada yashash."
+    },
+    {
+      "id": 856,
+      "input": "\"Assassin's Creed Black Flag\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, dengiz janglari va yashirincha kurashlar."
+    },
+    {
+      "id": 857,
+      "input": "\"Tales of Vesperia: Definitive Edition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, jangovar tizim va hikoyaga asoslangan tanlovlar."
+    },
+    {
+      "id": 858,
+      "input": "\"The Legend of Zelda: Link's Awakening\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D platformer, zindonlarni o'rganish va topish-tadqiqot mexanizmlari."
+    },
+    {
+      "id": 859,
+      "input": "\"Dragon Age: Inquisition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, taktika asosidagi janglar va ma'naviy tanlovlar."
+    },
+    {
+      "id": 860,
+      "input": "\"Horizon Forbidden West\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, parkur va janglar, yovvoyi hayvonlarni ovlash."
+    },
+    {
+      "id": 861,
+      "input": "\"Cyberpunk 2077\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, hikoyaga asoslangan va interaktiv tanlovlar."
+    },
+    {
+      "id": 862,
+      "input": "\"Luigi's Mansion 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, yovvoyi ruhlar bilan kurashish va sirlarni yechish."
+    },
+    {
+      "id": 863,
+      "input": "\"Overwatch\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, jamoaviy strategiya va yangi qahramonlar."
+    },
+    {
+      "id": 864,
+      "input": "\"Monster Hunter Generations Ultimate\" o'yinida qanday mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, yangi qurollar va boshqaruv mexanizmlari."
+    },
+    {
+      "id": 865,
+      "input": "\"Kingdom Hearts III\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, fantaziya va jangovar tizimlar, maxsus texnikalar."
+    },
+    {
+      "id": 866,
+      "input": "\"No Man's Sky\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world survival, koinotni o'rganish, resurslar yig'ish va qurilish."
+    },
+    {
+      "id": 867,
+      "input": "\"F1 2020\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik Formula 1 poygalari, avtomobil sozlamalari va poyga strategiyasi."
+    },
+    {
+      "id": 868,
+      "input": "\"Watch Dogs 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hacking mexanizmi, jamoaviy harakatlar va strategiya."
+    },
+    {
+      "id": 869,
+      "input": "\"BioShock Infinite\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, hikoyaga asoslangan, maxsus qurollar va texnologiyalar."
+    },
+    {
+      "id": 870,
+      "input": "\"L.A. Noire\" o'yinida qanday mexanizm mavjud?",
+      "output": "Detektiv simulyatori, tergov va hikoyaga asoslangan qarorlar."
+    },
+    {
+      "id": 871,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, jangovar tizimlar, og'ir qarorlar va hikoyalar."
+    },
+    {
+      "id": 872,
+      "input": "\"Uncharted 4: A Thief's End\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action-adventure, platforming va ochiq dunyo sarguzashtlari."
+    },
+    {
+      "id": 873,
+      "input": "\"Grand Theft Auto V\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, poyga, janglar va yuqori darajadagi sozlamalar."
+    },
+    {
+      "id": 874,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, harakat va stealth mexanizmlari, yapon samuray janglari."
+    },
+    {
+      "id": 875,
+      "input": "\"The Last of Us Part II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, jangovar tizimlar va hikoyaga asoslangan tanlovlar."
+    },
+    {
+      "id": 876,
+      "input": "\"Resident Evil 2 Remake\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, zombi apokalipsisi va resurslarni yig'ish mexanizmi."
+    },
+    {
+      "id": 877,
+      "input": "\"Dark Souls II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, qiyinchilik, strategik janglar va o'limga toqat qilish."
+    },
+    {
+      "id": 878,
+      "input": "\"GTA Online\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo multiplayer, turli xil vazifalar, jamoa tuzish."
+    },
+    {
+      "id": 879,
+      "input": "\"Minecraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival, crafting va resurslarni yig'ish mexanizmi."
+    },
+    {
+      "id": 880,
+      "input": "\"Call of Duty: Modern Warfare\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik FPS, ko'plab multiplayer rejimlari va jangovar tizimlar."
+    },
+    {
+      "id": 881,
+      "input": "\"Apex Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, jamoaviy o'yin va maxsus qahramonlar."
+    },
+    {
+      "id": 882,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, hayvonlar bilan aloqada bo'lish, hikoya va qarorlar."
+    },
+    {
+      "id": 883,
+      "input": "\"FIFA 21\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik futbol simulyatsiyasi, taktikalar va o'yinchi malakasi."
+    },
+    {
+      "id": 884,
+      "input": "\"Mortal Kombat X\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo tizimi va o'ziga xos maxsus hujumlar."
+    },
+    {
+      "id": 885,
+      "input": "\"Horizon Zero Dawn\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, resurslarni yig'ish, yovvoyi hayvonlarni ovlash."
+    },
+    {
+      "id": 886,
+      "input": "\"The Sims 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, ijtimoiy munosabatlar va shaxsiy rivojlanish."
+    },
+    {
+      "id": 887,
+      "input": "\"Hunt: Showdown\" o'yinida qanday mexanizm mavjud?",
+      "output": "Asimmetrik multiplayer, bir nechta o'yinchilar o'rtasida ov va janglar."
+    },
+    {
+      "id": 888,
+      "input": "\"Battlefield V\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, jamoaviy janglar va harbiy strategiyalar."
+    },
+    {
+      "id": 889,
+      "input": "\"Monster Hunter World\" o'yinida qanday mexanizm mavjud?",
+      "output": "Yovvoyi hayvonlarni ovlash, yangi qurollar va kooperativ janglar."
+    },
+    {
+      "id": 890,
+      "input": "\"Fallout 76\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, multiplayer RPG va resurslarni yig'ish."
+    },
+    {
+      "id": 891,
+      "input": "\"Tomb Raider: Definitive Edition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Zindonlarni o'rganish, janglar va yashirincha harakatlar."
+    },
+    {
+      "id": 892,
+      "input": "\"Overwatch 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "FPS, ko'plab qahramonlar va jamoaviy kurash mexanizmlari."
+    },
+    {
+      "id": 893,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday mexanizm mavjud?",
+      "output": "Dungeon crawling, hack-and-slash va kooperativ multiplayer."
+    },
+    {
+      "id": 894,
+      "input": "\"Sea of Thieves\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, dengiz janglari va o'zaro kurash mexanizmlari."
+    },
+    {
+      "id": 895,
+      "input": "\"Death Stranding\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, transport mexanizmlari va hayotiy resurslar bilan ishlash."
+    },
+    {
+      "id": 896,
+      "input": "\"Persona 5 Royal\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, maxfiy dunyo va o'yinchi tanlovlariga asoslangan hikoya."
+    },
+    {
+      "id": 897,
+      "input": "\"The Elder Scrolls Online\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMORPG, jangovar tizimlar va kooperativ sarguzashtlar."
+    },
+    {
+      "id": 898,
+      "input": "\"Wasteland 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, harbiy birliklar va hikoya asosidagi qarorlar."
+    },
+    {
+      "id": 899,
+      "input": "\"Cuphead\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D platformer, kombo janglar va maxsus qahramonlar."
+    },
+    {
+      "id": 900,
+      "input": "\"Dying Light\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, parkur harakatlari va zombi janglari."
+    },
+    {
+      "id": 901,
+      "input": "\"Battlefield 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, dinamik janglar va keng ko'lamli xaritalar."
+    },
+    {
+      "id": 902,
+      "input": "\"Skyrim Special Edition\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, jangovar tizimlar va o'zgartirilgan hududlar."
+    },
+    {
+      "id": 903,
+      "input": "\"The Last of Us Remastered\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, resurslarni yig'ish va hikoyaga asoslangan qarorlar."
+    },
+    {
+      "id": 904,
+      "input": "\"Doom Eternal\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced FPS, jangovar tizimlar va yuqori darajadagi qurollar."
+    },
+    {
+      "id": 905,
+      "input": "\"Hitman 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, maqsadli o'ldirish va taktikalar."
+    },
+    {
+      "id": 906,
+      "input": "\"Shadow of the Tomb Raider\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, zindonlarni o'rganish va jangovar kurash."
+    },
+    {
+      "id": 907,
+      "input": "\"Call of Duty: Warzone\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, jamoaviy o'yin va strategik qarorlar."
+    },
+    {
+      "id": 908,
+      "input": "\"Watch Dogs 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hacking, jamoaviy harakatlar va strategiya."
+    },
+    {
+      "id": 909,
+      "input": "\"Assassin's Creed Syndicate\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, jangovar tizimlar va o'zaro kurashlar."
+    },
+    {
+      "id": 910,
+      "input": "\"Mass Effect 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Sci-fi RPG, janglar va o'yinchi tanlovlariga asoslangan hikoyalar."
+    },
+    {
+      "id": 911,
+      "input": "\"Madden NFL 21\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbol simulyatori, taktikalar va o'yinchi malakasi."
+    },
+    {
+      "id": 912,
+      "input": "\"Red Dead Redemption Online\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo multiplayer, jangovar harakatlar va resurslarni boshqarish."
+    },
+    {
+      "id": 913,
+      "input": "\"F1 2021\" o'yinida qanday mexanizm mavjud?",
+      "output": "Formula 1 poygalarini realistik tarzda o'ynash, poyga strategiyasi."
+    },
+    {
+      "id": 914,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillarda o'ynash, jamoaviy kurash mexanizmi."
+    },
+    {
+      "id": 915,
+      "input": "\"Final Fantasy VII Remake Intergrade\" o'yinida qanday mexanizm mavjud?",
+      "output": "Real vaqt janglari, yangi hikoya va taktikalar."
+    },
+    {
+      "id": 916,
+      "input": "\"For Honor\" o'yinida qanday mexanizm mavjud?",
+      "output": "Medieval warrior combat, jamoaviy janglar va strategiyalar."
+    },
+    {
+      "id": 917,
+      "input": "\"The Division 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, open-world va kooperativ multiplayer."
+    },
+    {
+      "id": 918,
+      "input": "\"CyberConnect2's Naruto Shippuden: Ultimate Ninja Storm 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "3D fighting, fantastik janglar va maxsus hujumlar."
+    },
+    {
+      "id": 919,
+      "input": "\"Grand Theft Auto: San Andreas\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, jangovar tizimlar, poyga va ijtimoiy munosabatlar."
+    },
+    {
+      "id": 920,
+      "input": "\"Spartan Total Warrior\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action hack-and-slash, jahon janglari va strategiya."
+    },
+    {
+      "id": 921,
+      "input": "\"The Crew 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, transport vositalarini boshqarish va poyga mexanizmi."
+    },
+    {
+      "id": 922,
+      "input": "\"Need for Speed Heat\" o'yinida qanday mexanizm mavjud?",
+      "output": "Poyga, ko'plab transport vositalari va yangilash mexanizmlari."
+    },
+    {
+      "id": 923,
+      "input": "\"Watch Dogs: Legion\" o'yinida qanday mexanizm mavjud?",
+      "output": "NPC boshqaruvi, ko'plab yangi qahramonlar va jamoaviy kurashlar."
+    },
+    {
+      "id": 924,
+      "input": "\"Far Cry New Dawn\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, janglar, resurslarni yig'ish va qo'shinlar bilan kurash."
+    },
+    {
+      "id": 925,
+      "input": "\"FIFA 20\" o'yinida qanday mexanizm mavjud?",
+      "output": "Realistik futbol simulyatori, yangi rejimlar va o'yinchilarni boshqarish."
+    },
+    {
+      "id": 926,
+      "input": "\"The Binding of Isaac\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike dungeon crawling, maxsus o'limlar va o'yinchi tanlovlari."
+    },
+    {
+      "id": 927,
+      "input": "\"Subnautica\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival, dengiz osti dunyosini o'rganish va qurilish."
+    },
+    {
+      "id": 928,
+      "input": "\"The Witcher 2: Assassins of Kings\" o'yinida qanday mexanizm mavjud?",
+      "output": "RPG, jangovar tizimlar, hikoya va qarorlar."
+    },
+    {
+      "id": 929,
+      "input": "\"Dragon Age: Origins\" o'yinida qanday mexanizm mavjud?",
+      "output": "Tactical RPG, janglar va strategiya asosida qarorlar."
+    },
+    {
+      "id": 930,
+      "input": "\"Elden Ring\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, jangovar tizimlar, o'zgaruvchan dunyo va boss janglari."
+    },
+    {
+      "id": 931,
+      "input": "\"Diablo IV\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, looter-shooter mexanizmi, tasodifiy dunyolar."
+    },
+    {
+      "id": 932,
+      "input": "\"Overcooked 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Kooperativ multiplayer, kulgili oshxona vazifalari va tezkor harakatlar."
+    },
+    {
+      "id": 933,
+      "input": "\"Destiny 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, PvE va PvP rejimlari, kooperativ missiyalar."
+    },
+    {
+      "id": 934,
+      "input": "\"Planet Coaster\" o'yinida qanday mexanizm mavjud?",
+      "output": "Park qurilishi simulyatori, o'yinchilar uchun turli xil qurilish elementlari."
+    },
+    {
+      "id": 935,
+      "input": "\"Persona 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, maxfiy dunyo va qarorlar asosidagi hikoya."
+    },
+    {
+      "id": 936,
+      "input": "\"Dead Space\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival horror, o'q otish va qo'riqlash mexanizmlari."
+    },
+    {
+      "id": 937,
+      "input": "\"Watch Dogs: Legion\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world, NPC boshqaruvi va jamoaviy strategiyalar."
+    },
+    {
+      "id": 938,
+      "input": "\"Lords Mobile\" o'yinida qanday mexanizm mavjud?",
+      "output": "Mobil strategiya, shahar qurilishi, qo'shinlarni boshqarish."
+    },
+    {
+      "id": 939,
+      "input": "\"Battlefront II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Star Wars asosidagi FPS, jamoaviy janglar va ko'plab transport vositalari."
+    },
+    {
+      "id": 940,
+      "input": "\"Total War: Three Kingdoms\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategiya, janglar va davlat boshqaruvi."
+    },
+    {
+      "id": 941,
+      "input": "\"Civilization VI\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategiya, sivilizatsiya qurilishi va diplomatiya."
+    },
+    {
+      "id": 942,
+      "input": "\"Farming Simulator 19\" o'yinida qanday mexanizm mavjud?",
+      "output": "Simulyatsiya, qishloq xo'jaligi va resurslarni boshqarish."
+    },
+    {
+      "id": 943,
+      "input": "\"Fall Guys: Ultimate Knockout\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, ko'p foydalanuvchi rejimi va kulgili platformer."
+    },
+    {
+      "id": 944,
+      "input": "\"The Crew\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobil poygalari va jamoaviy o'yin."
+    },
+    {
+      "id": 945,
+      "input": "\"Star Wars Jedi: Fallen Order\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action-adventure, lightsaber janglari va o'ziga xos sarguzashtlar."
+    },
+    {
+      "id": 946,
+      "input": "\"Sekiro: Shadows Die Twice\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, qiyinchilikka asoslangan janglar va stealth mexanizmlari."
+    },
+    {
+      "id": 947,
+      "input": "\"Assassin's Creed Valhalla\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar tizimlar va Viking madaniyatiga asoslangan sarguzashtlar."
+    },
+    {
+      "id": 948,
+      "input": "\"Control\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action-adventure, telekinezis va maxsus qurollar."
+    },
+    {
+      "id": 949,
+      "input": "\"NBA 2K20\" o'yinida qanday mexanizm mavjud?",
+      "output": "Basketball simulyatori, sport o'yinlari va raqobatbardosh o'yinlar."
+    },
+    {
+      "id": 950,
+      "input": "\"Borderlands 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person looter-shooter, ko'plab qurollar va yangi qahramonlar."
+    },
+    {
+      "id": 951,
+      "input": "\"Gears 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, kooperativ multiplayer va strategik janglar."
+    },
+    {
+      "id": 952,
+      "input": "\"Sims 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, ijtimoiy munosabatlar va xohish-istaklarni qondirish."
+    },
+    {
+      "id": 953,
+      "input": "\"Kingdom Come: Deliverance\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, tarixiy sarguzashtlar va janglar."
+    },
+    {
+      "id": 954,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillarda o'ynash, jamoaviy kurash mexanizmi."
+    },
+    {
+      "id": 955,
+      "input": "\"Cities: Skylines\" o'yinida qanday mexanizm mavjud?",
+      "output": "Shahar qurish simulyatori, infratuzilma boshqaruvi va resurslarni taqsimlash."
+    },
+    {
+      "id": 956,
+      "input": "\"Hitman 3\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, maqsadli o'ldirish va yuqori darajadagi jamoaviy harakatlar."
+    },
+    {
+      "id": 957,
+      "input": "\"Forza Horizon 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo avtomobil poygalari, turli xil mashinalar va poyga rejimlari."
+    },
+    {
+      "id": 958,
+      "input": "\"Dark Souls Remastered\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, qiyinchilik, o'limga toqat qilish va jangovar tizimlar."
+    },
+    {
+      "id": 959,
+      "input": "\"The Witcher 3: Wild Hunt\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, jangovar tizimlar, qarorlar va hikoya asosidagi sarguzashtlar."
+    },
+    {
+      "id": 960,
+      "input": "\"Valorant\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, taktik o'yin va maxsus qahramonlar."
+    },
+    {
+      "id": 961,
+      "input": "\"Starcraft II\" o'yinida qanday mexanizm mavjud?",
+      "output": "Real-time strategy, resurslarni boshqarish va jangovar tizimlar."
+    },
+    {
+      "id": 962,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillarda o'ynash, ko'plab poyga rejimlari va jamoaviy o'yin."
+    },
+    {
+      "id": 963,
+      "input": "\"Fortnite\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, qurilish mexanizmi va ko'plab qahramonlar."
+    },
+    {
+      "id": 964,
+      "input": "\"World of Warcraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMORPG, janglar, missiyalar va o'zaro hamkorlik."
+    },
+    {
+      "id": 965,
+      "input": "\"Unravel Two\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, kooperativ o'yin va murakkab jumboqlar."
+    },
+    {
+      "id": 966,
+      "input": "\"Warframe\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person looter-shooter, ko'plab jangovar imkoniyatlar va o'zgaruvchan dunyo."
+    },
+    {
+      "id": 967,
+      "input": "\"Call of Duty: Black Ops Cold War\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person shooter, ko'plab multiplayer rejimlari va yangi taktikalar."
+    },
+    {
+      "id": 968,
+      "input": "\"Dead by Daylight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Asimmetrik multiplayer, bir nechta o'yinchi va bir qotilga qarshi kurash."
+    },
+    {
+      "id": 969,
+      "input": "\"Bloodborne\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, tezkor janglar va g'ayritabiiy dunyo."
+    },
+    {
+      "id": 970,
+      "input": "\"Minecraft Dungeons\" o'yinida qanday mexanizm mavjud?",
+      "output": "Dungeon crawling, hack-and-slash va kooperativ multiplayer."
+    },
+    {
+      "id": 971,
+      "input": "\"Animal Crossing: New Horizons\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, qishloq xo'jaligi, resurslarni yig'ish va qurish."
+    },
+    {
+      "id": 972,
+      "input": "\"Minecraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "Survival, resurslarni yig'ish, qurish va o'ziga xos dunyo yaratish."
+    },
+    {
+      "id": 973,
+      "input": "\"Cyberpunk 2077\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world RPG, interaktiv hikoya va futuristik jangovar tizimlar."
+    },
+    {
+      "id": 974,
+      "input": "\"Far Cry 5\" o'yinida qanday mexanizm mavjud?",
+      "output": "Open-world FPS, janglar, eksploratsiya va resurslarni yig'ish."
+    },
+    {
+      "id": 975,
+      "input": "\"Tekken 7\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting, kombo janglari va maxsus hujumlar."
+    },
+    {
+      "id": 976,
+      "input": "\"Madden NFL 21\" o'yinida qanday mexanizm mavjud?",
+      "output": "Sport simulyatori, futbol o'yini va o'yinchi boshqaruvi."
+    },
+    {
+      "id": 977,
+      "input": "\"Worms Battlegrounds\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based strategy, jamoaviy janglar va maxsus qurollar."
+    },
+    {
+      "id": 978,
+      "input": "\"Hollow Knight\" o'yinida qanday mexanizm mavjud?",
+      "output": "Metroidvania, platforming va janglar."
+    },
+    {
+      "id": 979,
+      "input": "\"Hitman\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, maqsadli o'ldirish va strategik harakatlar."
+    },
+    {
+      "id": 980,
+      "input": "\"Ghost of Tsushima\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action-adventure, samuray janglari, hikoya va parkur mexanizmi."
+    },
+    {
+      "id": 981,
+      "input": "\"Tales of Vesperia\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, janglar, sarguzashtlar va o'yinchi tanlovlari."
+    },
+    {
+      "id": 982,
+      "input": "\"Assassin's Creed Odyssey\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, jangovar tizimlar, tarixiy sarguzashtlar va qarorlar."
+    },
+    {
+      "id": 983,
+      "input": "\"Assassin's Creed Black Flag\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, dengiz janglari va piratlik sarguzashtlari."
+    },
+    {
+      "id": 984,
+      "input": "\"Borderlands 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Looter-shooter, ko'plab qurollar, jangovar tizimlar va hikoya."
+    },
+    {
+      "id": 985,
+      "input": "\"Rocket League\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbolni avtomobillarda o'ynash, tezkor poyga rejimlari va jamoaviy o'yin."
+    },
+    {
+      "id": 986,
+      "input": "\"NBA 2K21\" o'yinida qanday mexanizm mavjud?",
+      "output": "Basketball simulyatori, realistik o'yin mexanizmlari va sport raqobati."
+    },
+    {
+      "id": 987,
+      "input": "\"Apex Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, jamoaviy janglar va maxsus qahramonlar."
+    },
+    {
+      "id": 988,
+      "input": "\"Scribblenauts Unlimited\" o'yinida qanday mexanizm mavjud?",
+      "output": "Puzzle-solving, yaratuvchanlik va o'yinchi tanlovlari."
+    },
+    {
+      "id": 989,
+      "input": "\"SimCity 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Shahar qurish simulyatori, infratuzilma boshqaruvi va resurslarni taqsimlash."
+    },
+    {
+      "id": 990,
+      "input": "\"Minecraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, qurilish va resurslarni yig'ish mexanizmi."
+    },
+    {
+      "id": 991,
+      "input": "\"World of Warcraft\" o'yinida qanday mexanizm mavjud?",
+      "output": "MMORPG, jangovar tizimlar va kengaytirilgan missiyalar."
+    },
+    {
+      "id": 992,
+      "input": "\"The Elder Scrolls V: Skyrim\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo RPG, janglar, missiyalar va qarorlar asosidagi hikoya."
+    },
+    {
+      "id": 993,
+      "input": "\"Mortal Kombat 11\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fighting game, kombo tizimlari va maxsus hujumlar."
+    },
+    {
+      "id": 994,
+      "input": "\"Super Mario Odyssey\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, o'yinchi boshqaruvi va maxsus qahramonlar."
+    },
+    {
+      "id": 995,
+      "input": "\"Star Wars Battlefront II\" o'yinida qanday mexanizm mavjud?",
+      "output": "FPS, ko'plab jangovar qurollar, transport vositalari va jamoaviy janglar."
+    },
+    {
+      "id": 996,
+      "input": "\"The Division 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, kooperativ multiplayer va o'yin dunyosini o'rganish."
+    },
+    {
+      "id": 997,
+      "input": "\"GTA V\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, avtomobil haydash, janglar va ijtimoiy interaktivlik."
+    },
+    {
+      "id": 998,
+      "input": "\"Red Dead Redemption 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, qishloq hayoti, janglar va murakkab hikoya."
+    },
+    {
+      "id": 999,
+      "input": "\"Celeste\" o'yinida qanday mexanizm mavjud?",
+      "output": "Platformer, tezkor harakatlar va jumboqlarni yechish."
+    },
+    {
+      "id": 1000,
+      "input": "\"The Sims 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Hayot simulyatori, ijtimoiy munosabatlar va yaratuvchanlik."
+    },
+    {
+      "id": 1001,
+      "input": "\"Tetris 99\" o'yinida qanday mexanizm mavjud?",
+      "output": "Battle Royale, klassik Tetris mexanizmi va raqobatbardosh o'yin."
+    },
+    {
+      "id": 1002,
+      "input": "\"Gears of War 4\" o'yinida qanday mexanizm mavjud?",
+      "output": "Third-person shooter, ko'plab janglar va jamoaviy kurash."
+    },
+    {
+      "id": 1003,
+      "input": "\"Doom Eternal\" o'yinida qanday mexanizm mavjud?",
+      "output": "Fast-paced FPS, jangovar tizimlar va yuqori darajadagi qurollar."
+    },
+    {
+      "id": 1004,
+      "input": "\"Hunt: Showdown\" o'yinida qanday mexanizm mavjud?",
+      "output": "PvP ve PvE aralashmasi, ov qilish va maxfiylik."
+    },
+    {
+      "id": 1005,
+      "input": "\"Pokémon Sword and Shield\" o'yinida qanday mexanizm mavjud?",
+      "output": "Turn-based RPG, jangovar mexanizm va o'yin dunyosini o'rganish."
+    },
+    {
+      "id": 1006,
+      "input": "\"NBA 2K20\" o'yinida qanday mexanizm mavjud?",
+      "output": "Basketball simulyatori, sport strategiyasi va o'yinchi boshqaruvi."
+    },
+    {
+      "id": 1007,
+      "input": "\"Assassin's Creed Origins\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, janglar va qadimiy Misrda sarguzashtlar."
+    },
+    {
+      "id": 1008,
+      "input": "\"Dying Light\" o'yinida qanday mexanizm mavjud?",
+      "output": "First-person survival horror, parkour mexanizmi va zombilarni o'ldirish."
+    },
+    {
+      "id": 1009,
+      "input": "\"Final Fantasy XV\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, jangovar tizimlar va ochiq dunyo sarguzashtlari."
+    },
+    {
+      "id": 1010,
+      "input": "\"Injustice 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "2D fighting game, kombo tizimlari va maxsus hujumlar."
+    },
+    {
+      "id": 1011,
+      "input": "\"Hitman 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Stealth, o'ldirish maqsadlari va strategik qarorlar."
+    },
+    {
+      "id": 1012,
+      "input": "\"Battlefield 1\" o'yinida qanday mexanizm mavjud?",
+      "output": "FPS, dinamik janglar va jamoaviy strategiyalar."
+    },
+    {
+      "id": 1013,
+      "input": "\"FIFA 22\" o'yinida qanday mexanizm mavjud?",
+      "output": "Futbol simulyatori, raqobatbardosh o'yin va sport strategiyalari."
+    },
+    {
+      "id": 1014,
+      "input": "\"L.A. Noire\" o'yinida qanday mexanizm mavjud?",
+      "output": "Detektiv o'yini, hikoya va qidiruv mexanizmlari."
+    },
+    {
+      "id": 1015,
+      "input": "\"Spelunky 2\" o'yinida qanday mexanizm mavjud?",
+      "output": "Roguelike platformer, tasodifiy dunyo va murakkab jumboqlar."
+    },
+    {
+      "id": 1016,
+      "input": "\"Horizon Zero Dawn\" o'yinida qanday mexanizm mavjud?",
+      "output": "Ochiq dunyo, RPG, robot hayvonlarga qarshi janglar."
+    },
+    {
+      "id": 1017,
+      "input": "\"Farming Simulator 22\" o'yinida qanday mexanizm mavjud?",
+      "output": "Simulyatsiya, qishloq xo'jaligi va resurslarni boshqarish."
+    },
+    {
+      "id": 1018,
+      "input": "\"Monster Hunter: World\" o'yinida qanday mexanizm mavjud?",
+      "output": "Action RPG, monster hunting va kooperativ multiplayer."
+    },
+    {
+      "id": 1019,
+      "input": "\"League of Legends\" o'yinida qanday mexanizm mavjud?",
+      "output": "MOBA, strategik janglar va jamoaviy o'yin mexanizmi."
+    }
+  ]
