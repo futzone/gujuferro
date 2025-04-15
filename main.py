@@ -1,30 +1,14 @@
-import json
-import os
+import asyncio
+from datetime import datetime
+from bot.runner import dp, bot
 
-from chatterbot import ChatBot
 
-chatbot = ChatBot(
-    "Gujuferro",
-    storage_adapter="chatterbot.storage.SQLStorageAdapter",
-    database_uri="postgresql+psycopg2://postgres:zamon@localhost/postgres"
-)
+def start_bot():
+    asyncio.run(dp.start_polling(bot))
 
-# from chatterbot.trainers import ListTrainer
-#
-# trainer = ListTrainer(chatbot)
-#
-# data_dir = "resources/json"
-#
-# for filename in os.listdir(data_dir):
-#     if filename.endswith(".json"):
-#         filepath = os.path.join(data_dir, filename)
-#         with open(filepath, "r", encoding="utf-8") as f:
-#             pairs = json.load(f)
-#             for pair in pairs:
-#                 if pair.get("input", None) is not None and pair.get("output", None) is not None:
-#                     trainer.train([pair["input"], pair["output"]])
-#         print(f"✅ Trained: {filename}")
 
-response = chatbot.get_response('Nima gaplar')
-
-print(response)
+if __name__ == "__main__":
+    try:
+        start_bot()
+    except KeyboardInterrupt:
+        print(f"=== ⚫️ Finished at {datetime.now()} ===")
