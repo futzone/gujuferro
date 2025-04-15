@@ -2,3 +2,4 @@
 /db.sqlite3
 /venv
 /resources/database/trained_files.csv
+/.env
