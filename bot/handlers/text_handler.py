@@ -1,10 +1,17 @@
 from aiogram import Bot
 from aiogram.types import Message
-from app.chat.app import get_chat_bot
+from app.chat.app import get_chat_bot, train_bot
 from app.chat.trainer import train_new_conversation
 from app.services.badword_services import check_message_for_badwords
 from bot.controller.message_controller import MessageController
 from bot.styles.text_styles import to_bold
+
+
+async def on_start_training_handler(message: Message):
+    if message.text is None or message.text != 'guju_start_training':
+        return
+    train_bot()
+    await message.reply('Training completed!')
 
 
 async def text_handler(bot: Bot, message: Message):

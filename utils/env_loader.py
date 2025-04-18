@@ -11,4 +11,4 @@ def get_bot_token() -> str:
 
 def get_badword_percent() -> int:
     percent = os.getenv('BADWORD_PERCENT')
-    return int(percent)
+    return float(percent)

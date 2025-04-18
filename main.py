@@ -1,12 +1,11 @@
 import asyncio
 from datetime import datetime
-
-from app.chat.app import train_bot
+from app.database.database import init_db
 from bot.runner import dp, bot
 
 
 def start_bot():
-    train_bot()
+    asyncio.run(init_db())
     asyncio.run(dp.start_polling(bot))
 
 
